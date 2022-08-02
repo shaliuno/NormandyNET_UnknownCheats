@@ -1,0 +1,774 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E0F6C537-E382-4056-8870-720F09BC7DE6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>NormandyNET</RootNamespace>
+    <AssemblyName>NormandyNET</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Cyotek.Drawing.BitmapFont">
+      <HintPath>DLL\Cyotek.Drawing.BitmapFont.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="MetroFramework">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>DLL\MetroFramework.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="MetroFramework.Design">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>DLL\MetroFramework.Design.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>DLL\MetroFramework.Fonts.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.ExceptionMessageBox">
+      <HintPath>DLL\Microsoft.ExceptionMessageBox.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Mono.Simd">
+      <HintPath>DLL\Mono.Simd.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="netstandard" />
+    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>DLL\Newtonsoft.Json.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="OpenTK, Version=3.1.0.0, Culture=neutral, PublicKeyToken=bad199fe84eb3df4, processorArchitecture=MSIL">
+      <HintPath>packages\OpenTK.3.1.0\lib\net20\OpenTK.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="OpenTK.GLControl, Version=3.1.0.0, Culture=neutral, PublicKeyToken=bad199fe84eb3df4, processorArchitecture=MSIL">
+      <HintPath>packages\OpenTK.GLControl.3.1.0\lib\net20\OpenTK.GLControl.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SharpDX">
+      <HintPath>DLL\SharpDX.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SharpDX.Direct2D1">
+      <HintPath>DLL\SharpDX.Direct2D1.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SharpDX.DXGI">
+      <HintPath>DLL\SharpDX.DXGI.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SharpDX.Mathematics">
+      <HintPath>DLL\SharpDX.Mathematics.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.IO.Compression" />
+    <Reference Include="System.IO.Compression.FileSystem" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=4.0.4.1, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Launcher\DLL\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Windows" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+    <Reference Include="TinyCsvParser">
+      <HintPath>DLL\TinyCsvParser.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine">
+      <HintPath>DLL\UnityEngine.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>DLL\UnityEngine.CoreModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.Networking">
+      <HintPath>DLL\UnityEngine.Networking.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.SharedInternalsModule">
+      <HintPath>DLL\UnityEngine.SharedInternalsModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="zlib.net">
+      <HintPath>DLL\zlib.net.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Core\AssemblyInfo.cs" />
+    <Compile Include="Core\Offsets.cs" />
+    <Compile Include="Core\PacketStructure.cs" />
+    <Compile Include="Helpers\AddressHelper.cs" />
+    <Compile Include="Helpers\FastRandom.cs" />
+    <Compile Include="Helpers\SigScanner.cs" />
+    <Compile Include="Helpers\StackTraceHelper.cs" />
+    <Compile Include="Helpers\HexToJsonAndBack.cs" />
+    <Compile Include="Helpers\MathHelper.cs" />
+    <Compile Include="Helpers\Geometry.cs" />
+    <Compile Include="Modules\ARMA\ArmaString.cs" />
+    <Compile Include="Modules\ARMA\Camera.cs" />
+    <Compile Include="Modules\ARMA\VisualState.cs" />
+    <Compile Include="Modules\ARMA\EntityArma.cs" />
+    <Compile Include="Modules\ARMA\EnumsARMA.cs" />
+    <Compile Include="Modules\ARMA\LootItemHelper.cs" />
+    <Compile Include="Modules\ARMA\ModuleARMA.cs" />
+    <Compile Include="Modules\ARMA\NetworkClient.cs" />
+    <Compile Include="Modules\ARMA\NetworkManager.cs" />
+    <Compile Include="Modules\ARMA\OffsetsARMA.cs" />
+    <Compile Include="Modules\ARMA\OnScreedDisplayARMA.cs" />
+    <Compile Include="Modules\ARMA\ReaderARMA.cs" />
+    <Compile Include="Modules\ARMA\RendererARMA.cs" />
+    <Compile Include="Modules\ARMA\SettingsARMAJson.cs" />
+    <Compile Include="Modules\ARMA\UI\IconColors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\ARMA\UI\IconColors.designer.cs">
+      <DependentUpon>IconColors.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\ARMA\UI\LootSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\ARMA\UI\LootSettings.designer.cs">
+      <DependentUpon>LootSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\ARMA\UI\SettingsFormARMA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\ARMA\UI\SettingsFormARMA.Designer.cs">
+      <DependentUpon>SettingsFormARMA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\ARMA\World.cs" />
+    <Compile Include="Modules\DAYZ\Camera.cs" />
+    <Compile Include="Modules\DAYZ\LootItemHelper.cs" />
+    <Compile Include="Modules\DAYZ\NetworkClient.cs" />
+    <Compile Include="Modules\DAYZ\UI\LootSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\DAYZ\UI\LootSettings.designer.cs">
+      <DependentUpon>LootSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\DAYZ\UI\IconColors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\DAYZ\UI\IconColors.designer.cs">
+      <DependentUpon>IconColors.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\DAYZ\NetworkManager.cs" />
+    <Compile Include="Modules\DAYZ\World.cs" />
+    <Compile Include="Modules\DAYZ\ModuleDAYZ.cs" />
+    <Compile Include="Helpers\Exceptions.cs" />
+    <Compile Include="Modules\DAYZ\ArmaString.cs" />
+    <Compile Include="Modules\DAYZ\EnumsDAYZ.cs" />
+    <Compile Include="Modules\DAYZ\EntityPlayer.cs" />
+    <Compile Include="Modules\DAYZ\OnScreedDisplayDAYZ.cs" />
+    <Compile Include="Modules\DAYZ\ReaderDAYZ.cs" />
+    <Compile Include="Core\SynchronousSocketDriverClient.cs" />
+    <Compile Include="Core\OSD.cs" />
+    <Compile Include="Core\ResultStatus.cs" />
+    <Compile Include="Core\Memory.cs" />
+    <Compile Include="Modules\DAYZ\RendererDAYZ.cs" />
+    <Compile Include="Modules\DAYZ\UI\SettingsFormDAYZ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\DAYZ\UI\SettingsFormDAYZ.Designer.cs">
+      <DependentUpon>SettingsFormDAYZ.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\EFT\Camera\Components\NightVision.cs" />
+    <Compile Include="Modules\EFT\Camera\Components\ThermalVision.cs" />
+    <Compile Include="Modules\EFT\Camera\Components\ChromaticAberration.cs" />
+    <Compile Include="Modules\EFT\Camera\Components\ThermalVisionUtilities.cs" />
+    <Compile Include="Modules\EFT\Camera\Components\Camera.cs" />
+    <Compile Include="Modules\EFT\Exfiltration\ExfiltrationRequirement.cs" />
+    <Compile Include="Modules\EFT\Grenades.cs" />
+    <Compile Include="Modules\EFT\Improvements\AlwaysSprintAltMode.cs" />
+    <Compile Include="Modules\EFT\Improvements\LeanHack.cs" />
+    <Compile Include="Modules\EFT\Improvements\LeanHackOld.cs" />
+    <Compile Include="Modules\EFT\Improvements\FastRPM.cs" />
+    <Compile Include="Modules\EFT\Improvements\FlyHack.cs" />
+    <Compile Include="Modules\EFT\Improvements\InstantADS.cs" />
+    <Compile Include="Modules\EFT\Improvements\SigScannerClass.cs" />
+    <Compile Include="Modules\EFT\Improvements\UtilityHacks.cs" />
+    <Compile Include="Modules\EFT\Improvements\LootThroughWalls.cs" />
+    <Compile Include="Modules\EFT\Improvements\NoVisor.cs" />
+    <Compile Include="Modules\EFT\Improvements\UnlimitedStamina.cs" />
+    <Compile Include="Modules\EFT\Improvements\ImprovementsController.cs" />
+    <Compile Include="Modules\EFT\Improvements\NoRecoil.cs" />
+    <Compile Include="Modules\EFT\Improvements\NoInertia.cs" />
+    <Compile Include="Modules\EFT\Improvements\FastRunning.cs" />
+    <Compile Include="Modules\EFT\InventoryLogic\Slot.cs" />
+    <Compile Include="Modules\EFT\InventoryLogic\Item.cs" />
+    <Compile Include="Modules\EFT\InventoryLogic\LootableContainer.cs" />
+    <Compile Include="Modules\EFT\InventoryLogic\ItemOwner.cs" />
+    <Compile Include="Modules\EFT\InventoryLogic\LootItem.cs" />
+    <Compile Include="Modules\EFT\Objects\TimeScale.cs" />
+    <Compile Include="Modules\EFT\Objects\Components\GameObjectComponent.cs" />
+    <Compile Include="Modules\EFT\Objects\Components\Transform.cs" />
+    <Compile Include="Modules\EFT\Objects\Components\UnknownComponent.cs" />
+    <Compile Include="Modules\EFT\Objects\MainApplication\MainApplicationObject.cs" />
+    <Compile Include="Modules\EFT\Objects\MainApplication\MainApplicationComponent.cs" />
+    <Compile Include="Modules\EFT\Improvements\AlwaysSprint.cs" />
+    <Compile Include="Modules\EFT\Player\Bone.cs" />
+    <Compile Include="Modules\EFT\Player\HandsController.cs" />
+    <Compile Include="Modules\EFT\Player\CorpseData.cs" />
+    <Compile Include="Modules\EFT\Improvements\PinkDudes.cs" />
+    <Compile Include="Modules\EFT\Improvements\FastReload.cs" />
+    <Compile Include="Modules\EFT\Improvements\SkillHack.cs" />
+    <Compile Include="Modules\EFT\Player\InventoryController.cs" />
+    <Compile Include="Modules\EFT\Player\HealthController.cs" />
+    <Compile Include="Modules\EFT\Player\CharacterController.cs" />
+    <Compile Include="Modules\EFT\Player\Physical.cs" />
+    <Compile Include="Modules\EFT\Player\ProceduralWeaponAnimation.cs" />
+    <Compile Include="Modules\EFT\Player\PlayerBody.cs" />
+    <Compile Include="Modules\EFT\Objects\BaseObject.cs" />
+    <Compile Include="Modules\EFT\Camera\CameraContainer.cs" />
+    <Compile Include="Modules\EFT\Camera\Components\VisorEffect.cs" />
+    <Compile Include="Modules\EFT\Exfiltration\ExfiltrationController.cs" />
+    <Compile Include="Modules\EFT\Objects\GameWorld.cs" />
+    <Compile Include="Modules\EFT\Camera\FPSCamera.cs" />
+    <Compile Include="Modules\EFT\Objects\GameObject.cs" />
+    <Compile Include="Modules\EFT\Exfiltration\ExfiltrationPoint.cs" />
+    <Compile Include="Modules\EFT\Objects\LocalGameWorld.cs" />
+    <Compile Include="Modules\EFT\Objects\GameObjectManager.cs" />
+    <Compile Include="Modules\EFT\ContainedItem.cs" />
+    <Compile Include="Modules\EFT\Enums.cs" />
+    <Compile Include="Modules\EFT\LootItemHelper.cs" />
+    <Compile Include="Modules\EFT\OnScreedDisplayEFT.cs" />
+    <Compile Include="Modules\EFT\ModuleEFT.cs" />
+    <Compile Include="Modules\EFT\Player\Info.cs" />
+    <Compile Include="Modules\EFT\Player\MovementContext.cs" />
+    <Compile Include="Modules\EFT\Improvements\Aimbot.cs" />
+    <Compile Include="Modules\EFT\Player\Sketelon.cs" />
+    <Compile Include="Modules\EFT\Player\Settings.cs" />
+    <Compile Include="Modules\EFT\Player\Profile.cs" />
+    <Compile Include="Modules\EFT\RendererEFT.cs" />
+    <Compile Include="Modules\EFT\UI\AimBotSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\EFT\UI\AimBotSettings.designer.cs">
+      <DependentUpon>AimBotSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\EFT\UI\AimBotReferences.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\EFT\UI\AimBotReferences.Designer.cs">
+      <DependentUpon>AimBotReferences.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\EFT\UI\LootColorsOld.cs" />
+    <Compile Include="Modules\EFT\UI\LootColorsOld.Designer.cs">
+      <DependentUpon>LootColorsOld.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\EFT\UI\LootSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\EFT\UI\LootSettings.designer.cs">
+      <DependentUpon>LootSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\EFT\UI\SettingsFormEFT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\EFT\UI\SettingsFormEFT.Designer.cs">
+      <DependentUpon>SettingsFormEFT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\EFT\ReaderEFT.cs" />
+    <Compile Include="Core\SynchronousSocketClient.cs" />
+    <Compile Include="Modules\EFT\EntityPlayerInventory.cs" />
+    <Compile Include="Core\MapManager.cs" />
+    <Compile Include="Helpers\AesEncryption.cs" />
+    <Compile Include="Modules\EFT\EFTHelpers.cs" />
+    <Compile Include="Helpers\NativeMethods.cs" />
+    <Compile Include="Modules\RUST\Camera.cs" />
+    <Compile Include="Modules\RUST\Entity\PlayerNameID.cs" />
+    <Compile Include="Modules\RUST\Entity\AuthorizedPlayers.cs" />
+    <Compile Include="Modules\RUST\SteamGuidCache.cs" />
+    <Compile Include="Modules\RUST\GameObject.cs" />
+    <Compile Include="Modules\RUST\BaseObject.cs" />
+    <Compile Include="Modules\RUST\Enums.cs" />
+    <Compile Include="Modules\RUST\HeldItem.cs" />
+    <Compile Include="Modules\RUST\Misc.cs" />
+    <Compile Include="Modules\RUST\ContainedItem.cs" />
+    <Compile Include="Modules\RUST\BaseEntity.cs" />
+    <Compile Include="Modules\RUST\LootItemHelper.cs" />
+    <Compile Include="Modules\RUST\ModuleRUST.cs" />
+    <Compile Include="Modules\RUST\OffsetsRUST.cs" />
+    <Compile Include="Modules\RUST\OnScreedDisplayRUST.cs" />
+    <Compile Include="Modules\RUST\Pointers.cs" />
+    <Compile Include="Modules\RUST\ReaderRUST.cs" />
+    <Compile Include="Modules\RUST\RendererRUST.cs" />
+    <Compile Include="Modules\RUST\UI\IconColors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\RUST\UI\IconColors.designer.cs">
+      <DependentUpon>IconColors.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\RUST\UI\LootSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\RUST\UI\LootSettings.designer.cs">
+      <DependentUpon>LootSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\RUST\UI\SettingsFormRUST.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\RUST\UI\SettingsFormRUST.Designer.cs">
+      <DependentUpon>SettingsFormRUST.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\UI\DisclaimerWindowCustomDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\UI\DisclaimerWindowCustomDialog.Designer.cs">
+      <DependentUpon>DisclaimerWindowCustomDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\UI\SettingsFormBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\UI\SettingsFormBase.Designer.cs">
+      <DependentUpon>SettingsFormBase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Settings\DebugClass.cs" />
+    <Compile Include="Modules\DAYZ\OffsetsDAYZ.cs" />
+    <Compile Include="Modules\RUST\SettingRUSTJson.cs" />
+    <Compile Include="Modules\DAYZ\SettingsDAYZJson.cs" />
+    <Compile Include="Settings\SettingsRadar.cs" />
+    <Compile Include="Modules\EFT\SettingsEFTJson.cs" />
+    <Compile Include="Modules\UI\DisclaimerWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\UI\DisclaimerWindow.Designer.cs">
+      <DependentUpon>DisclaimerWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\LogReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\LogReport.Designer.cs">
+      <DependentUpon>LogReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\ChangeLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\ChangeLog.Designer.cs">
+      <DependentUpon>ChangeLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\CustomConsole.cs" />
+    <Compile Include="UI\MetroTheming.cs" />
+    <Compile Include="Helpers\XOREncryption.cs" />
+    <Compile Include="Helpers\FingerprintExtras.cs" />
+    <Compile Include="Helpers\Fingerprint.cs" />
+    <Compile Include="Helpers\HiPerfTimer.cs" />
+    <Compile Include="Helpers\CryptoHelper.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Modules\EFT\OffsetsEFT.cs" />
+    <Compile Include="Helpers\HelperInventory.cs" />
+    <Compile Include="UI\RadarForm_Methods.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\RadarForm_Vars.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Overlay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Overlay.designer.cs">
+      <DependentUpon>Overlay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\EFT\UI\IconColors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\EFT\UI\IconColors.designer.cs">
+      <DependentUpon>IconColors.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\StringPromptDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\StringPromptDialog.designer.cs">
+      <DependentUpon>StringPromptDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\RadarForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\RadarForm.Designer.cs">
+      <DependentUpon>RadarForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\EFT\EntityLoot.cs" />
+    <Compile Include="Helpers\ListViewColumnSorter.cs" />
+    <Compile Include="Helpers\HelperLogger.cs" />
+    <Compile Include="Helpers\Enums.cs" />
+    <Compile Include="Modules\EFT\EntityPlayer.cs" />
+    <Compile Include="Helpers\CommonHelpers.cs" />
+    <Compile Include="Helpers\HelperJsonConvertercs.cs" />
+    <Compile Include="Modules\EFT\HelperLoot.cs" />
+    <Compile Include="Helpers\OpenGL.cs" />
+    <Compile Include="Helpers\WebClientHelper.cs" />
+    <Compile Include="UI\StartupForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\StartupForm.Designer.cs">
+      <DependentUpon>StartupForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\MapSelectorDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\MapSelectorDialog.Designer.cs">
+      <DependentUpon>MapSelectorDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Core\RenderList.cs" />
+    <Compile Include="Helpers\RetryHelper.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Helpers\EmbeddedAssembly.cs" />
+    <Compile Include="Helpers\StringCipher.cs" />
+    <Compile Include="Helpers\TextureHandler.cs" />
+    <Compile Include="Helpers\ThreadHelper.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Modules\ARMA\UI\IconColors.resx">
+      <DependentUpon>IconColors.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\ARMA\UI\LootSettings.resx">
+      <DependentUpon>LootSettings.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\ARMA\UI\SettingsFormARMA.resx">
+      <DependentUpon>SettingsFormARMA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\DAYZ\UI\LootSettings.resx">
+      <DependentUpon>LootSettings.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\DAYZ\UI\IconColors.resx">
+      <DependentUpon>IconColors.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\DAYZ\UI\SettingsFormDAYZ.resx">
+      <DependentUpon>SettingsFormDAYZ.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\EFT\UI\AimBotSettings.resx">
+      <DependentUpon>AimBotSettings.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\EFT\UI\AimBotReferences.resx">
+      <DependentUpon>AimBotReferences.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\EFT\UI\LootColorsOld.resx">
+      <DependentUpon>LootColorsOld.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\EFT\UI\LootSettings.resx">
+      <DependentUpon>LootSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\EFT\UI\SettingsFormEFT.resx">
+      <DependentUpon>SettingsFormEFT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\RUST\UI\IconColors.resx">
+      <DependentUpon>IconColors.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\RUST\UI\LootSettings.resx">
+      <DependentUpon>LootSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\RUST\UI\SettingsFormRUST.resx">
+      <DependentUpon>SettingsFormRUST.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\UI\DisclaimerWindowCustomDialog.resx">
+      <DependentUpon>DisclaimerWindowCustomDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\UI\SettingsFormBase.resx">
+      <DependentUpon>SettingsFormBase.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\UI\DisclaimerWindow.resx">
+      <DependentUpon>DisclaimerWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\LogReport.resx">
+      <DependentUpon>LogReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\ChangeLog.resx">
+      <DependentUpon>ChangeLog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\EFT\UI\IconColors.resx">
+      <DependentUpon>IconColors.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Overlay.resx">
+      <DependentUpon>Overlay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\StringPromptDialog.resx">
+      <DependentUpon>StringPromptDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\RadarForm.resx">
+      <DependentUpon>RadarForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\StartupForm.resx">
+      <DependentUpon>StartupForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\MapSelectorDialog.resx">
+      <DependentUpon>MapSelectorDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\.editorconfig">
+      <Link>.editorconfig</Link>
+    </None>
+    <None Include="App.config" />
+    <None Include="bin\x64\Debug\lootItems_DAYZ.csv" />
+    <None Include="bin\x64\Debug\lootItems_EFT.csv" />
+    <None Include="bin\x64\Debug\lootItems_RUST.csv" />
+    <None Include="OpenTK.dll.config" />
+    <None Include="packages.config" />
+    <None Include="Resources\lootItems.csv" />
+    <None Include="Resources\Nautilus.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_CenterOff.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_CenterOff_Dark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_CenterOn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_CenterOn_Dark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_Light.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_Light_Dark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_Minus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_Minus_Dark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_Plus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_Plus_Dark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_TextOff.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_TextOff_Dark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_TextOn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_TextOn_Dark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_Collapse.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_Collapse_Dark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_Expand.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_Expand_Dark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_BoxOn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_BoxOff.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_BoxOn_Dark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_BoxOff_Dark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_SettingsShow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_SettingsHide.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_SettingsShow_Dark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_SettingsHide_Dark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\biglogo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="DLL\MetroFramework.Design.dll" />
+    <EmbeddedResource Include="DLL\MetroFramework.dll" />
+    <EmbeddedResource Include="DLL\MetroFramework.Fonts.dll" />
+    <EmbeddedResource Include="DLL\netstandard.dll" />
+    <EmbeddedResource Include="DLL\Newtonsoft.Json.dll" />
+    <EmbeddedResource Include="DLL\OpenTK.dll" />
+    <EmbeddedResource Include="DLL\OpenTK.GLControl.dll" />
+    <EmbeddedResource Include="DLL\QuickFont.dll" />
+    <EmbeddedResource Include="DLL\System.Runtime.CompilerServices.Unsafe.dll" />
+    <EmbeddedResource Include="DLL\TinyCsvParser.dll" />
+    <EmbeddedResource Include="DLL\UnityEngine.CoreModule.dll" />
+    <EmbeddedResource Include="DLL\UnityEngine.dll" />
+    <EmbeddedResource Include="DLL\UnityEngine.Networking.dll" />
+    <EmbeddedResource Include="DLL\UnityEngine.SharedInternalsModule.dll" />
+    <EmbeddedResource Include="DLL\zlib.net.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="DLL\Cyotek.Drawing.BitmapFont.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="DLL\SharpDX.Direct2D1.dll" />
+    <EmbeddedResource Include="DLL\SharpDX.dll" />
+    <EmbeddedResource Include="DLL\SharpDX.DXGI.dll" />
+    <EmbeddedResource Include="DLL\SharpDX.Mathematics.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="DLL\Mono.Simd.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_Overlay.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_OverlayDark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_Refresh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_RefreshDark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_Download.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="DLL\NormandyNET_InheritedForms.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_Download_Dark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_PlayFilled.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_PlayFilled_Dark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Modules\EFT\changelog.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Modules\RUST\changelog.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Modules\DAYZ\changelog.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Modules\ARMA\changelog.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="DLL\Microsoft.ExceptionMessageBox.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Modules\EFT\WriteMemoryHelp.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_WarningSign.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_WarningSignDark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Modules\UI\WriteMemoryDisclaimer.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bones_eft.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>REM copy /Y $(TargetPath) $(SolutionDir)Launcher\bin\x64\$(ConfigurationName)</PostBuildEvent>
+  </PropertyGroup>
+</Project>
