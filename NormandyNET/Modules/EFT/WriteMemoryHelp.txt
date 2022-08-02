@@ -1,0 +1,92 @@
+A little help on stuff we got here:
+
+NoRecoil
+    Drops recoil completely.
+    (!) If you shoot all bullets at same spot it may be dangerous.
+    (!) Use aimbot with randomizer or mouse your mouse to look legit.
+
+    If streamer safe mode enabled:
+        It DOES NOT remove sway.
+        You have to use drop down selector.
+        You can set no recoil intensity from 1 (100%) to 0 (0%) or anything in between, like 0.5 to have only 50% recoil.
+
+    If streamer safe mode NOT enabled:
+        It removes sway completely.
+        Sway does not persist if you move while aiming.
+        You DON'T have to use drop down selector.
+
+    Non stream safe no recoil once applied, can not be reverted unless you exfiltrate.
+    Both options must be changed outside of raid.
+
+Instant ADS
+    Just help you to ADS fast. Once applied persists till end raid.
+    (!) Not stream safe.
+
+Loot Through Walls
+    While active, aim downsight to move your FOV (camera) forward XX meters and loot the item.
+    Select from 0 to 3 meters from dropdown below.
+    Sometimes you need, far sometimes close, sometimes right angle.
+    Container searching starts only from 2 meters from your REAL POSITION.
+
+FlyHack
+    Clicking will trigger memory scan and once succesful it can be enabled and disabled.
+    That will make you run in the air. Disabling will make you fall down so find a safe place to land.
+
+Always Allow Sprint
+    Clicking will trigger memory scan and once succesful it can be enabled and disabled.
+    Do a run in a bush first so it stops you from sprinting over, then click a button.
+
+Fast RPM
+    Make gun full auto gun shoot as best RPM gun in game.
+    Single fire rate gun also get best single fire rate.
+
+Lean Hack
+    Once enabled there is an OSD note with a LeanState.
+    Do ALT + S and then holding Q or E will change the state and gun will more left or right.
+    (can release after as app will remember the state until you reset it)
+
+    Now when you aim, your camera will more to where your gun is.
+    Works with aimbot as well.
+
+    Do ALT + W and hold it a little to reset the state and move your gun back to it's normal position.
+    You can't be seen leaning in that state at all, so you can peek people safely, just don't expose yourself too much as your body is visible.
+
+    (!) There are two distance options you can select from.
+    0.12 mimics sidefire distance and exposes your body enough to get shot but allows you to aim.
+    0.3 works better and hides your body better but may get you no shot reg that in theory may get logged and if you get a lot of no reg there may be consequences.
+
+Utility Stuff
+    No weapon jam
+    No weapon overheat
+    No armor movement penalties
+        Once armor penalties removed, it will be green in the inventory.
+        (examine item to verify if you want)
+        Put in off and now for this to take effect. 
+    Fast mags.
+        Once your mags go green, you will be able to load and unload them fast as well.
+        (examine item to verify if you want)
+
+Pink Dudes
+    Just pink chams that sometimes crash the game on raid end and sometimes mid raid.
+
+Pink Dudes - Alt Mode
+    Potential alternative to crashes. How to use:
+    Disable PinkDudes
+    Check Alt Mode
+    Go customs, offline raid or online if you want to play online. No bots needed.
+    Click "Alt Mode Scan".
+    See on OSD when scan is finished and it tells material found or not.
+    If material found, re-enable pink dudes and go play the game. Chams will be glowing green.
+    If not - then you're fucked, remove checkbox and use pink bastards.
+    Potential issue: Unity may do a cleanup thus unloading material we use and it may cause either pink chams or crash the game.
+    If you play customs from time to time, just scan from time to time as well.
+
+-----------------
+BSOD Warning.
+-----------------
+
+FlyHack
+Always Allow Sprint
+These are signature scanners
+Sadly they may cause blue screen upon first activation so it's advised to go offline raid 
+first and enable them all there. (they persist between raids)

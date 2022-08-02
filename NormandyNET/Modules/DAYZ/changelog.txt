@@ -1,0 +1,155 @@
+1.1.14.7
+
+NoGrass Fixed
+
+1.1.12.24
+
+Backend related adjustments.
+
+1.1.12.23
+
+Added new maps to the map selector - wait till they're are ready design wise.
+Fixed Takistan selector issue.
+
+1.1.12.22
+
+Added options in Other tab:
+- Opacity
+- Always on Top 
+
+Added options in Overlay tab:
+- Moonlight support
+
+Use Fullscreen if playing fullscreen mode via moonlight or Moonlight windowed is you use windowed mode.
+
+Apply right resolution and adjust moonlight window to avoid black bars (Stretch the window diagonally.) 
+
+1.1.12.20
+
+Offsets from 22-Feb-2022
+If nicknames won't be visible, expect one more patch.
+
+1.1.12.19
+
+Offsets from 15-Feb-2022
+
+1.1.12.7
+
+Offsets from 18-Jan-2022
+
+1.1.12.6
+
+Offsets
+Banov map (ask provider for the files)
+SwansIsland map (ask provider for the files)
+
+1.1.12.5
+
+1000m for esp from 500m
+
+1.1.12.2
+
+User request:
+It is possible to add items to the radar CSV file based on a prefix now. (Test and tell if not working):
+
+You can for example blacklist stuff like "bldr_somebuilding" and add it to blacklist and do that for tons of objects.
+It is hard ya know.
+
+Now you can just add "bldr_" and it will blacklist all the items by matched prefix.
+
+
+1.1.11.7
+
+Fixed missing player icon on a radar. Sorry :D
+
+Fix broken unknown items on radar.
+
+1.1.11.5
+
+DayZ 1.14 patch.
+If something not working, we will fix.
+
+1.1.11.3
+
+Fixed loot loading issue on modded servers.
+Live loot may lag a lot so make sure you update loot using button (which is also laggy af).
+
+1.1.11.0
+
+Driver update resolves all BSOD issues for every Radar Game Type.
+This version lifts some BSOD countermeasures that are no longer needed.
+
+1.1.10.20
+
+Improved nickname reading to prevent some BSODs.
+If nickname's missing - well... then it's missing.
+
+1.1.10.19
+
+Fixed another zero ticks.
+More BSOD checks.
+
+1.1.10.16
+
+Fixed anti-BSOD performance bottleneck.
+
+1.1.10.15
+
+Fixed issue with zero ticks when shooting.
+
+1.1.10.14
+
+Potential BSOD fixes.
+
+Semi-fix: lootItems_DAYZ.csv crashing radar when it is open in editor.
+make "lootItems_DAYZ - Copy.csv" end edit as you like, Radar will copy this file replacing "lootItems_DAYZ.csv" on restart.
+
+WriteProcess - NoGrass
+Fix Enable / Disable All menu
+
+Takistan map added, will need to redownload full package (wait for it once it's on site)
+
+1.1.10.12
+
+Possible fix for error and bsod during reading player scoreboard.
+
+1.1.10.11
+
+Added more maps:
+Chiemsee
+DeerIsle
+Esseker
+Rostow
+
+QoL: 
+Select color wdialog not starts with color selected if defined in setttings
+Loot and entity lists in UI now sorted right.
+Enable Disable All loot items
+
+1.1.10.5
+
+Live loot.
+
+There is a live loot option in "Loot tab > Setting > LiveLoot checkbox".
+Refer to label tooptip for the info on how to use it.
+
+Here is a copy:
+	Players and Loot are updated every cycle.
+
+	Player Cycle length = 0.075 second minimum.
+	Loot Cycle length = 1 second minimum.
+
+	The more objects to update, the longer cycle is > slower radar.
+
+	Adjust live loot readings per cycle that fits best for you.
+	Default value is 40. (i.e. 40 loot objects per 1 second)
+
+	How it works:
+	It means that if you got 400 loot objects, they will be updated in about 10 cycles aka 10 seconds.
+
+	Also, you can always press update loot button to speed this up.
+	If you don't like live loot, just disable the checkbox and keep clicking the button as you did before.
+
+1.1.9.8
+
+...

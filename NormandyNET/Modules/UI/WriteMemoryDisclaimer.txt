@@ -1,0 +1,10 @@
+Radar is intended to be only read process memory application with the only tool being a potential detection vector and we all hope it stays undetected forever. This is architectural design.
+
+However tool also supports writing process memory feature that radar can utilize too and bring better experience to the gameplay as well as compete with other applications on the market or cheaters in the game.
+
+As these features involve writing to the game memory it can in theory drastically increase detection vector and no provider can guaratee it's 100% safe.
+
+While we test all the features for safety before releasing it to the customers, there is no way to tell what feature is more safe and what less as it would be wrong to assume that in the first place.
+Any feature potentially can get detected at some point in the future by the game develeopers shall they want that really hard.
+
+Use at your own risk.

@@ -1,0 +1,234 @@
+1.1.12.22
+
+Added options in Other tab:
+- Opacity
+- Always on Top 
+
+Added options in Overlay tab:
+- Moonlight support
+
+Use Fullscreen if playing fullscreen mode via moonlight or Moonlight windowed is you use windowed mode.
+
+Apply right resolution and adjust moonlight window to avoid black bars (Stretch the window diagonally.) 
+
+1.1.12.15
+
+tweak: fake admin button won't show alert every time it's clicked
+fix: rust fake admin test is now every 1 second if button is enabled
+(that should help on servers where admin state is being reset for some weird reason)
+
+1.1.12.14
+
+Bugfixes
+
+1.1.12.10
+
+Fixed issue with FakeAdmin.
+(always check via 'debug.debugcamera' to make sure flag is dropped and you're safe, game changes can be surprising)
+
+I fixed some OpenGL bugs that may help with REDX issue or not. (Lol really I don't have that one so it's pain to fix it.)
+Added - OpenGL exception toggle in Debug Tab
+If you still keep getting it, tick that and play, the error will popup, I need that error thing.
+Try also turning debug log that can generate extra logs.
+
+Keep old version in case this one bugs out.
+
+1.1.12.0
+
+Introduced separate offsets file.
+Offsets update shall no longer force end user to redownload the whole application saving download times and server load.
+Offsets are applied on the fly and toast will appear on bottom right of the screen.
+Any error will simply fallback to the default offsets built in exe so no harm will be done.
+
+For core changes in the app a redownload is still required.
+TODO : Different alert for new app version.
+
+1.1.11.12
+
+Offsets
+Some more offsets fixed.
+
+1.1.11.10
+
+Fix weapon in hands.
+
+1.1.11.9
+
+Hotfix offsets update.
+Again!
+
+1.1.11.8
+
+Hotfix offsets update.
+RUST YOU ARE DRUNK GO HOME!
+
+1.1.11.7
+
+New offsets via auto parser.
+
+1.1.11.6
+
+Added option to show house (cupboard authorized players list) owners.
+Enabled by default, look in Main tab for appropriate setting.
+Authorized players list is refreshed once per 5 minutes.
+House/Cupboard is a loot so don't forget to update loot or have live loot enabled for this feature to work.
+
+1.1.10.25
+
+Added Door ESP as per request by one of our users.
+
+New Type under Main tab: ESP
+Enabling or disabling that type will show entities of that type on ESP screen in addition to players.
+So you can enable ESP category before raiding, estimate the route, where cupboard is, all loot an so on and figure out how much exposives you need to raid it.
+Then disable it if you don't need it and keep clean ESP window.
+
+Before this is pushed on site with the new CSV, you need to make sure that CSV file has the following changes:
+assets/prefabs/building/door.double.hinged/door.double.hinged.metal.prefab
+assets/prefabs/building/door.double.hinged/door.double.hinged.toptier.prefab
+assets/prefabs/building/door.double.hinged/door.double.hinged.wood.prefab
+assets/prefabs/building/door.hinged/door.hinged.metal.prefab
+assets/prefabs/building/door.hinged/door.hinged.toptier.prefab
+assets/prefabs/building/door.hinged/door.hinged.wood.prefab
+
+All these should go from Blacklist to ESP category.
+There is probably more so I may have missed something, go find out. :)
+If you want more items on ESP, you can play around with that and see how it performs on blacklisted items.
+
+Note: Squares are not precise shape.
+And all that is a subject to change to improve performance and UI/UX.
+
+1.1.10.24
+
+Fix: Players without a team are marked as teammates.
+
+1.1.10.23
+
+Latest offsets.
+
+1.1.10.22
+
+Fixed : 
+- Category list does not show all categories
+- Teammate Color UI not working
+- If players go to sleep, they don't go into sleep state on radar. 
+	(We decreased check cool down a little to make state change faster)
+- When players die, they stay marked as alive.
+	(Now they have 'Dead' naming like 'Sleepers')
+
+1.1.10.21
+
+Fixed:
+- Radar breaking sometimes if you press stop
+- Weapons: Not showing on enemies
+- Line of Sight - You: Not working
+- Sleepers stay on ESP when toggled off
+- Toggle off sleepers disables all rendering except players
+
+
+1.1.10.20
+
+Latest offsets
+
+Improved font rendering speed slightly
+Improved icons rendering speed slightly
+
+
+1.1.10.16
+
+Fixed anti-BSOD performance bottleneck.
+
+1.1.10.14
+
+Potential BSOD fixes.
+
+Semi-fix: lootItems_RUST.csv crashing radar when it is open in editor.
+make "lootItems_RUST - Copy.csv" end edit as you like, Radar will copy this file replacing "lootItems_RUST.csv" on restart.
+
+Fix Enable / Disable All menu
+
+1.1.10.9
+
+ESP overlay added. Players / NPC only.
+
+1.1.10.7
+
+Another offset update.
+
+1.1.10.5
+
+QoL updates. Misc stuff.
+
+Live loot expanded to match EFT / DAYZ radars behavior.
+Live loot is enabled by default.
+
+There is a live loot option in "Loot tab > Setting > LiveLoot checkbox".
+Refer to label tooptip for the info on how to use it.
+
+Here is a copy:
+	Players and Loot are updated every cycle.
+
+	Player Cycle length = 0.075 second minimum.
+	Loot Cycle length = 1 second minimum.
+
+	The more objects to update, the longer cycle is > slower radar.
+
+	Adjust live loot readings per cycle that fits best for you.
+	Default value is 40. (i.e. 40 loot objects per 1 second)
+
+	How it works:
+	It means that if you got 400 loot objects, they will be updated in about 10 cycles aka 10 seconds.
+
+	Also, you can always press update loot button to speed this up.
+	If you don't like live loot, just disable the checkbox and keep clicking the button as you did before.
+
+1.1.10.3
+
+Another offset update.
+
+1.1.10.2
+
+Sleeping players now can be hidden by ticking 'Show Bodies / Sleeping' under 'Main tab'
+Added some checks for sleepers if they log in as well.
+
+Other tab : Map seed and download buttons are obsolete and therefore removed.
+Map size apply now works on the fly.
+
+Fix player/npc blinking.
+
+Client rendermap size support:
+
+In rust you can open console by F1 and type: world.rendermap 
+This generates a PNG file in Rust folder at "..steamapps\common\Rust"
+Like that: map_4500_443983945.png
+
+First part is a map size and second part is seed that is obsolete on custom map server i.e. non prodecural ones.
+Take a note of its size, like 4500.
+Copy that png file in "\Data_RUST\Alternative" of your radar folder as "map.png".
+
+Start the radar and if you see your position off, then you need to adjust the size.
+Go to Other tab - find MapSize, enter the size you took note of and click apply.
+
+
+
+
+
+1.1.10.1
+
+Fixed players not loading right.
+
+Live loot approach:
+  - Loot slowly loads as you go keeping players on a radar non-frozen.
+  - Click update loot button to speed this up (this will freeze players until it's done)
+  - Animals once loaded, update with 3 second delay to give room for players.
+
+Write Memory tab:
+  - Buttons now give you warnings and describe what they do.
+
+Bright day made better.
+
+Fixed garbled nicknames to crash the radar.
+
+
+1.1.9.8
+
+...

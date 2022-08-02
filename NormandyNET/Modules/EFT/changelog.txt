@@ -1,0 +1,900 @@
+1.1.15.27
+
+Fixed freezing issue. Maybe. Should be good. Can't test, not playing the game.
+
+1.1.15.26
+
+NoRecoil changes from .24 version altered.
+NoSway for streamers still exposes it so it's reverted.
+Streamer can use Safe Stream option checkbox and use NoRecoil reduction from drop down (if you don't stream, just keep it off and use normal norecoil)
+Refer for help in the Write Memory tab as well.
+
+Fix:
+Loot through walls not can be used with long barrels.
+
+1.1.15.25
+
+Grenades on Radar
+
+fix: Aimbot using Bone.Base (between Feet) if all bones were used and only None left at the time of aiming.
+
+1.1.15.24
+
+Pink Dudes reverted to the very original implementation at it proved to be the most stable one.
+So we apply chams and re-apply if entity is inside your sight arc.
+The only changes kept are:
+Some minor bugfixes
+We keep emergency depink mode on local player death (you gonna crash anyway so worth trying)
+And try to depink everyone if you are at exfil point for a while (again crash may happen, why not to try)
+Rest is reverted to original state.
+
+Rectangle is back for overlay and players bones are more thick now.
+
+NoRecoil changes.
+We have been asked to make streamer safe mode so:
+NoRecoil now have intensity selector from 0% to 100% and you can select what you like best or drop it completely settings to zero.
+
+NoSway now separate option instead being part on NoRecoil.
+    You can't have no sway if you move and aim due to that change which is minor at all as when you stop, nosway is applied right away.
+    And it also got intensity selector just like NoRecoil.
+
+InstantADS now separate option instead being part on NoRecoil, not stream safe.
+
+Refer for help in the Write Memory tab as well.
+
+1.1.15.23
+
+Aimbot added 2 more custom patterns as I need them personally.
+Please redefine your custom pattern settings again if changed as they are void due to changes. Sorry.
+
+PinkDudes
+fixed: player not pinkified if hit
+
+tweaks:
+players no longer get pinkified if at exfil points if one of two conditions are met:
+    you are at exfil point - de pink all players as you're probably extracting
+    player is at exfil point - de pink the player as he is probably extracting
+    
+    only if within 4 meters from exfil point sphere center
+    (it applies to all potential exfils, scav and pmc ones)
+
+dead playes should de-pinkify and it may help with crashes
+
+if you die radar will try to do emergency cleanup and de-pink everyone, maybe that will help as well
+
+Keep bak file so you can fallback to previous version.
+
+1.1.15.22
+
+Tweak:
+Aimbot Shaky Aim has randomizer strength so you can fine tune it
+I suggest use it so you don't always hit same spot fire full auto weapon.
+
+Timescale decreased a bit. I think it causes desyncs sometimes, not bad but I don't like it.
+
+Lean Hack added back with two options. Read Help for more info.
+
+Fixed issues reported by users. Thank you.
+
+
+1.1.15.21
+
+Added back NoRecoil - turned out its BSG's with no reg.
+Added back Loot Through Walls
+
+Lean Hack - if somebody want to try, let us know. It's disabled but I finetuned the distance to even less (you will trade probably legs for lean shot).
+
+1.1.15.20
+
+Elevation arrows back. Sorry it was obscured by another element.
+Force Show loot now works correctly.
+Solid line of sight setting now saved in settings file right.
+Improved Player/Loot iteration, should bug out less
+Fixed KD rounding
+
+
+
+1.1.15.19
+
+Removed for now:
+    LeanHack
+    Loot Through Walls
+    No Recoil
+
+Pink Dudes
+    pinkify based on time and onScreen status
+    we try to de-pink then to avoid crashes and pink them back when they're on screen
+    will see
+
+1.1.15.18
+
+Item price - shows best price flea vs. trader
+
+Items in Airdrop should get their positions updated once airdrop is deployed on the ground (need to test)
+
+Loot textbox search can be used to filter items by FriendlyName, ShortName or Category now.
+
+Revised Loot setttings UI
+
+AimBot Settings has a warning button with description if you select only one bone.
+
+KillDeathRatio now has a threshold in MainTab
+    It will shows KD with red text if it hits the threshold.
+    Best way to see potential cheaters.
+
+Boss color selector added
+
+LineOfSight - added solid line checkbox on MainTab
+
+Write Memory settings tab revised, now it remembers some of settings so you don't have to click the buttons every time.
+
+Fixed the dictionary crash issue (I hope). At least I catched the error and fixed what it was.
+
+Added Always Sprint Alt Mode
+    It does not requires signature scanning and mutually exclusive with sig scan based Always Sprint.
+    It doesn't let you squeeze through bushes but let's you sprint out of them right away.
+    (it was added as I suppose that sig scan one causes midgame crashes, this one needs to be tried and tested if it's better crash wise)
+
+1.1.15.15
+
+LeanHack - 0.4f to 0.35f meters for reliability
+NoWeaponMalfunctions sets weapon color as well so you know it has been applied
+Update data around followed players just like for local player
+
+1.1.15.14
+
+New bosses added as red on the map + nicknames.
+
+1.1.15.13
+
+EFT 0.12.12.30.18876
+
+Loot text bot search can be used also for item Category search
+
+1.1.15.12
+
+Adjusted LeanHack - no more sigscans.
+Can aim, use aimbot and all that.
+Help button in Write Memory tab revised to give info on how complex stuff works.
+Enjoy.
+
+1.1.15.11
+
+Fix:
+    Aimbot
+        Sometimes stays locked on dead entities until you stop tilting or aiming. (blame eft)
+
+    Boss names are now in English
+
+    Check and mark players as Special color if they got streamer mode enabled (only given by BSG so it's potential legit streamer)
+
+Removed:
+    AutomaticGun
+        Removed RPM setting.
+        Now sets to highesth full and single fire rate guns available in game.
+        Renamed to Fast RPM
+
+1.1.15.10 (cumulative change log)
+
+Added:
+    Aimbot
+        Prioritization by player type 
+        Override angle trigger and select closest by distance if threshold was met
+        Vertical angle added (so you can chose from circle to rectangle shape trigger area)
+        Adjusted UI, settings
+
+        Prediction via object velocity
+        Use prediction force to fine tune this
+
+        Switches targets faster now when they die
+        
+    AutomaticGun
+        Adjust Fire Rate
+
+    Lean Hack
+        Use sidefire and move your gun right or left using tilt
+        Doesn't work with aimbot.
+        (i see this as limited utility use, against corner campers, peek hallways safely, try to kill aimbotters from safe place)
+
+    Remove armor penalties
+        Remove deaf factor
+
+    UtilityHacks
+        All mags now can be loaded and unloaded fast even 60rnd mags
+         (they will get green background so you know it works)
+
+    Exfiltration Points
+        Show points and update their status from time to time
+        See checkbox in MainTab
+        (may show exfil as available while they're not, but good to have anyway)
+
+    Sectant priest or bosses
+        Have special color and their names on map
+
+    Remove armor movement penalties
+        Part of utility hacks
+        Removes any rotation and speed limitations (while walking for example).
+        Examine item to see if limitations are gone then (they will get green background as well)
+        Put item of and on for this to take effect.
+
+Tweaks:
+    TimeScale
+        Reload speed increased
+
+    Aimbot
+        Updates position for you and target on map now.
+
+    Reworked player iteration
+        Less CPU consume
+        Stale records persist now (not deleted) but not updated and treated as dead
+        So if you kill a player you will see player's last location as well as for extracted ones.
+
+    PinkDudes
+        Tuned a bit the behavior
+        Now only skin chams are applied
+        Gear visuals are removed.
+        This should help crash less.
+
+    Remove teammates from OSD display
+
+Fix:
+    Pink dudes radar crash bug
+    Aimbot locking on stale entities
+    Correct XY vertical angle calculation
+    Show elevation if HideTextAroundPlayer is true
+    Overlay black screen sometimes
+    OSD shows now only hostile PMC's only
+    AlwaysSprint - now removes the sprint block correctly if in a bush.
+    Some logical issues giving error screens.
+
+1.1.15.1
+
+Probably fixed 0 ticks loot loading. Some network issues for some users.
+
+Rewised ADS confirmation:
+Now all Write Memory settings will not take effect unless you confirm you're in raid via ADS (radar will ask you to do so).
+This is to fix issues for some users when they're still loading and radar tries to write memory already.
+NoVisor may take up to 5 seconds to take effect and periodically will check if you need visor removed. (don't worry if you click and it's not removed instantly)
+Timescale indicator also apperars on OSD if active like fast reload or fast sprinting.
+
+Improved loot loading a little.
+Radar will now ignore recursive reading for items that were SPAWNED IN RAID, i.e.
+weapons, vests, backpacks and any other round start items that can contain something else will not be read recursively as they probably have trash contents anyway.
+It doesn't apply on inventory readings, if scav has a red card, you will see it.
+
+Loot Settings now can stay open and don't block main UI.
+If loot is loading, you'll see that on OSD as well.
+
+Added option to hide player related text within certain radius.
+See Other tab for settings.
+
+1.1.14.15
+
+Added:
+ - UtilityHacks: 
+	 No Weapon Jam
+
+ - NightVision (as it works with pink dudes)
+
+Tweaks:
+ - Aimbot is a bit faster
+
+1.1.14.14
+
+Updated to match new tool part. So please reinject or use old version.
+
+1.1.14.13
+
+Reverted:
+ - Full body player skeleton ESP (no tick loss)
+ Needs fixes on player death.
+
+1.1.14.11
+
+Fixed:
+- Container loot position.
+- Aimbot aiming incorrectly (off player model)
+- Tuned NoRecoil (was messing with aimbot aiming)
+
+Added:
+- Write memory tickrate
+
+Add:
+- Full body player skeleton ESP (no tick loss)
+
+1.1.14.10
+
+Fixed no container loot. Logical bug.
+
+1.1.14.9
+
+I think I have fixed aimbot bone not aiming right. Try test this.
+NoRecoil doesn't get along as well, if you get it wrong, disable norecoil, swap weapons (knife will do), swap back and apply again.
+
+Tuned Radar to stop any write memory options if aimbot is locked on. Should be faster.
+
+1.1.14.8
+
+Loot position revise:
+ - We try to get loot position easy way (less tick method)
+ - If it fails yielding position to be 0,0,0, we try hard way (more ticks) method.
+ - If both fails, then loot item is broken or non existant.
+
+ContainedItems and Corpse data read only if loot in containers is on.
+
+Corpses Data:
+ - Read Static Data and Inventory Separate ways and only once.
+
+1.1.14.6
+
+Added:
+ - PriorityOverPrice column in csv. That will ensure item is shown regardless of price filter. Useful for keys for example.
+ - ArmorSlots column in csv. That will show armor class alongside player nickname.
+
+   Get new CSV from site, Radar will fallback to old CSV style if you got an old one.
+   If you got custom made csv, just add columns as in new one.
+
+Fix:
+ - Corpses
+	 Will show TOTAL inventory value on them and PRIORITY items just as for alive players.
+	 Since corpses are part of the loot, new dead bodies will appear only on loot refresh or during live loot loading.
+     Can be hidden via settings in main tab.
+	 Also respects inventory value from players inventory settings.
+	 You can hide loot and see corpses with values, remove values and keep just bodies or remove bodies as well via settings in main tab.
+	 If you have loot shown, you can see all the loot on them (sadly just all on same line).
+	 
+1.1.14.5
+
+Show by Value Update:
+
+We have updated how Show by Value works due to EFT banning some items from the Flea Market. 
+Going forward we will show Flea Market price if an item is not banned from the Flea Market.
+If the item is banned from the Flea Market we will show Trader Buyout Price instead.
+The above changes will give us an accurate price of items moving forward. :)
+This update uses new CSV data (TraderPrice,BannedOnFlea) (if you got old one it will be reacquired)
+
+1.1.14.4
+
+Fix:
+ - FastReload now works with switching weapons.
+ - Aimbot keep selected Bone settings on new raid (again, forgot to add the logic itself).
+
+1.1.14.3
+
+Added:
+
+ - Skill Hack
+	-- Per skill setting
+	-- Reapplies settings on new raid
+	-- Now disables right and reverts original skill value. (restarting radar with hack applied voids this statement)
+
+ - NoRecoil
+	-- Stays enabled and will ask to ADS once in new raid.
+
+ - More bones into custom pattern.
+
+Fix:
+
+ - Aimbot keep? selected Bone settings on new raid
+ - Timescale being not disabled sometimes.
+ - ESP now faster a little as it reads only bones it needs than it used to be.
+
+Issues:
+
+ - FastReload may not detect reload right, if you got timescale enabled wrong, re-click FastReload and reload again. Also breaks when switching weapons.
+ - Inertia being tested, not disabled sometimes.
+
+Tweaks:
+ - Radar initialization status on main screen (wait till it's green)
+
+Removed:
+ - No Inertia disabled for now. Breaks game.
+
+
+1.1.14.2
+
+Misc fixes
+
+1.1.14.1
+
+Added:
+ - Always Allow Sprint 
+	That will let you sprint no matter what.
+
+ - No Inertia
+	Disables all that inertia garbage. YAY!
+
+ - Timescale things:
+	Both utilizes Unity
+
+	 -- Fast Reload
+		Upon activation radar will ask you to reload to remember some internal data, then you're good to go.
+		Every time you reload, timescale will be 2x.
+
+	 -- Fast Sprinting
+		Every time you sprint, timescale will be 2x.
+
+	Options work together flawlessly.
+
+Fix:
+ - AimBot settings giving errors if OnlyNeck was selected prior.
+ - Rare issue when radar was started and was giving zero ticks, but next raid was ok.
+
+
+1.1.13.17
+
+Added:
+ - SkillHack (the ones that are safe)
+
+Tweaks:
+ - AimBot prediction tuning
+ - PinkDudes should make less burden on network now
+
+1.1.13.16
+
+Added:
+ - AimBot simple (dimple) prediction
+
+ Fix:
+ - InstantADS works when switching weapons
+ - Aimbot now targets selected body parts on new raid correctly
+ - Aimbot skips player if it is already died
+ - AimBot settings don't block Main UI
+ - No PinkDudes for teammates
+ - Aimbot revised upper body parts (see tooltip in settings)
+
+ Tweaks:
+ - FlyHack now notifies in OSD screen if something is wrong.
+ - FlyHack always disabled in lobby.
+ - FlyHack reapply rate increased a bit. No effect on how it works but drastical difference for network ticks.
+
+ - NoRecoil also makes all weapons shortest length
+ - NoRecoil / InstantADS reapply rate increased a bit. Barely noticeable by end user but drastical difference for network ticks.
+
+1.1.13.15+
+
+Fix:
+ - Pink Dudes fixed
+
+1.1.13.15
+
+0.12.12.18103 offsets
+
+1.1.13.14+
+
+Fix:
+ - Aimbot now ignores teammates
+ - Upper body parts now: head,neck, spine (chest), shoulders
+
+1.1.13.14
+
+Added:
+- FlyHack
+	Once in raid, click FlyHack and it will be active.
+	Flyhack persists between raids. You can enable disable flyhack in raid ONLY. (im lazy to code the logic)
+
+Tweaks:
+- PinkDude apply with different delay per players (not all at same time) -> less lags.
+
+
+Fix:
+- Issue when aimbot not initialized and crashed
+- Radar crash if overlay is initialized before starting.
+- Head and other bone positions being incorrect for ESP and Aimbot. (head on ground etc)
+
+1.1.13.12
+
+Tweaks:
+ - AimBot: Now aimbot doesn't drop lock if target moves too fast or you rotate too fast.
+	One locked via trigger (aim/tilt) it will follow the target until you stop aiming/tilting.
+
+Fixed:
+ - Player levels
+ - AimBot: "Only Neck" selecting giving issues (typo lol)
+ - NoRecoil now works as before (i.e. no sway while moving). If you got no FastAim, just re-click the button.
+
+1.1.13.11
+
+AIMBOT!
+
+WHAT?
+
+YES!
+
+
+NoRecoil behavior changed.
+- Radar will show a warning that you need aim in game for it to activate. Aimbot requires it to be accurate.
+Just click NoRecoil, aim in game and NoRecoil will enable itself. (do that between raids for now)
+
+AimBot settings added.
+Trigger by distance, degress (0.1 to whatever you like like 180 lol)
+Randomizer - a bit shaky aim idk, some may need it.
+Trigger by aiming - you aim, bot snaps.
+Trigger by tilt - you do Q or E in game, bot snaps. Keep holding Q or E tho.
+
+Various bone aiming options and even custom patterns.
+
+Report bugs as always.
+
+DON'T ABUSE AIMBOT.
+IT'S PROBABLY MOST RISKY SHIT OUTTA HERE.
+
+1.1.13.9 hotfix
+
+You can see if player has priority4 = ultra or priority5 = super items.
+You will see it on the right from value.
+
+1.1.13.9
+
+Inventory Reader added
+
+In Main tab there is a checkboxes:
+Inventory Value - it works snow.
+
+If enabled roundstart or midraid it will read all players inventory + new spawned ones.
+Right now it's done only once.
+
+Inventory Use Loot Filter
+It will apply filtering based on loot filter rules.
+Priority vs Price Average.
+Priority - count only items that match priority settings and add their PriceAverage to the total iventory value.
+Price Average - count only items that match Price Average settings and add their PriceAverage to the total iventory value.
+
+1.1.13.8
+
+Here's Johnny
+0.12.12.17861
+autodump
+
+1.1.13.7
+
+Loot through walls - removed 4 meters from the dropdown, now 3 is max.
+Unlimited Stamina seems safe, so now it' refilled at 40% vs 2%.
+Better player level calculation.
+
+1.1.13.6
+
+Loot through walls option.
+A bit dirty implementation but here we go.
+It works by moving your camera forward XX meters keeping your real position intact. (see Memory tab there is also help button with info now)
+
+1.1.13.5
+
+Thanks for testing.
+
+1.1.13.4
+
+Test Version
+
+1.1.13.3
+
+Added Kill Death ratio and Health percentage.
+Look at Main tab for options.
+Only shown for PMCs. (lmk if you need it for others)
+
+Health is shown and updated only when you look at the desired player for a half-second. (your line should cross player icon +-10 degrees)
+
+1.1.13.2
+
+Fix: Radar not cleaning up properly on death
+
+1.1.13.1
+
+Tweaked PinkDudes feature.
+
+Before: you shoot at the pink entity - it goes gray after, cool but not cool.
+
+After: radar now remembers who you were looking at for a while and reskins grayed one to be pink again around 2 seconds after.
+
+We can't do pinkify based on cooldown as it kills network ticks so we gotta implement something clever.
+
+Try it.
+Keep backups as always.
+
+1.1.12.28
+
+Added new write memory feature - Pink Dudes.
+
+When you click it radar will lag a little and make all players pink in the real game so you can see them at night without need for thermals or something.
+
+Report issues as always.
+
+1.1.12.22
+
+Added options in Other tab:
+- Opacity
+- Always on Top 
+
+Added options in Overlay tab:
+- Moonlight support
+
+Use Fullscreen if playing fullscreen mode via moonlight or Moonlight windowed is you use windowed mode.
+
+Apply right resolution and adjust moonlight window to avoid black bars (Stretch the window diagonally.) 
+
+1.1.12.21
+
+Added option to always show loot price regardless of ShowByValue setting.
+Some users wanted to keep Priority based filtering but also an ability to see item pricces as well.
+Sorry I forgot about it and never did in time. :D
+
+1.1.12.20
+
+0.12.12.16909 patch
+
+1.1.12.19
+
+0.12.12.16778 patch
+
+1.1.12.18
+
+0.12.12.16751 patch
+
+1.1.12.17
+
+fix: allow users see prices even if they use priority based filtering
+fix: refresh loot button is now always shown
+
+1.1.12.16
+
+
+Some error fixes. Thank you guys for reporting errors.
+
+1.1.12.15
+
+Refactor and some tweaks 5heads.
+Added better error handler.
+
+1.1.12.12
+
+Adressing 'Collection was modified' bug... maybe
+
+1.1.12.10
+
+Aight folks
+I fixed some OpenGL bugs that may help with REDX issue or not. (Lol really I don't have that one so it's pain to fix it.)
+Added - OpenGL exception toggle in Debug Tab
+If you still keep getting it, tick that and play, the error will popup, I need that error thing.
+Try also turning debug log that can generate extra logs.
+
+Also rewised offset system, so I'll enable it shortly so you don't have to download who exe if just offsets get update.
+
+Keep old version in case this one bugs out.
+
+1.1.12.9
+
+0.12.12.16415 patch
+
+
+1.1.12.8+
+
+Added Santa to show as RED on map with SANTA nickname.
+
+1.1.12.8
+
+Added No Fall Damage - click it and never break your legs ever again.
+Added Unlimited Stamina - run, let it drop to almost zero and see it restoring quickly (safe measure ya know)
+
+No Fall Damage - is server sided. Removed for now util I find better way.
+
+1.1.12.7
+
+Added 1000m slider to players / loot
+Sorry folks for this being late.
+
+1.1.12.5
+
+FPS Camera + Thermal/Visor/ESP should be working right.
+Added OSD indicators, both should be green.
+
+1.1.12.4
+
+
+Increased search limit for some ingame objects. Should help black screens.
+
+1.1.12.3
+
+
+New offsets in the app.
+Auto offset update disabled (need to do some LGBTQWERTY+ stuff in the code).
+
+1.1.12.2
+
+Fixed offsets not applying on the fly.
+
+1.1.12.0
+
+Introduced separate offsets file.
+Offsets update shall no longer force end user to redownload the whole application saving download times and server load.
+Offsets are applied on the fly and toast will appear on bottom right of the screen.
+Any error will simply fallback to the default offsets built in exe so no harm will be done.
+
+For core changes in the app a redownload is still required.
+TODO : Different alert for new app version.
+
+1.1.11.12
+
+Autobuild
+
+Trace Log now disabled by default - See Debug tab for the TraceLog toggle.
+
+1.1.11.11
+
+Added NoVisor and ThermalVision toggle options in Write Memory.
+
+MapManager no longer loads all maps into memory.
+Now it loads them as needed.
+
+Fixed radar issue when going into another raid. Report if still bugged.
+
+1.1.11.9
+
+Patch: 0.12.11.14674
+Ops! Typo!
+
+1.1.11.8
+...
+
+1.1.11.7
+
+Fixed some loot issue that was freezing the radar. Test it out.
+Hotfix: Forgot to fix some legacy stuff. Yikes.
+
+1.1.11.6
+
+Fix some weird loot on radar.
+
+1.1.11.4
+
+Fixed some container loot being at one place instead of where it should be.
+
+1.1.11.3
+
+Fixed an error where click stop/start button or auto cleanup was not working rendering loot and sometimes player loading not working on new raid or mid raid if button was clicked sometimes.
+Made sure Loot table location in memory is always up-to-date.
+This helps to keep loot being loaded and not discarded if radar is running and loot is available but when you haven't spawned yet. (Preparing Loot screen)
+
+1.1.11.2
+
+A bit more fixes.
+
+1.1.11.1
+
+Potential loot freeze fix.
+
+1.1.11.0
+
+Driver update resolves all BSOD issues for every Radar Game Type.
+This version lifts some BSOD countermeasures that are no longer needed.
+
+1.1.10.19
+
+Fixed another zero ticks.
+More BSOD checks.
+
+1.1.10.16
+
+New offsets: 0.12.11.13771
+Fixed anti-BSOD performance bottleneck.
+Potential BSOD fixes.
+
+1.1.10.11
+
+Updater fix.
+
+1.1.10.10
+
+0.12.11.13567 offsets
+
+1.1.10.6
+
+Live loot QoL fixes.
+Loot update and peek inside containers based on timestamp since last peek/update. (container changes take time so please be patient)
+Some "Jackets" are inaccessible, fix pending. 
+
+Enable and Disable Selected / All menu in Loot List categories.
+
+1.1.10.5
+
+QoL updates. Misc stuff.
+
+1.1.10.2
+
+Live loot.
+
+There is a live loot option in "Loot tab > Setting > LiveLoot checkbox".
+Refer to label tooptip for the info on how to use it.
+
+Here is a copy:
+	Players and Loot are updated every cycle.
+
+	Player Cycle length = 0.075 second minimum.
+	Loot Cycle length = 1 second minimum.
+
+	The more objects to update, the longer cycle is > slower radar.
+
+	Adjust live loot readings per cycle that fits best for you.
+	Default value is 40. (i.e. 40 loot objects per 1 second)
+
+	How it works:
+	It means that if you got 400 loot objects, they will be updated in about 10 cycles aka 10 seconds.
+
+	Also, you can always press update loot button to speed this up.
+	If you don't like live loot, just disable the checkbox and keep clicking the button as you did before.
+
+
+1.1.9.8
+
+Fixed Shoreline / Interchange follow player thing.
+
+1.1.9.7
+
+Update for 0.12.11.13411. Technical update nothing changed.
+Some extra logging for follow option.
+
+1.1.9.6
+Right click on map context menu added to make use for 3pc setup.
+You can follow any player of your choice from now on.
+
+1.1.9.4
+Bots colors fixed.
+
+1.1.9.3
+Update for 0.12.11.13124.
+Report if something not working (it's an auto analysis update).
+
+1.1.9.2
+Update for 0.12.11.13074
+Report if something not working (it's an auto analysis update).
+
+1.1.8.3
+
+Update for 0.12.10.11565
+
+1.1.8.0
+
+Update for 0.12.9.11410
+
+1.1.7.8
+
+Update for 0.12.9.10901
+
+1.1.7.7
+
+Server IP selection
+Server Port selection added.
+
+1.1.7.4
+
+Internal HWID fixes.
+
+1.1.7.3
+
+Internal fixes
+
+1.1.6.11
+
+Memory Read fixes
+
+1.1.6.10
+
+Loot container readings should be better now.
+
+1.1.6.9
+
+
+More debug logs.
+
+1.1.6.8
+Changelog implemented. Will show in the first minute after update.
+Add separate color for Corpse.
+Player and Loot Icons sizes are separated.
+
+1.1.6.6
+Loot in Containers - Price per grid / slot
+Loot in Containers - test workaround for bsod
+Player nickname includes MemberCategory if it's Red a one.
+Remove minimize/maximize box from settings
+
+1.1.6.3
+...
