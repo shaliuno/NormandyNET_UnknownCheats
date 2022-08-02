@@ -1,0 +1,354 @@
+{
+  "Colors": {
+    "EntityColors": {
+      "Bot": "255, 128, 0",
+      "BotElite": "Yellow",
+      "BotHuman": "153, 51, 255",
+      "IconPlayerCheater": "255, 48, 48",
+      "PMC": "DodgerBlue",
+      "Special": "255, 48, 48",
+      "Boss": "255, 0, 128",
+      "Teammate": "Aqua",
+      "You": "Lime",
+      "Corpse": "White",
+      "Grenade": "Red",
+      "ListTeamColors": [
+        "MediumOrchid",
+        "255, 96, 255",
+        "96, 196, 255",
+        "Gold",
+        "MediumOrchid",
+        "255, 96, 255",
+        "96, 196, 255"
+      ]
+    },
+    "LootColors": {
+      "LootCategoryColors": {
+        "4.6x30": "165, 219, 111",
+        "5.7x28": "165, 219, 111",
+        "5.45x39": "165, 219, 111",
+        "5.56x45": "165, 219, 111",
+        "7.62x25": "165, 219, 111",
+        "7.62x39": "165, 219, 111",
+        "7.62x51": "165, 219, 111",
+        "7.62x54R": "165, 219, 111",
+        "9x18": "165, 219, 111",
+        "9x19": "165, 219, 111",
+        "9x21": "165, 219, 111",
+        "9x39": "165, 219, 111",
+        "12.7x55": "165, 219, 111",
+        "12.7x108": "165, 219, 111",
+        "12ga": "165, 219, 111",
+        "20ga": "165, 219, 111",
+        "23ga": "165, 219, 111",
+        "40mm": "165, 219, 111",
+        "45": "165, 219, 111",
+        "300BLK": "165, 219, 111",
+        "338L": "165, 219, 111",
+        "366TKM": "165, 219, 111",
+        "Additional Armors": "186, 173, 255",
+        "Armor Vests": "70, 132, 0",
+        "Armored Helmets": "58, 100, 183",
+        "Armored Rigs": "4, 66, 104",
+        "Assault Carbines": "56, 86, 170",
+        "Assault Rifles": "237, 171, 242",
+        "Attachments": "1, 89, 89",
+        "Auxillary Parts": "67, 163, 168",
+        "Backpacks": "128, 255, 128",
+        "Barrels": "191, 228, 255",
+        "Barter Items": "Silver",
+        "Bipods": "239, 174, 242",
+        "Bolt-Action Rifles": "163, 216, 110",
+        "Charging Handles": "206, 116, 47",
+        "Container": "164, 189, 169",
+        "Currency": "255, 128, 0",
+        "Foregrips": "157, 185, 221",
+        "Gas Blocks": "249, 189, 207",
+        "Handguards": "82, 135, 13",
+        "Headsets": "255, 132, 183",
+        "Keys": "128, 255, 0",
+        "Lights & Lasers": "0, 255, 128",
+        "Lootable": "229, 162, 117",
+        "Machine Guns": "161, 244, 223",
+        "Magazines": "70, 114, 196",
+        "Marksman Rifles": "161, 196, 56",
+        "Medical": "0, 255, 128",
+        "Melee": "56, 247, 196",
+        "Mounts": "123, 237, 178",
+        "Muzzle Devices": "198, 252, 156",
+        "Night Vision": "71, 255, 187",
+        "Parent Element": "252, 200, 196",
+        "Pistol Grips": "51, 151, 160",
+        "Pistols": "157, 104, 232",
+        "Port. Container": "170, 46, 85",
+        "Provisions": "242, 94, 58",
+        "Quest": "154, 249, 188",
+        "Receivers & Slides": "255, 128, 0",
+        "Shotguns": "15, 175, 34",
+        "Sights": "45, 137, 137",
+        "SMGs": "186, 247, 19",
+        "Special": "198, 106, 216",
+        "Stash": "152, 141, 239",
+        "Stocks & Chassis": "0, 128, 255",
+        "Tactical Rigs": "176, 0, 0",
+        "Throwables": "239, 210, 93",
+        "Tools": "186, 135, 53",
+        "Unknown": "167, 225, 153",
+        "Vanity": "96, 94, 233",
+        "Visors": "0, 128, 255",
+        ".45 Ammo": "Gray",
+        "Gun Parts": "Gray",
+        "SORT IT OUT": "Gray",
+        "0.357": "Gray",
+        "26x72": "Gray",
+        "26x73": "Gray",
+        "26x74": "Gray",
+        "26x75": "Gray",
+        "Mine Detector": "Gray",
+        "Receiver": "Gray"
+      }
+    }
+  },
+  "Debug": {},
+  "Entity": {
+    "Elevation": {
+      "Arrows": true,
+      "Type": 2
+    },
+    "LineOfSight": {
+      "Enemy": 111,
+      "You": 145,
+      "Solid": true
+    },
+    "Bodies": true,
+    "Distance": true,
+    "Health": true,
+    "Side": false,
+    "KDRatio": true,
+    "KDRatioThreshold": 9.0,
+    "InventoryValue": true,
+    "InventoryValueUseLootFilters": false,
+    "Level": true,
+    "LOS": true,
+    "Name": true,
+    "Weapon": true,
+    "ArmorClass": true
+  },
+  "Loot": {
+    "Show": true,
+    "LiveLoot": false,
+    "ShortNames": true,
+    "LiveLootPerCycle": 1,
+    "NameLengthLimit": 20,
+    "LootListToLookFor": [
+      "RPK-16",
+      "RB-AO key",
+      "G.Chain",
+      "SVDS",
+      "P. Gauge",
+      "REAP-IR scope eyecup"
+    ],
+    "LootCategorySuppressed": [
+      "Lootable"
+    ],
+    "AlwaysShowPriority": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "ShowByValue": false,
+    "ShowQuestItems": false,
+    "ShowPricesAlways": true,
+    "ForceShow": false,
+    "ValuePerSlot": false,
+    "Value": 50000,
+    "Aggregate": false,
+    "ReadLootInContainers": true
+  },
+  "Map": {
+    "CenterMap": false,
+    "DrawText": true,
+    "AutoHeight": true,
+    "ExfiltrationPoint": true,
+    "MapResolution": 0,
+    "IconSizePlayers": 0.95,
+    "IconSizeLoot": 0.74,
+    "TextScale": 0.86,
+    "HideTextAroundPlayer": true,
+    "HideTextAroundPlayerDistance": 207
+  },
+  "Overlay": {
+    "DrawDistance": 152,
+    "DrawDistanceLoot": 34,
+    "WindowStyle": 1,
+    "GameResolution": "1280, 768",
+    "Bones": {
+      "Humans": true,
+      "AI": true,
+      "HighDetail": false,
+      "DrawDistance": 150
+    }
+  },
+  "OnScreenDisplay": {
+    "DateTime": true,
+    "FPS": true,
+    "NetworkStats": true,
+    "Stats": true
+  },
+  "MemoryWriting": {
+    "DisclaimerAgreed": true,
+    "NoRecoil": {
+      "Intensity": 0.01,
+      "StreamerSafe": false,
+      "Enabled": true
+    },
+    "InstantADS": {
+      "Enabled": true
+    },
+    "UtilityHack": {
+      "Enabled": true
+    },
+    "NightVision": {
+      "Enabled": false
+    },
+    "PinkDudes": {
+      "Enabled": true
+    },
+    "NoVisor": {
+      "Enabled": true
+    },
+    "ThermalVision": {
+      "Enabled": false
+    },
+    "UnlimitedStamina": {
+      "Enabled": true
+    },
+    "AlwaysSprintAltMode": {
+      "Enabled": true
+    },
+    "FastRPM": {
+      "Enabled": true
+    },
+    "LootThroughWalls": {
+      "Distance": 3.0,
+      "Enabled": false
+    },
+    "SkillHack": {
+      "MagDrills": true,
+      "SuperJump": true,
+      "Enabled": true
+    },
+    "AimBot": {
+      "Randomizer": false,
+      "RandomizerStrength": 1.0,
+      "PredictionForce": 1.0,
+      "Prediction": false,
+      "TargetTeammates": false,
+      "TriggerByAiming": false,
+      "TriggerByTilt": true,
+      "Highlight": true,
+      "Prioritizing": false,
+      "ClosestToCrosshair": true,
+      "ClosestByDistance": false,
+      "Distance": 999,
+      "CycleBonesDelay": 5,
+      "SelectedBones": 0,
+      "CustomPatternBones": [
+        [
+          91,
+          112,
+          132,
+          14,
+          110,
+          89,
+          36,
+          37,
+          29
+        ],
+        [
+          115,
+          132,
+          90,
+          111,
+          89,
+          110,
+          112,
+          -1,
+          -1
+        ],
+        [
+          15,
+          16,
+          19,
+          24,
+          22,
+          17,
+          -1,
+          -1,
+          -1
+        ]
+      ],
+      "CustomPatternBoneIndex": 4,
+      "AngleX": 75.0,
+      "AngleY": 30.0,
+      "ClosestTargetOverride": false,
+      "DistanceOverride": 20.0,
+      "Enabled": true
+    },
+    "FlyHack": {
+      "Intensity": -0.15,
+      "Signatures": [
+        {
+          "address": 2253603677967,
+          "originalBytes": "80EPEa/4AQAA"
+        },
+        {
+          "address": 2253603678037,
+          "originalBytes": "80EPEa/4AQAA"
+        }
+      ],
+      "ProcessID": 4212,
+      "ImageBase": 140724337573888
+    },
+    "AlwaysSprint": {
+      "Signatures": [
+        {
+          "address": 0,
+          "originalBytes": null
+        },
+        {
+          "address": 0,
+          "originalBytes": null
+        }
+      ],
+      "ProcessID": 1,
+      "ImageBase": 140736090603520
+    },
+    "LeanHack": {
+      "Distance": 0.3,
+      "Enabled": true
+    },
+    "FastReload": {
+      "ClassName": "0872956a3d",
+      "Enabled": true,
+      "Signatures": [],
+      "ProcessID": 3768,
+      "ImageBase": 140714500030464
+    },
+    "FastRunning": {
+      "Enabled": true
+    },
+    "NoInertia": {
+      "Enabled": true
+    }
+  }
+}

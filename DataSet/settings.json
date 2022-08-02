@@ -1,0 +1,25 @@
+{
+  "UserInterface": {
+    "ShowUI": true,
+    "WindowDimensions": {
+      "Height": 706,
+      "Width": 738
+    },
+    "WindowLocation": {
+      "X": 911,
+      "Y": 346
+    },
+    "FullScreen": false,
+    "Opacity": 100.0,
+    "TopMost": false
+  },
+  "Network": {
+    "ServerAddress": "10.0.10.1",
+    "ServerPort": 11000,
+    "lastGameProcessID": 3768
+  },
+  "Debug": {
+    "TraceLogEnabled": false,
+    "OpenGlDebugEnabled": false
+  }
+}

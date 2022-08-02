@@ -1,0 +1,160 @@
+{
+  "Colors": {
+    "EntityColors": {
+      "EntityTypeColors": {
+        "Animal": "Green",
+        "Soldier": "0, 128, 192",
+        "SoldierNPC": "DodgerBlue",
+        "You": "128, 255, 0",
+        "Vehicle": "176, 0, 0",
+        "Vehicle - Ammotruck": "Magenta",
+        "Vehicle - Supplytruck": "153, 51, 255",
+        "Vehicle - Support": "153, 51, 255",
+        "Vehicle - Military": "0, 204, 0",
+        "Vehicle - Armored": "0, 128, 255",
+        "Vehicle - Civilian": "176, 0, 0",
+        "Vehicle - BikeMoto": "144, 0, 0",
+        "Vehicle - Aircraft": "Red",
+        "Vehicle - Watercraft": "51, 51, 255",
+        "Stationary": "255, 0, 160",
+        "Tent": "0, 255, 128",
+        "Crate - Ammo": "255, 160, 0",
+        "Crate - Common": "255, 160, 0",
+        "Crate - Military": "255, 160, 0",
+        "Car_Wreck": "196, 196, 196",
+        "Helicrash": "Maroon",
+        "Unknown": "White",
+        "Blacklist": "Gray",
+        "Vehicle - APC": "Gray",
+        "Vehicle - Bike": "Gray",
+        "Vehicle - Boat": "Gray",
+        "Vehicle - Supply": "Gray"
+      },
+      "OtherColors": {
+        "Friend": "Cyan",
+        "Admin": "Red",
+        "Invisible": "Gray",
+        "Side - BLUEFOR": "0, 96, 255",
+        "Side - OPFOR": "Red",
+        "Side - INDI": "LawnGreen",
+        "Side - CIV": "DarkGray"
+      }
+    },
+    "LootColors": {
+      "LootCategoryColors": {
+        "Ammunition": "165, 219, 111",
+        "Armband": "186, 173, 255",
+        "Attachments": "186, 135, 53",
+        "Backpacks": "70, 132, 0",
+        "Belts": "4, 66, 104",
+        "Communication": "56, 86, 170",
+        "Construction": "237, 171, 242",
+        "Cooking": "1, 89, 89",
+        "Crafting": "67, 163, 168",
+        "Electricity": "48, 31, 163",
+        "Equipment": "191, 228, 255",
+        "Eyewear": "169, 209, 232",
+        "Fishing": "239, 174, 242",
+        "Food": "163, 216, 110",
+        "Gloves": "255, 128, 0",
+        "Grenades": "157, 185, 221",
+        "Ghillie": "164, 189, 169",
+        "Headwear": "249, 189, 207",
+        "Holsters": "82, 135, 13",
+        "Large Storage": "14, 142, 76",
+        "Light Sources": "45, 24, 163",
+        "Liquid Containers": "161, 244, 223",
+        "Magazine": "70, 114, 196",
+        "Traps": "161, 196, 56",
+        "Masks": "30, 29, 127",
+        "Medical": "56, 247, 196",
+        "Melee Weapons": "123, 237, 178",
+        "Miscellaneous": "198, 252, 156",
+        "Navigation": "71, 255, 187",
+        "Optics": "252, 200, 196",
+        "Pants": "51, 151, 160",
+        "Protective Gear": "170, 46, 85",
+        "Repair Kits": "242, 94, 58",
+        "Seeds": "154, 249, 188",
+        "Shirts": "15, 175, 34",
+        "Shoes": "45, 137, 137",
+        "Small Storage": "186, 247, 19",
+        "Camping": "198, 106, 216",
+        "Tools": "152, 141, 239",
+        "Vehicle Parts": "57, 15, 140",
+        "Vests": "176, 0, 0",
+        "Weapons": "239, 210, 93"
+      },
+      "lootPriority0": "128, 64, 0",
+      "lootPriority1": "Lime",
+      "lootPriority2": "Aqua",
+      "lootPriority3": "128, 0, 255",
+      "lootPriority4": "Yellow",
+      "lootPriority5": "Red",
+      "lootPriorityQuest": "Yellow"
+    }
+  },
+  "Debug": {},
+  "Entity": {
+    "Elevation": {
+      "Arrows": true,
+      "Type": 0
+    },
+    "LineOfSight": {
+      "Enemy": 105,
+      "You": 141
+    },
+    "EntityTypesSuppressed": [
+      "Blacklist",
+      "Unknown"
+    ],
+    "Bodies": true,
+    "Distance": true,
+    "LOS": true,
+    "Name": true,
+    "Weapon": true,
+    "Animals": true,
+    "VehiclePassengers": false,
+    "VehiclePassengersDetailed": false
+  },
+  "Loot": {
+    "Show": true,
+    "LiveLoot": true,
+    "LiveLootPerCycle": 40,
+    "LootCategorySuppressed": [],
+    "AlwaysShowPriority": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      true
+    ],
+    "ShowByValue": false,
+    "ShowQuestItems": false,
+    "Value": 5
+  },
+  "Map": {
+    "CenterMap": true,
+    "DrawText": true,
+    "NetBubbleCircles": false,
+    "MapResolution": 0,
+    "IconSizePlayers": 1.0,
+    "IconSizeLoot": 0.5,
+    "IconSizeInfected": 0.5,
+    "TextScale": 1.0,
+    "ProximityAlert": true
+  },
+  "Overlay": {
+    "DrawDistance": 150,
+    "DrawDistanceLoot": 150,
+    "WindowStyle": 0,
+    "GameResolution": "1920, 1080"
+  },
+  "OnScreenDisplay": {
+    "DateTime": true,
+    "FPS": true,
+    "NetworkStats": true,
+    "Stats": true
+  }
+}

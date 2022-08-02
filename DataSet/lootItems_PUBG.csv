@@ -1,0 +1,429 @@
+TypeName,FriendlyName,EntityType,Category,Priority
+Item_Ammo_12Guage_C,12 Gauge Ammo,Loot,Ammo,1 Low
+Item_Ammo_300Magnum_C,300 Magnum Ammo,Loot,Ammo,1 Low
+Item_Ammo_45ACP_C,.45 ACP Ammo,Loot,Ammo,1 Low
+Item_Ammo_556mm_C,5.56mm Ammo,Loot,Ammo,1 Low
+Item_Ammo_762mm_C,7.62mm Ammo,Loot,Ammo,1 Low
+Item_Ammo_9mm_C,9mm Ammo,Loot,Ammo,1 Low
+Item_Ammo_Bolt_C,Crossbow Bolt,Loot,Ammo,1 Low
+Item_Ammo_Flare_C,Flare Gun Ammo,Loot,Ammo,1 Low
+WeapAK47_C,AKM,Loot,Assault Rifles,4 Ultra
+WeapAUG_C,AUG A3,Loot,Assault Rifles,4 Ultra
+WeapBerylM762_C,Beryl,Loot,Assault Rifles,4 Ultra
+WeapDuncansHK416_C,M416,Loot,Assault Rifles,4 Ultra
+WeapG36C_C,G36C,Loot,Assault Rifles,4 Ultra
+WeapGroza_C,Groza,Loot,Assault Rifles,4 Ultra
+WeapHK416_C,M416,Loot,Assault Rifles,4 Ultra
+WeapLunchmeatsAK47_C,AKM,Loot,Assault Rifles,4 Ultra
+WeapM16A4_C,M16A4,Loot,Assault Rifles,4 Ultra
+WeapMk47Mutant_C,Mk47 Mutant,Loot,Assault Rifles,4 Ultra
+WeapQBZ95_C,QBZ95,Loot,Assault Rifles,4 Ultra
+WeapSCAR-L_C,SCAR-L,Loot,Assault Rifles,4 Ultra
+Item_Weapon_AK47_C,AKM,Loot,Assault Rifles,4 Ultra
+Item_Weapon_AUG_C,AUG A3,Loot,Assault Rifles,4 Ultra
+Item_Weapon_BerylM762_C,Beryl,Loot,Assault Rifles,4 Ultra
+Item_Weapon_G36C_C,G36C,Loot,Assault Rifles,4 Ultra
+Item_Weapon_Groza_C,Groza,Loot,Assault Rifles,4 Ultra
+Item_Weapon_HK416_C,M416,Loot,Assault Rifles,4 Ultra
+Item_Weapon_M16A4_C,M16A4,Loot,Assault Rifles,4 Ultra
+Item_Weapon_Mk47Mutant_C,Mk47 Mutant,Loot,Assault Rifles,4 Ultra
+Item_Weapon_QBZ95_C,QBZ95,Loot,Assault Rifles,4 Ultra
+Item_Weapon_SCAR-L_C,SCAR-L,Loot,Assault Rifles,4 Ultra
+Item_Back_B_08_Lv3_C,Backpack (L3),Loot,Backpacks,5 Super
+Item_Back_C_01_Lv3_C,Backpack (L3),Loot,Backpacks,5 Super
+Item_Back_C_02_Lv3_C,Backpack (L3),Loot,Backpacks,5 Super
+Item_Back_E_01_Lv1_C,Backpack (L1),Loot,Backpacks,1 Low
+Item_Back_E_02_Lv1_C,Backpack (L1),Loot,Backpacks,1 Low
+Item_Back_F_01_Lv2_C,Backpack (L2),Loot,Backpacks,3 High
+Item_Back_F_02_Lv2_C,Backpack (L2),Loot,Backpacks,3 High
+InstantRevivalKit_C,Critical Response Kit,Loot,Consumables,1 Low
+Jerrycan,Jerrycan,Loot,Consumables,1 Low
+JerrycanFire,Jerrycan Fire,Loot,Consumables,1 Low
+Item_Boost_AdrenalineSyringe_C,Adrenaline Syringe,Loot,Consumables,3 High
+Item_Boost_EnergyDrink_C,Energy Drink,Loot,Consumables,1 Low
+Item_Boost_PainKiller_C,Painkiller,Loot,Consumables,1 Low
+Item_Chimera_Key_C,Secret Room Key,Loot,Consumables,1 Low
+Item_Heal_Bandage_C,Bandage,Loot,Consumables,1 Low
+Item_Heal_FirstAid_C,First Aid Kit,Loot,Consumables,3 High
+Item_Heal_MedKit_C,Med kit,Loot,Consumables,5 Super
+Item_Heaven_Key_C,Key,Loot,Consumables,5 Super
+Item_JerryCan_C,Gas Can,Loot,Consumables,1 Low
+Damage_BlueZone,Bluezone Damage,NULL,Damage,-1 Blacklist
+Damage_Drown,Drowning Damage,NULL,Damage,-1 Blacklist
+Damage_Explosion_BlackZone,Blackzone Damage,NULL,Damage,-1 Blacklist
+Damage_Explosion_Breach,Breach Explosion Damage,NULL,Damage,-1 Blacklist
+Damage_Explosion_C4,C4 Explosion Damage,NULL,Damage,-1 Blacklist
+Damage_Explosion_JerryCan,Jerrycan Explosion Damage,NULL,Damage,-1 Blacklist
+Damage_Explosion_Grenade,Grenade Explosion Damage,NULL,Damage,-1 Blacklist
+Damage_Explosion_LootTruck,Loot Truck Explosion Damage,NULL,Damage,-1 Blacklist
+Damage_Explosion_PanzerFaustBackBlast,Panzerfaust Backblast Damage,NULL,Damage,-1 Blacklist
+Damage_Explosion_PanzerFaustWarhead,Panzerfaust Explosion Damage,NULL,Damage,-1 Blacklist
+Damage_Explosion_PanzerFaustWarheadVehicleArmorPenetration,Panzerfaust Explosion Damage,NULL,Damage,-1 Blacklist
+Damage_Explosion_RedZone,Redzone Explosion Damage,NULL,Damage,-1 Blacklist
+Damage_Explosion_StickyBomb,Sticky Bomb Explosion Damage,NULL,Damage,-1 Blacklist
+Damage_Explosion_Vehicle,Vehicle Explosion Damage,NULL,Damage,-1 Blacklist
+Damage_Groggy,Bleed out damage,NULL,Damage,-1 Blacklist
+Damage_Gun,Gun Damage,NULL,Damage,-1 Blacklist
+Damage_HelicopterHit,Helicopter Hit Damage,NULL,Damage,-1 Blacklist
+Damage_Instant_Fall,Fall Damage,NULL,Damage,-1 Blacklist
+Damage_KillTruckHit,Kill Truck Hit Damage,NULL,Damage,-1 Blacklist
+Damage_KillTruckTurret,Kill Truck Turret Damage,NULL,Damage,-1 Blacklist
+Damage_Lava,Lava Damage,NULL,Damage,-1 Blacklist
+Damage_LootTruckHit,Loot Truck Damage,NULL,Damage,-1 Blacklist
+Damage_Melee,Melee Damage,NULL,Damage,-1 Blacklist
+Damage_MeleeThrow,Melee Throw Damage,NULL,Damage,-1 Blacklist
+Damage_Molotov,Molotov Damage,NULL,Damage,-1 Blacklist
+Damage_None,No Damage,NULL,Damage,-1 Blacklist
+Damage_Punch,Punch Damage,NULL,Damage,-1 Blacklist
+Damage_ShipHit,Ferry Damage,NULL,Damage,-1 Blacklist
+Damage_TrainHit,Train Damage,NULL,Damage,-1 Blacklist
+Damage_VehicleCrashHit,Vehicle Crash Damage,NULL,Damage,-1 Blacklist
+Damage_VehicleHit,Vehicle Damage,NULL,Damage,-1 Blacklist
+SpikeTrap,Spike Trap damage,NULL,Damage,-1 Blacklist
+WeapFNFal_C,SLR,Loot,DMRs,4 Ultra
+WeapMadsQBU88_C,QBU,Loot,DMRs,4 Ultra
+WeapMini14_C,Mini 14,Loot,DMRs,4 Ultra
+WeapMk14_C,Mk14 EBR,Loot,DMRs,4 Ultra
+WeapQBU88_C,QBU,Loot,DMRs,4 Ultra
+WeapSKS_C,SKS,Loot,DMRs,4 Ultra
+WeapVSS_C,VSS,Loot,DMRs,4 Ultra
+Item_Weapon_FNFal_C,SLR,Loot,DMRs,4 Ultra
+Item_Weapon_Mini14_C,Mini 14,Loot,DMRs,4 Ultra
+Item_Weapon_Mk14_C,Mk14 EBR,Loot,DMRs,4 Ultra
+Item_Weapon_QBU88_C,QBU,Loot,DMRs,4 Ultra
+Item_Weapon_SKS_C,SKS,Loot,DMRs,4 Ultra
+Item_Weapon_VSS_C,VSS,Loot,DMRs,1 Low
+BP_FireEffectController_C,Molotov Fire,NULL,Effects,-1 Blacklist
+BP_FireEffectController_JerryCan_C,Jerrycan Fire,NULL,Effects,-1 Blacklist
+BP_IncendiaryDebuff_C,Burn,NULL,Effects,-1 Blacklist
+BP_MolotovFireDebuff_C,Molotov Fire Damage,NULL,Effects,-1 Blacklist
+Buff_DecreaseBreathInApnea_C,Drowning,NULL,Effects,-1 Blacklist
+ProjMolotov_DamageField_Direct_C,Molotov Cocktail Fire Field,NULL,Effects,-1 Blacklist
+Lava,Lava,NULL,Environment,-1 Blacklist
+TslDestructibleSurfaceManager,Destructible Surface,NULL,Environment,-1 Blacklist
+TslPainCausingVolume,Lava,NULL,Environment,-1 Blacklist
+Item_Back_B_01_StartParachutePack_C,Parachute,Loot,Equipment,5 Super
+Item_Back_BackupParachute_C,Emergency Parachute,Loot,Equipment,5 Super
+WarModeStartParachutePack_C,Parachute,Loot,Equipment,5 Super
+Item_Ghillie_01_C,Ghillie Suit,Loot,Ghillie,5 Super
+Item_Ghillie_02_C,Ghillie Suit,Loot,Ghillie,5 Super
+Item_Ghillie_03_C,Ghillie Suit,Loot,Ghillie,5 Super
+Item_Ghillie_04_C,Ghillie Suit,Loot,Ghillie,5 Super
+Item_Ghillie_05_C,Ghillie Suit,Loot,Ghillie,5 Super
+Item_Ghillie_06_C,Ghillie Suit,Loot,Ghillie,5 Super
+Item_Head_E_01_Lv1_C,Helmet (L1),Loot,Helmets,1 Low
+Item_Head_E_02_Lv1_C,Helmet (L1),Loot,Helmets,1 Low
+Item_Head_F_01_Lv2_C,Helmet (L2),Loot,Helmets,3 High
+Item_Head_F_02_Lv2_C,Helmet (L2),Loot,Helmets,3 High
+Item_Head_G_01_Lv3_C,Helmet (L3),Loot,Helmets,5 Super
+WeapDP28_C,DP-28,Loot,LMGs,4 Ultra
+WeapM249_C,M249,Loot,LMGs,4 Ultra
+WeapMG3_C,MG3,Loot,LMGs,4 Ultra
+Item_Weapon_DP28_C,DP-28,Loot,LMGs,4 Ultra
+Item_Weapon_M249_C,M249,Loot,LMGs,4 Ultra
+Item_Weapon_MG3_C,MG3,Loot,LMGs,4 Ultra
+Item_Attach_Weapon_Lower_AngledForeGrip_C,Angled Foregrip,Loot,Lower Rails,2 Medium
+Item_Attach_Weapon_Lower_Foregrip_C,Vertical Foregrip,Loot,Lower Rails,2 Medium
+Item_Attach_Weapon_Lower_HalfGrip_C,Half Grip,Loot,Lower Rails,2 Medium
+Item_Attach_Weapon_Lower_LaserPointer_C,Laser Sight,Loot,Lower Rails,2 Medium
+Item_Attach_Weapon_Lower_LightweightForeGrip_C,Light Grip,Loot,Lower Rails,2 Medium
+Item_Attach_Weapon_Lower_QuickDraw_Large_Crossbow_C,QuickDraw Crossbow Quiver,Loot,Lower Rails,2 Medium
+Item_Attach_Weapon_Lower_ThumbGrip_C,Thumb Grip,Loot,Lower Rails,2 Medium
+Item_Attach_Weapon_Magazine_Extended_Large_C,Extended Mag (AR DMR M249 S12K),Loot,Magazines,3 High
+Item_Attach_Weapon_Magazine_Extended_Medium_C,Extended Mag (Handgun SMG),Loot,Magazines,3 High
+Item_Attach_Weapon_Magazine_Extended_Small_C,Extended Mag (Handgun),Loot,Magazines,3 High
+Item_Attach_Weapon_Magazine_Extended_SniperRifle_C,Extended Mag (DMR SR),Loot,Magazines,3 High
+Item_Attach_Weapon_Magazine_ExtendedQuickDraw_Large_C,Extended QuickDraw Mag (AR DMR M249 S12K),Loot,Magazines,4 Ultra
+Item_Attach_Weapon_Magazine_ExtendedQuickDraw_Medium_C,Extended QuickDraw Mag (Handgun SMG),Loot,Magazines,4 Ultra
+Item_Attach_Weapon_Magazine_ExtendedQuickDraw_Small_C,Extended QuickDraw Mag (Handgun),Loot,Magazines,4 Ultra
+Item_Attach_Weapon_Magazine_ExtendedQuickDraw_SniperRifle_C,Extended QuickDraw Mag (DMR SR),Loot,Magazines,4 Ultra
+Item_Attach_Weapon_Magazine_QuickDraw_Large_C,QuickDraw Mag (AR DMR M249 S12K),Loot,Magazines,2 Medium
+Item_Attach_Weapon_Magazine_QuickDraw_Medium_C,Quickdraw Mag (Handgun SMG),Loot,Magazines,2 Medium
+Item_Attach_Weapon_Magazine_QuickDraw_Small_C,Quickdraw Mag (Handgun),Loot,Magazines,2 Medium
+Item_Attach_Weapon_Magazine_QuickDraw_SniperRifle_C,Quickdraw Mag (DMR SR),Loot,Magazines,2 Medium
+Baltic_Main_C,Erangel (Remastered),MapType,MapNames,-1 Blacklist
+Chimera_Main_C,Paramo,MapType,MapNames,-1 Blacklist
+Desert_Main_C,Miramar,MapType,MapNames,-1 Blacklist
+DihorOtok_Main_C,Vikendi,MapType,MapNames,-1 Blacklist
+Erangel_Main_C,Erangel,MapType,MapNames,-1 Blacklist
+Heaven_Main_C,Haven,MapType,MapNames,-1 Blacklist
+Range_Main_C,Camp Jackal,MapType,MapNames,-1 Blacklist
+Savage_Main_C,Sanhok,MapType,MapNames,-1 Blacklist
+Summerland_Main_C,Karakin,MapType,MapNames,-1 Blacklist
+WeapCowbar_C,Crowbar,Loot,Melee Weapons,0 None
+WeapMachete_C,Machete,Loot,Melee Weapons,0 None
+WeapPan_C,Pan,Loot,Melee Weapons,4 Ultra
+WeapSickle_C,Sickle,Loot,Melee Weapons,0 None
+Item_Weapon_Cowbar_C,Crowbar,Loot,Melee Weapons,0 None
+Item_Weapon_Machete_C,Machete,Loot,Melee Weapons,0 None
+Item_Weapon_Pan_C,Pan,Loot,Melee Weapons,4 Ultra
+Item_Weapon_Sickle_C,Sickle,Loot,Melee Weapons,0 None
+Item_Attach_Weapon_Muzzle_Choke_C,Choke,Loot,Muzzles,0 None
+Item_Attach_Weapon_Muzzle_Compensator_Large_C,Compensator (AR DMR S12K),Loot,Muzzles,4 Ultra
+Item_Attach_Weapon_Muzzle_Compensator_Medium_C,Compensator (Handgun SMG),Loot,Muzzles,4 Ultra
+Item_Attach_Weapon_Muzzle_Compensator_SniperRifle_C,Compensator (DMR SR),Loot,Muzzles,4 Ultra
+Item_Attach_Weapon_Muzzle_Duckbill_C,Duckbill,Loot,Muzzles,1 Low
+Item_Attach_Weapon_Muzzle_FlashHider_Large_C,Flash Hider (AR DMR S12K),Loot,Muzzles,1 Low
+Item_Attach_Weapon_Muzzle_FlashHider_Medium_C,Flash Hider (Handgun SMG),Loot,Muzzles,1 Low
+Item_Attach_Weapon_Muzzle_FlashHider_SniperRifle_C,Flash Hider (DMR SR),Loot,Muzzles,1 Low
+Item_Attach_Weapon_Muzzle_Suppressor_Large_C,Supressor (AR DMR S12K),Loot,Muzzles,5 Super
+Item_Attach_Weapon_Muzzle_Suppressor_Medium_C,Supressor (Handgun SMG),Loot,Muzzles,2 Medium
+Item_Attach_Weapon_Muzzle_Suppressor_Small_C,Supressor (Handgun),Loot,Muzzles,3 High
+Item_Attach_Weapon_Muzzle_Suppressor_SniperRifle_C,Supressor (DMR SR),Loot,Muzzles,5 Super
+None,None,NULL,Null,-1 Blacklist
+WeapDesertEagle_C,Deagle,Loot,Pistols,1 Low
+WeapG18_C,P18C,Loot,Pistols,1 Low
+WeapM1911_C,P1911,Loot,Pistols,1 Low
+WeapM9_C,P92,Loot,Pistols,1 Low
+WeapNagantM1895_C,R1895,Loot,Pistols,1 Low
+WeapRhino_C,R45,Loot,Pistols,1 Low
+Item_Weapon_DesertEagle_C,Deagle,Loot,Pistols,1 Low
+Item_Weapon_G18_C,P18C,Loot,Pistols,1 Low
+Item_Weapon_M1911_C,P1911,Loot,Pistols,1 Low
+Item_Weapon_M9_C,P92,Loot,Pistols,1 Low
+Item_Weapon_NagantM1895_C,R1895,Loot,Pistols,1 Low
+Item_Weapon_Rhino_C,R45,Loot,Pistols,1 Low
+AIPawn_Base_Female_C,AI Player,Player,N/A,-1 Blacklist
+AIPawn_Base_Male_C,AI Player,Player,N/A,-1 Blacklist
+PlayerFemale_A_C,Player,Player,Players,-1 Blacklist
+PlayerMale_A_C,Player,Player,Players,-1 Blacklist
+ParachutePlayer_C,Parachute Player,Player,Players,-1 Blacklist
+ParachutePlayer_Warmode_C,Parachute Player Warmode,Player,Players,-1 Blacklist
+PanzerFaust100M_Projectile_C,Panzerfaust Projectile,NULL,Projectiles,-1 Blacklist
+WeapCowbarProjectile_C,Crowbar Projectile,NULL,Projectiles,-1 Blacklist
+WeapMacheteProjectile_C,Machete Projectile,NULL,Projectiles,-1 Blacklist
+WeapPanProjectile_C,Pan Projectile,NULL,Projectiles,-1 Blacklist
+WeapSickleProjectile_C,Sickle Projectile,NULL,Projectiles,-1 Blacklist
+WeapBerreta686_C,S686,Loot,Shotguns,2 Medium
+WeapDP12_C,DBS,Loot,Shotguns,2 Medium
+WeapSaiga12_C,S12K,Loot,Shotguns,2 Medium
+WeapSawnoff_C,Sawed-off,Loot,Shotguns,2 Medium
+WeapWinchester_C,S1897,Loot,Shotguns,2 Medium
+Item_Weapon_Berreta686_C,S686,Loot,Shotguns,2 Medium
+Item_Weapon_DP12_C,DBS,Loot,Shotguns,2 Medium
+Item_Weapon_Saiga12_C,S12K,Loot,Shotguns,2 Medium
+Item_Weapon_Sawnoff_C,Sawed-off,Loot,Shotguns,2 Medium
+Item_Weapon_Winchester_C,S1897,Loot,Shotguns,2 Medium
+WeapAWM_C,AWM,Loot,Sniper Rifles,4 Ultra
+WeapJuliesKar98k_C,Kar98k,Loot,Sniper Rifles,4 Ultra
+WeapKar98k_C,Kar98k,Loot,Sniper Rifles,4 Ultra
+WeapM24_C,M24,Loot,Sniper Rifles,4 Ultra
+WeapMosinNagant_C,Mosin-Nagant,Loot,Sniper Rifles,4 Ultra
+WeapWin94_C,Win94,Loot,Sniper Rifles,4 Ultra
+Item_Weapon_AWM_C,AWM,Loot,Sniper Rifles,4 Ultra
+Item_Weapon_Kar98k_C,Kar98k,Loot,Sniper Rifles,4 Ultra
+Item_Weapon_M24_C,M24,Loot,Sniper Rifles,4 Ultra
+Item_Weapon_Mosin_C,Mosin-Nagant,Loot,Sniper Rifles,4 Ultra
+Item_Weapon_Win1894_C,Win94,Loot,Sniper Rifles,4 Ultra
+WeapPanzerFaust100M1_C,Panzerfaust,Loot,Special,4 Ultra
+WeapCrossbow_1_C,Crossbow,Loot,Special,1 Low
+Item_Weapon_Crossbow_C,Crossbow,Loot,Special,1 Low
+Item_Weapon_FlareGun_C,Flare Gun,Loot,Special,5 Super
+Item_Weapon_PanzerFaust100M_C,Panzerfaust,Loot,Special,4 Ultra
+SP6_EventItem_DVD_01_C,Event Item,Loot,Special,5 Super
+SP6_EventItem_DVD_02_C,Event Item,Loot,Special,5 Super
+SP6_EventItem_DVD_03_C,Event Item,Loot,Special,5 Super
+Item_Attach_Weapon_Stock_AR_Composite_C,Tactical Stock,Loot,Stocks,2 Medium
+Item_Attach_Weapon_Stock_Shotgun_BulletLoops_C,Shotgun Bullet Loops,Loot,Stocks,2 Medium
+Item_Attach_Weapon_Stock_SniperRifle_BulletLoops_C,Sniper Rifle Bullet Loops,Loot,Stocks,2 Medium
+Item_Attach_Weapon_Stock_SniperRifle_CheekPad_C,Sniper Rifle Cheek Pad,Loot,Stocks,2 Medium
+Item_Attach_Weapon_Stock_UZI_C,Uzi Stock,Loot,Stocks,1 Low
+WeapBizonPP19_C,Bizon,Loot,Submachine Guns,3 High
+WeapMP5K_C,MP5K,Loot,Submachine Guns,3 High
+WeapThompson_C,Tommy Gun,Loot,Submachine Guns,3 High
+WeapUMP_C,UMP9,Loot,Submachine Guns,3 High
+WeapUZI_C,Micro Uzi,Loot,Submachine Guns,3 High
+WeapVector_C,Vector,Loot,Submachine Guns,3 High
+Weapvz61Skorpion_C,Skorpion,Loot,Submachine Guns,3 High
+Item_Weapon_BizonPP19_C,Bizon,Loot,Submachine Guns,3 High
+Item_Weapon_MP5K_C,MP5K,Loot,Submachine Guns,3 High
+Item_Weapon_Thompson_C,Tommy Gun,Loot,Submachine Guns,3 High
+Item_Weapon_UMP_C,UMP9,Loot,Submachine Guns,3 High
+Item_Weapon_UZI_C,Micro Uzi,Loot,Submachine Guns,3 High
+Item_Weapon_Vector_C,Vector,Loot,Submachine Guns,3 High
+Item_Weapon_vz61Skorpion_C,Skorpion,Loot,Submachine Guns,3 High
+BP_Spiketrap_C,Spike Trap,Loot,Throwables,2 Medium
+ProjC4_C,C4,Loot,Throwables,2 Medium
+ProjGrenade_C,Frag Grenade,Loot,Throwables,2 Medium
+ProjIncendiary_C,Incendiary,Loot,Throwables,2 Medium
+ProjMolotov_C,Molotov Cocktail,Loot,Throwables,2 Medium
+ProjStickyGrenade_C,Sticky Bomb,Loot,Throwables,2 Medium
+Item_Back_BlueBlocker,Jammer Pack,Loot,Throwables,2 Medium
+Item_Weapon_Apple_C,Apple,Loot,Throwables,2 Medium
+Item_Weapon_C4_C,C4,Loot,Throwables,2 Medium
+Item_Weapon_DecoyGrenade_C,Decoy Grenade,Loot,Throwables,2 Medium
+Item_Weapon_FlashBang_C,Flashbang,Loot,Throwables,2 Medium
+Item_Weapon_Grenade_C,Frag Grenade,Loot,Throwables,2 Medium
+Item_Weapon_Grenade_Warmode_C,Frag Grenade,Loot,Throwables,2 Medium
+Item_Weapon_Molotov_C,Molotov Cocktail,Loot,Throwables,2 Medium
+Item_Weapon_Rock_C,Rock,Loot,Throwables,2 Medium
+Item_Weapon_SmokeBomb_C,Smoke Grenade,Loot,Throwables,2 Medium
+Item_Weapon_Snowball_C,Snowball,Loot,Throwables,2 Medium
+Item_Weapon_SpikeTrap_C,Spike Trap,Loot,Throwables,2 Medium
+Item_Weapon_StickyGrenade_C,Sticky Bomb,Loot,Throwables,2 Medium
+Item_Attach_Weapon_SideRail_DotSight_RMR_C,Canted Sight,Loot,Upper Rails,3 High
+Item_Attach_Weapon_Upper_ACOG_01_C,4x ACOG Scope,Loot,Upper Rails,4 Ultra
+Item_Attach_Weapon_Upper_Aimpoint_C,2x Aimpoint Scope,Loot,Upper Rails,3 High
+Item_Attach_Weapon_Upper_CQBSS_C,8x CQBSS Scope,Loot,Upper Rails,5 Super
+Item_Attach_Weapon_Upper_DotSight_01_C,Red Dot Sight,Loot,Upper Rails,3 High
+Item_Attach_Weapon_Upper_Holosight_C,Holographic Sight,Loot,Upper Rails,3 High
+Item_Attach_Weapon_Upper_PM2_01_C,15x PM II Scope,Loot,Upper Rails,5 Super
+Item_Attach_Weapon_Upper_Scope3x_C,3x Scope,Loot,Upper Rails,4 Ultra
+Item_Attach_Weapon_Upper_Scope6x_C,6x Scope,Loot,Upper Rails,4 Ultra
+AquaRail_A_01_C,Aquarail,Vehicle,Vehicles,-1 Blacklist
+AquaRail_A_02_C,Aquarail,Vehicle,Vehicles,-1 Blacklist
+AquaRail_A_03_C,Aquarail,Vehicle,Vehicles,-1 Blacklist
+Boat_PG117_C,PG-117,Vehicle,Vehicles,-1 Blacklist
+BP_BRDM_C,BRDM-2,Vehicle,Vehicles,-1 Blacklist
+BP_Dirtbike_C,Dirt Bike,Vehicle,Vehicles,-1 Blacklist
+BP_DO_Circle_Train_Merged_C,Train,Vehicle,Vehicles,-1 Blacklist
+BP_DO_Line_Train_Dino_Merged_C,Train,Vehicle,Vehicles,-1 Blacklist
+BP_DO_Line_Train_Merged_C,Train,Vehicle,Vehicles,-1 Blacklist
+BP_Eragel_CargoShip01_C,Ferry Damage,Vehicle,Vehicles,-1 Blacklist
+BP_FakeLootProj_AmmoBox_C,Loot Truck,Vehicle,Vehicles,-1 Blacklist
+BP_FakeLootProj_MilitaryCrate_C,Loot Truck,Vehicle,Vehicles,-1 Blacklist
+BP_Helicopter_C,Pillar Scout Helicopter,Vehicle,Vehicles,-1 Blacklist
+BP_KillTruck_C,Tactical,Vehicle,Vehicles,-1 Blacklist
+BP_LootTruck_C,Loot Truck,Vehicle,Vehicles,-1 Blacklist
+BP_M_Rony_A_01_C,Rony,Vehicle,Vehicles,-1 Blacklist
+BP_M_Rony_A_02_C,Rony,Vehicle,Vehicles,-1 Blacklist
+BP_M_Rony_A_03_C,Rony,Vehicle,Vehicles,-1 Blacklist
+BP_Mirado_A_02_C,Mirado,Vehicle,Vehicles,-1 Blacklist
+BP_Mirado_A_03_Esports_C,Mirado,Vehicle,Vehicles,-1 Blacklist
+BP_Mirado_Open_03_C,Mirado,Vehicle,Vehicles,-1 Blacklist
+BP_Mirado_Open_04_C,Mirado,Vehicle,Vehicles,-1 Blacklist
+BP_Mirado_Open_05_C,Mirado,Vehicle,Vehicles,-1 Blacklist
+BP_Motorbike_04_C,Motorcycle,Vehicle,Vehicles,-1 Blacklist
+BP_Motorbike_04_Desert_C,Motorcycle,Vehicle,Vehicles,-1 Blacklist
+BP_Motorbike_04_SideCar_C,Motorcycle (w/ Sidecar),Vehicle,Vehicles,-1 Blacklist
+BP_Motorbike_04_SideCar_Desert_C,Motorcycle (w/ Sidecar),Vehicle,Vehicles,-1 Blacklist
+BP_Motorglider_C,Motor Glider,Vehicle,Vehicles,-1 Blacklist
+BP_Motorglider_Green_C,Motor Glider,Vehicle,Vehicles,-1 Blacklist
+BP_Niva_01_C,Zima,Vehicle,Vehicles,-1 Blacklist
+BP_Niva_02_C,Zima,Vehicle,Vehicles,-1 Blacklist
+BP_Niva_03_C,Zima,Vehicle,Vehicles,-1 Blacklist
+BP_Niva_04_C,Zima,Vehicle,Vehicles,-1 Blacklist
+BP_Niva_05_C,Zima,Vehicle,Vehicles,-1 Blacklist
+BP_Niva_06_C,Zima,Vehicle,Vehicles,-1 Blacklist
+BP_Niva_07_C,Zima,Vehicle,Vehicles,-1 Blacklist
+BP_PickupTruck_A_01_C,Pickup Truck (closed top),Vehicle,Vehicles,-1 Blacklist
+BP_PickupTruck_A_02_C,Pickup Truck (closed top),Vehicle,Vehicles,-1 Blacklist
+BP_PickupTruck_A_03_C,Pickup Truck (closed top),Vehicle,Vehicles,-1 Blacklist
+BP_PickupTruck_A_04_C,Pickup Truck (closed top),Vehicle,Vehicles,-1 Blacklist
+BP_PickupTruck_A_05_C,Pickup Truck (closed top),Vehicle,Vehicles,-1 Blacklist
+BP_PickupTruck_A_esports_C,Pickup Truck (closed top),Vehicle,Vehicles,-1 Blacklist
+BP_PickupTruck_B_01_C,Pickup Truck (open top),Vehicle,Vehicles,-1 Blacklist
+BP_PickupTruck_B_02_C,Pickup Truck (open top),Vehicle,Vehicles,-1 Blacklist
+BP_PickupTruck_B_03_C,Pickup Truck (open top),Vehicle,Vehicles,-1 Blacklist
+BP_PickupTruck_B_04_C,Pickup Truck (open top),Vehicle,Vehicles,-1 Blacklist
+BP_PickupTruck_B_05_C,Pickup Truck (open top),Vehicle,Vehicles,-1 Blacklist
+BP_Scooter_01_A_C,Scooter,Vehicle,Vehicles,-1 Blacklist
+BP_Scooter_02_A_C,Scooter,Vehicle,Vehicles,-1 Blacklist
+BP_Scooter_03_A_C,Scooter,Vehicle,Vehicles,-1 Blacklist
+BP_Scooter_04_A_C,Scooter,Vehicle,Vehicles,-1 Blacklist
+BP_Snowbike_01_C,Snowbike,Vehicle,Vehicles,-1 Blacklist
+BP_Snowbike_02_C,Snowbike,Vehicle,Vehicles,-1 Blacklist
+BP_Snowmobile_01_C,Snowmobile,Vehicle,Vehicles,-1 Blacklist
+BP_Snowmobile_02_C,Snowmobile,Vehicle,Vehicles,-1 Blacklist
+BP_Snowmobile_03_C,Snowmobile,Vehicle,Vehicles,-1 Blacklist
+BP_TukTukTuk_A_01_C,Tukshai,Vehicle,Vehicles,-1 Blacklist
+BP_TukTukTuk_A_02_C,Tukshai,Vehicle,Vehicles,-1 Blacklist
+BP_TukTukTuk_A_03_C,Tukshai,Vehicle,Vehicles,-1 Blacklist
+BP_Van_A_01_C,Van,Vehicle,Vehicles,-1 Blacklist
+BP_Van_A_02_C,Van,Vehicle,Vehicles,-1 Blacklist
+BP_Van_A_03_C,Van,Vehicle,Vehicles,-1 Blacklist
+Buggy_A_01_C,Buggy,Vehicle,Vehicles,-1 Blacklist
+Buggy_A_02_C,Buggy,Vehicle,Vehicles,-1 Blacklist
+Buggy_A_03_C,Buggy,Vehicle,Vehicles,-1 Blacklist
+Buggy_A_04_C,Buggy,Vehicle,Vehicles,-1 Blacklist
+Buggy_A_05_C,Buggy,Vehicle,Vehicles,-1 Blacklist
+Buggy_A_06_C,Buggy,Vehicle,Vehicles,-1 Blacklist
+Dacia_A_01_v2_C,Dacia,Vehicle,Vehicles,-1 Blacklist
+Dacia_A_01_v2_snow_C,Dacia,Vehicle,Vehicles,-1 Blacklist
+Dacia_A_02_v2_C,Dacia,Vehicle,Vehicles,-1 Blacklist
+Dacia_A_03_v2_C,Dacia,Vehicle,Vehicles,-1 Blacklist
+Dacia_A_03_v2_Esports_C,Dacia,Vehicle,Vehicles,-1 Blacklist
+Dacia_A_04_v2_C,Dacia,Vehicle,Vehicles,-1 Blacklist
+PG117_A_01_C,PG-117,Vehicle,Vehicles,-1 Blacklist
+Uaz_A_01_C,UAZ (open top),Vehicle,Vehicles,-1 Blacklist
+Uaz_Armored_C,UAZ (armored),Vehicle,Vehicles,-1 Blacklist
+Uaz_B_01_C,UAZ (soft top),Vehicle,Vehicles,-1 Blacklist
+Uaz_B_01_esports_C,UAZ (soft top),Vehicle,Vehicles,-1 Blacklist
+Uaz_C_01_C,UAZ (hard top),Vehicle,Vehicles,-1 Blacklist
+WeapTurret_KillTruck_Main_C,Kill Truck Turret,Vehicle,Vehicles,-1 Blacklist
+WarModeTransportAircraft_C,C-130,Vehicle,Vehicles,-1 Blacklist
+TransportAircraft_Chimera_C,Helicopter,Vehicle,Vehicles,-1 Blacklist
+C-130,C-130,Vehicle,Vehicles,-1 Blacklist
+Item_Armor_C_01_Lv3_C,Vest (L3),Loot,Vests,5 Super
+Item_Armor_D_01_Lv2_C,Vest (L2),Loot,Vests,3 High
+Item_Armor_E_01_Lv1_C,Vest (L1),Loot,Vests,1 Low
+BattleRoyaleModeController_Chimera_C,Bluezone,Zone,Zone,-1 Blacklist
+BattleRoyaleModeController_Def_C,Bluezone,Zone,Zone,-1 Blacklist
+BattleRoyaleModeController_Desert_C,Bluezone,Zone,Zone,-1 Blacklist
+BattleRoyaleModeController_DihorOtok_C,Bluezone,Zone,Zone,-1 Blacklist
+BattleRoyaleModeController_Heaven_C,Bluezone,Zone,Zone,-1 Blacklist
+BattleRoyaleModeController_Savage_C,Bluezone,Zone,Zone,-1 Blacklist
+BattleRoyaleModeController_Summerland_C,Bluezone,Zone,Zone,-1 Blacklist
+BlackZoneController_Def_C,Blackzone,Zone,Zone,-1 Blacklist
+RedZoneBomb_C,Redzone,Zone,Zone,-1 Blacklist
+RedZoneBombingField,Redzone,Zone,Zone,-1 Blacklist
+Carapackage_RedBox_C,Carepackage,Carepackage,N/A,N/A
+DeathDropItemPackage_C,DeathBox,DeathBox,N/A,N/A
+DroppedItemGroup,DroppedItemGroup,LootGroup,N/A,N/A
+AbstractNavData-Default,AbstractNavData-Default,NULL,N/A,N/A
+BP_NewBotPlayerState_C,BP_NewBotPlayerState_C,NULL,N/A,N/A
+BP_PP_OutlineCustomDepthOcclusion_Inst_C,BP_PP_OutlineCustomDepthOcclusion_Inst_C,NULL,N/A,N/A
+BP_SmokeChild_C,BP_SmokeChild_C,NULL,N/A,N/A
+BP_SmokePropagationHost_v2_C,BP_SmokePropagationHost_v2_C,NULL,N/A,N/A
+CameraActor,CameraActor,NULL,N/A,N/A
+CullDistanceVolume,CullDistanceVolume,NULL,N/A,N/A
+DefaultPhysicsVolume,DefaultPhysicsVolume,NULL,N/A,N/A
+Equipment,Equipment,NULL,N/A,N/A
+FogEffectController,FogEffectController,NULL,N/A,N/A
+GunImpact_Med_C,GunImpact_Med_C,NULL,N/A,N/A
+GunImpact_Small_C,GunImpact_Small_C,NULL,N/A,N/A
+GunImpact_Sniper_C,GunImpact_Sniper_C,NULL,N/A,N/A
+Inventory,Inventory,NULL,N/A,N/A
+InventoryFacade,InventoryFacade,NULL,N/A,N/A
+Landscape,Landscape,NULL,N/A,N/A
+LandscapeGizmoActiveActor,LandscapeGizmoActiveActor,NULL,N/A,N/A
+LevelAttribute,LevelAttribute,NULL,N/A,N/A
+NavMeshBoundsVolume,NavMeshBoundsVolume,NULL,N/A,N/A
+P_Footprint_Dirt_BP_C,P_Footprint_Dirt_BP_C,NULL,N/A,N/A
+P_Footprint_Grass_BP_C,P_Footprint_Grass_BP_C,NULL,N/A,N/A
+P_Footprint_Rock_BP_C,P_Footprint_Rock_BP_C,NULL,N/A,N/A
+P_Footprint_Sand_BP_C,P_Footprint_Sand_BP_C,NULL,N/A,N/A
+P_Punch_BP_C,P_Punch_BP_C,NULL,N/A,N/A
+P_Swim_Ripples_BP_C,P_Swim_Ripples_BP_C,NULL,N/A,N/A
+P_SwimIdle_Ripples_BP_C,P_SwimIdle_Ripples_BP_C,NULL,N/A,N/A
+P_Trails_DirtRoad_Front_BP_C,P_Trails_DirtRoad_Front_BP_C,NULL,N/A,N/A
+P_Trails_DirtRoad_Rear_BP_C,P_Trails_DirtRoad_Rear_BP_C,NULL,N/A,N/A
+P_Trails_Large_Concrete_Front_BP_C,P_Trails_Large_Concrete_Front_BP_C,NULL,N/A,N/A
+P_Trails_Large_Concrete_Rear_BP_C,P_Trails_Large_Concrete_Rear_BP_C,NULL,N/A,N/A
+P_Trails_Large_Grass_Front_BP_C,P_Trails_Large_Grass_Front_BP_C,NULL,N/A,N/A
+P_Trails_Rock_Rear_BP_C,P_Trails_Rock_Rear_BP_C,NULL,N/A,N/A
+P_Trails_Sand_Front_BP_C,P_Trails_Sand_Front_BP_C,NULL,N/A,N/A
+P_Trails_Sand_Rear_BP_C,P_Trails_Sand_Rear_BP_C,NULL,N/A,N/A
+P_Vehicle_Muffler_BP_SingleExhaust_C,P_Vehicle_Muffler_BP_SingleExhaust_C,NULL,N/A,N/A
+ParticleEventManager,ParticleEventManager,NULL,N/A,N/A
+PoisonFogPrefab_C,PoisonFogPrefab_C,NULL,N/A,N/A
+RoadActor,RoadActor,NULL,N/A,N/A
+ShooterHUD_Default_C,ShooterHUD_Default_C,NULL,N/A,N/A
+TSLAchievement_BP_C,TSLAchievement_BP_C,NULL,N/A,N/A
+TslBattleRoyaleGameState,TslBattleRoyaleGameState,NULL,N/A,N/A
+TslBattleRoyalePlayerController,TslBattleRoyalePlayerController,NULL,N/A,N/A
+TslBattleRoyalePlayerState,TslBattleRoyalePlayerState,NULL,N/A,N/A
+TslDecalEmitter,TslDecalEmitter,NULL,N/A,N/A
+TslDistanceBasedEventManager,TslDistanceBasedEventManager,NULL,N/A,N/A
+TslDropMagazine,TslDropMagazine,NULL,N/A,N/A
+TslParticleEmitter,TslParticleEmitter,NULL,N/A,N/A
+TslParticleManager,TslParticleManager,NULL,N/A,N/A
+TslPlayerCameraManager,TslPlayerCameraManager,NULL,N/A,N/A
+TslRecastNavMesh-Harvey,TslRecastNavMesh-Harvey,NULL,N/A,N/A
+TslSimpleCollisionManager,TslSimpleCollisionManager,NULL,N/A,N/A
+TslStreamerManager,TslStreamerManager,NULL,N/A,N/A
+WorldSettings,WorldSettings,NULL,N/A,N/A
+ProjSmokeBomb_v2_C,ProjSmokeBomb_v2_C,NULL,N/A,N/A
+WeapGrenade_C,Grenade,Loot,Throwables,2 Medium
+WeapMolotov_C,Molotov Cocktail,Loot,Throwables,2 Medium
+WeapSmokeBomb_C,Smoke Bomb,Loot,Throwables,2 Medium

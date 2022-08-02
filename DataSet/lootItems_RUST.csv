@@ -1,0 +1,1797 @@
+FriendlyName,EntityType,Category,ObjectName
+_base_car,Loot,Vehicle Parts,assets/content/vehicles/modularcar/_base_car_chassis.entity.prefab
+12 Gauge Buckshot,Loot,Ammo,ammo.shotgun (world)
+12 Gauge Incendiary Shell,Loot,Ammo,ammo.shotgun.fire (world)
+12 Gauge Slug,Loot,Ammo,ammo.shotgun.slug (world)
+16x Zoom Scope,Loot,Weapons,weapon.mod.8x.scope (world)
+1module_cockpit,Loot,Vehicle Parts,assets/content/vehicles/modularcar/module_entities/1module_cockpit.prefab
+1module_cockpit_armored,Loot,Vehicle Parts,assets/content/vehicles/modularcar/module_entities/1module_cockpit_armored.prefab
+1module_cockpit_with_engine,Loot,Vehicle Parts,assets/content/vehicles/modularcar/module_entities/1module_cockpit_with_engine.prefab
+1module_engine,Loot,Vehicle Parts,assets/content/vehicles/modularcar/module_entities/1module_engine.prefab
+1module_flatbed,Loot,Vehicle Parts,assets/content/vehicles/modularcar/module_entities/1module_flatbed.prefab
+1module_passengers_armored,Loot,Vehicle Parts,assets/content/vehicles/modularcar/module_entities/1module_passengers_armored.prefab
+1module_rear_seats,Loot,Vehicle Parts,assets/content/vehicles/modularcar/module_entities/1module_rear_seats.prefab
+1module_storage,Loot,Vehicle Parts,assets/content/vehicles/modularcar/module_entities/1module_storage.prefab
+1module_taxi,Loot,Vehicle Parts,assets/content/vehicles/modularcar/module_entities/1module_taxi.prefab
+2 Module Car,Vehicle,Content Vehicles,assets/content/vehicles/modularcar/2module_car_spawned.entity.prefab
+2module_flatbed,Loot,Vehicle Parts,assets/content/vehicles/modularcar/module_entities/2module_flatbed.prefab
+2module_fuel_tank,Loot,Vehicle Parts,assets/content/vehicles/modularcar/module_entities/2module_fuel_tank.prefab
+2module_passengers,Loot,Vehicle Parts,assets/content/vehicles/modularcar/module_entities/2module_passengers.prefab
+3 Module Car,Vehicle,Content Vehicles,assets/content/vehicles/modularcar/3module_car_spawned.entity.prefab
+4 Module Car,Vehicle,Content Vehicles,assets/content/vehicles/modularcar/4module_car_spawned.entity.prefab
+40mm HE Grenade,Loot,Ammo,ammo.grenadelauncher.he (world)
+40mm Shotgun Round,Loot,Ammo,ammo.grenadelauncher.buckshot (world)
+40mm Smoke Grenade,Loot,Ammo,ammo.grenadelauncher.smoke (world)
+40mm_grenade_he,Loot,Ammo,assets/prefabs/ammo/40mmgrenade/40mm_grenade_he.prefab
+40mm_grenade_smoke,Loot,Ammo,assets/prefabs/ammo/40mmgrenade/40mm_grenade_smoke.prefab
+5.56 Rifle Ammo,Loot,Ammo,ammo.rifle (world)
+8x Zoom Scope,Loot,Weapons,weapon.mod.small.scope (world)
+8xscope,Loot,Prefabs Weapons Mods,assets/prefabs/weapon mods/8x scope/8xscope.entity.prefab
+8xscopevm,Loot,Prefabs Weapons Mods,assets/prefabs/weapon mods/8x scope/8xscope.vm.attachment.prefab
+A Barrel Costume,Loot,Clothing,barrelcostume (world)
+Above Ground Pool,Loot,Items,abovegroundpool (world)
+abovegroundpooldeployed,Blacklist,N/A,assets/prefabs/misc/summer_dlc/abovegroundpool/abovegroundpool.deployed.prefab
+Acoustic Guitar,Loot,Instruments,fun.guitar (world)
+Adv. Anti-Rad Tea,Loot,Potions,radiationresisttea.advanced (world)
+Advanced Healing Tea,Loot,Potions,healingtea.advanced (world)
+Advanced Max Health Tea,Loot,Potions,maxhealthtea.advanced (world)
+Advanced Ore Tea,Loot,Potions,oretea.advanced (world)
+Advanced Rad. Removal Tea,Loot,Potions,radiationremovetea.advanced (world)
+Advanced Scrap Tea,Loot,Potions,scraptea.advanced (world)
+Advanced Wood Tea,Loot,Potions,woodtea.advanced (world)
+Airwolf Spawner,PlayerNPC,N/A,assets/prefabs/npc/bandit/airwolfspawner.prefab
+ak47u,Loot,Prefabs Weapons,assets/prefabs/weapons/ak47u/ak47u.entity.prefab
+Alarm System,Blacklist,N/A,assets/prefabs/npc/ch47/alarmsytstem.prefab
+alarmsound,Blacklist,N/A,assets/prefabs/io/electric/other/alarmsound.prefab
+american_beech_a,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_temp_field_large/american_beech_a.prefab
+american_beech_a,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_temp_forest_deciduous_large/american_beech_a.prefab
+american_beech_a,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a.prefab
+american_beech_a,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_temp_forest_pine/american_beech_a.prefab
+american_beech_a_dead,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_temp_forest_deciduous_large/american_beech_a_dead.prefab
+american_beech_a_dead,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_a_dead.prefab
+american_beech_b,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_b.prefab
+american_beech_b,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_temp_forest_deciduous_large/american_beech_b.prefab
+american_beech_b,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_temp_forest_pine/american_beech_b.prefab
+american_beech_c,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_temp_forest/american_beech_c.prefab
+american_beech_c,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_temp_forest_pine/american_beech_c.prefab
+american_beech_c,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_temp_forest_deciduous_large/american_beech_c.prefab
+american_beech_d,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_temp_field/american_beech_d.prefab
+american_beech_d,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_temp_field_large/american_beech_d.prefab
+american_beech_d,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_temp_forest_deciduous_small/american_beech_d.prefab
+american_beech_d,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_temp_forestside/american_beech_d.prefab
+american_beech_d_dead,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_tundra_field/american_beech_d_dead.prefab
+american_beech_d_dead,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_tundra_forest_small/american_beech_d_dead.prefab
+american_beech_e,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_temp_forestside/american_beech_e.prefab
+american_beech_e,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_temp_forest_deciduous_small/american_beech_e.prefab
+american_beech_e,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_temp_field/american_beech_e.prefab
+american_beech_e_dead,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_temp_forestside/american_beech_e_dead.prefab
+american_beech_e_dead,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_temp_forest_deciduous_small/american_beech_e_dead.prefab
+american_beech_e_dead,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_tundra_field/american_beech_e_dead.prefab
+american_beech_e_dead,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_tundra_forest_small/american_beech_e_dead.prefab
+AND Switch,Loot,Electronics,electric.andswitch (world)
+andswitch,Blacklist,N/A,assets/prefabs/io/electric/switches/andswitch.prefab
+andswitchentity,Blacklist,N/A,assets/prefabs/deployable/playerioents/gates/andswitch/andswitch.entity.prefab
+Animal Fat,Loot,Resources,fat.animal (world)
+Anti-Rad Tea,Loot,Potions,radiationresisttea (world)
+Anti-Radiation Pills,Loot,Medicals,antiradpills (world)
+Apple,Loot,Food,apple (world)
+arcadeuser,Blacklist,N/A,assets/prefabs/vehicle/seats/arcadeuser.prefab
+Armored Cockpit Vehicle Module,Loot,Vehicle Parts,vehicle.1mod.cockpit.armored (world)
+doorhingedbunkerdoor,Blacklist,N/A,assets/bundled/prefabs/static/door.hinged.bunker.door.prefab
+doorhingedcargo_ship,Blacklist,N/A,assets/bundled/prefabs/static/door.hinged.cargo_ship.prefab
+Armored Passenger Vehicle Module,Loot,Vehicle Parts,vehicle.1mod.passengers.armored (world)
+Arrow,Loot,Ammo,assets/prefabs/ammo/arrow/arrow.prefab
+Assault Rifle,Loot,Weapons,rifle.ak (world)
+Audio Alarm,Loot,Electronics,electric.audioalarm (world)
+audioalarm,Blacklist,N/A,assets/prefabs/deployable/playerioents/alarms/audioalarm.prefab
+Auto Turret,Loot,Traps,assets/prefabs/npc/autoturret/autoturret_deployed.prefab
+Auto Turret,Loot,Traps,autoturret (world)
+axe_salvaged,Loot,Prefabs Weapons,assets/prefabs/weapons/salvaged_axe/axe_salvaged.entity.prefab
+Backpack,Loot,Corpse,assets/prefabs/misc/item drop/item_drop_backpack.prefab
+ballentity,Blacklist,N/A,assets/content/vehicles/ball/ball.entity.prefab
+bandage,Loot,Prefabs Weapons,assets/prefabs/weapons/bandage/bandage.entity.prefab
+Bandage,Loot,Medicals,bandage (world)
+Bandana Mask,Loot,Clothing,mask.bandana (world)
+Bandit Conversationalist,PlayerNPC,N/A,assets/prefabs/npc/bandit/shopkeepers/bandit_conversationalist.prefab
+Bandit Guard,PlayerNPC,N/A,assets/prefabs/npc/bandit/guard/bandit_guard.prefab
+Bandit Guard Gear,Loot,Clothing,attire.banditguard (world)
+Bandit Shopkeeper,PlayerNPC,N/A,assets/prefabs/npc/bandit/shopkeepers/bandit_shopkeeper.prefab
+Barbed Wooden Barricade,Loot,Construction,barricade.woodwire (world)
+Barbeque,Loot,Items,bbq (world)
+Barrel,Loot,Barrel,assets/bundled/prefabs/autospawn/resource/loot/loot-barrel-1.prefab
+Barrel,Loot,Barrel,assets/bundled/prefabs/autospawn/resource/loot/loot-barrel-2.prefab
+Barrel,Loot,Barrel,assets/bundled/prefabs/radtown/loot_barrel_1.prefab
+Barrel,Loot,Barrel,assets/bundled/prefabs/radtown/loot_barrel_2.prefab
+barricadeconcrete,Blacklist,N/A,assets/prefabs/deployable/barricades/barricade.concrete.prefab
+barricadecoverwood,Blacklist,N/A,assets/prefabs/deployable/barricades/barricade.cover.wood.prefab
+barricademetal,Blacklist,N/A,assets/prefabs/deployable/barricades/barricade.metal.prefab
+barricadesandbags,Blacklist,N/A,assets/prefabs/deployable/barricades/barricade.sandbags.prefab
+barricadestone,Blacklist,N/A,assets/prefabs/deployable/barricades/barricade.stone.prefab
+barricadewood,Blacklist,N/A,assets/prefabs/deployable/barricades/barricade.wood.prefab
+barricadewoodwire,Blacklist,N/A,assets/prefabs/deployable/barricades/barricade.woodwire.prefab
+Baseball Cap,Loot,Clothing,hat.cap (world)
+Basic Crate,Loot,Crate,assets/bundled/prefabs/radtown/crate_basic.prefab
+Basic Healing Tea,Loot,Potions,healingtea (world)
+Basic Horse Shoes,Loot,Clothing,horse.shoes.basic (world)
+Basic Max Health Tea,Loot,Potions,maxhealthtea (world)
+Basic Ore Tea,Loot,Potions,oretea (world)
+Basic Scrap Tea,Loot,Potions,scraptea (world)
+Basic Wood Tea,Loot,Potions,woodtea (world)
+bassweapon,Blacklist,N/A,assets/prefabs/instruments/bass/bass.weapon.prefab
+Battery - Small,Loot,Electronics,battery.small (world)
+bbqdeployed,Blacklist,N/A,assets/prefabs/deployable/bbq/bbq.deployed.prefab
+bbqstatic,Blacklist,N/A,assets/bundled/prefabs/static/bbq.static.prefab
+Beach Chair,Loot,Construction,beachchair (world)
+Beach Parasol,Loot,Construction,beachparasol (world)
+Beach Table,Loot,Construction,beachtable (world)
+Beach Towel,Loot,Construction,beachtowel (world)
+beachchairdeployed,Blacklist,N/A,assets/prefabs/misc/summer_dlc/beach_chair/beachchair.deployed.prefab
+beachparasoldeployed,Blacklist,N/A,assets/prefabs/misc/summer_dlc/beach_chair/beachparasol.deployed.prefab
+beachtabledeployed,Blacklist,N/A,assets/prefabs/misc/summer_dlc/beach_chair/beachtable.deployed.prefab
+beachtoweldeployed,Blacklist,N/A,assets/prefabs/misc/summer_dlc/beach_towel/beachtowel.deployed.prefab
+Beancan Grenade,Loot,Weapons,grenade.beancan (world)
+Bear,Animal,N/A,assets/rust.ai/agents/bear/bear.prefab
+Bear Full,Animal,N/A,assets/prefabs/npc/bear/bear_full.prefab
+Bear Trap,Loot,Traps,assets/prefabs/deployable/bear trap/beartrap.prefab
+Bed,Loot,Items,bed (world)
+bed_deployed,Blacklist,N/A,assets/prefabs/deployable/bed/bed_deployed.prefab
+Beenie Hat,Loot,Clothing,hat.beenie (world)
+big_wheel,Blacklist,N/A,assets/prefabs/misc/casino/bigwheel/big_wheel.prefab
+bigwheelbettingterminal,Blacklist,N/A,assets/prefabs/misc/casino/bigwheel/bigwheelbettingterminal.prefab
+binocularentity,Blacklist,N/A,assets/prefabs/tools/binoculars/binocular.entity.prefab
+Binoculars,Loot,Tools,tool.binoculars (world)
+birch_big_temp,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_big_temp.prefab
+birch_big_temp,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_temp_forest_pine/birch_big_temp.prefab
+birch_big_temp,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_temp_forest/birch_big_temp.prefab
+birch_big_temp,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_temp_forest_deciduous_large/birch_big_temp.prefab
+birch_big_tundra,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_tundra_field/birch_big_tundra.prefab
+birch_big_tundra,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_tundra_forest/birch_big_tundra.prefab
+birch_big_tundra,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_tundra_forest/birch_big_tundra.prefab
+birch_large_temp,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_temp_forest_pine/birch_large_temp.prefab
+birch_large_temp,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_temp_forest/birch_large_temp.prefab
+birch_large_temp,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_temp_forest_deciduous_large/birch_large_temp.prefab
+birch_large_temp,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_large_temp.prefab
+birch_large_tundra,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_tundra_forest/birch_large_tundra.prefab
+birch_large_tundra,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_tundra_forest/birch_large_tundra.prefab
+birch_large_tundra,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_tundra_field/birch_large_tundra.prefab
+birch_medium_temp,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_temp_forestside/birch_medium_temp.prefab
+birch_medium_temp,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_temp_forest/birch_medium_temp.prefab
+birch_medium_temp,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_temp_forest_deciduous_small/birch_medium_temp.prefab
+birch_medium_temp,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_temp_forest/birch_medium_temp.prefab
+birch_medium_tundra,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_tundra_field/birch_medium_tundra.prefab
+birch_medium_tundra,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_tundra_forestside/birch_medium_tundra.prefab
+birch_medium_tundra,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_tundra_forest/birch_medium_tundra.prefab
+birch_small_temp,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_temp_beachforest_small/birch_small_temp.prefab
+birch_small_temp,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_temp_forest/birch_small_temp.prefab
+birch_small_temp,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_temp_forest_deciduous_small/birch_small_temp.prefab
+birch_small_temp,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_temp_beachside/birch_small_temp.prefab
+birch_small_temp,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_temp_field/birch_small_temp.prefab
+birch_small_temp,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_temp_forestside/birch_small_temp.prefab
+birch_small_tundra,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_tundra_field/birch_small_tundra.prefab
+birch_small_tundra,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_tundra_forestside/birch_small_tundra.prefab
+birch_small_tundra,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_tundra_forest/birch_small_tundra.prefab
+birch_small_tundra,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_tundra_forest_small/birch_small_tundra.prefab
+birch_tiny_temp,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_temp_beachside/birch_tiny_temp.prefab
+birch_tiny_temp,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_temp_field/birch_tiny_temp.prefab
+birch_tiny_temp,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_temp_forestside/birch_tiny_temp.prefab
+birch_tiny_temp,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_temp_beachforest_small/birch_tiny_temp.prefab
+birch_tiny_temp,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_temp_field_small/birch_tiny_temp.prefab
+birch_tiny_temp,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_temp_forest/birch_tiny_temp.prefab
+birch_tiny_temp,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_temp_forest_deciduous_small/birch_tiny_temp.prefab
+birch_tiny_temp,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_temp_forest_small/birch_tiny_temp.prefab
+birch_tiny_tundra,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_tundra_forestside/birch_tiny_tundra.prefab
+birch_tiny_tundra,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_tundra_forest/birch_tiny_tundra.prefab
+birch_tiny_tundra,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_tundra_forest_small/birch_tiny_tundra.prefab
+birch_tiny_tundra,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_tundra_field/birch_tiny_tundra.prefab
+Birthday Cake,Loot,Food,cakefiveyear (world)
+Black Berry,Loot,Berries,assets/bundled/prefabs/autospawn/collectable/berry-black/berry-black-collectable.prefab
+Black Berry,Loot,Berries,assets/prefabs/plants/berrry/black/black_berry.entity.prefab
+Black Berry,Loot,Berries,black.berry (world)
+Black Berry Clone,Loot,Berries,clone.black.berry (world)
+Black Berry Seed,Loot,Seeds,seed.black.berry (world)
+Black Raspberries,Loot,Berries,black.raspberries (world)
+Bleach,Loot,Misc,bleach (world)
+Blocker,Loot,Electronics,electric.blocker (world)
+blockstairlshape,Blacklist,N/A,assets/prefabs/building core/stairs.l/block.stair.lshape.prefab
+blockstairspiral,Blacklist,N/A,assets/prefabs/building core/stairs.spiral/block.stair.spiral.prefab
+blockstairspiraltriangle,Blacklist,N/A,assets/prefabs/building core/stairs.spiral.triangle/block.stair.spiral.triangle.prefab
+blockstairushape,Blacklist,N/A,assets/prefabs/building core/stairs.u/block.stair.ushape.prefab
+Blood,Loot,Resources,blood (world)
+Blue Berry,Loot,Berries,assets/bundled/prefabs/autospawn/collectable/berry-blue/berry-blue-collectable.prefab
+Blue Berry,Loot,Berries,assets/prefabs/plants/berrry/blue/blue_berry.entity.prefab
+Blue Berry,Loot,Berries,blue.berry (world)
+Blue Berry Clone,Loot,Berries,clone.blue.berry (world)
+Blue Berry Seed,Loot,Seeds,seed.blue.berry (world)
+Blue Boomer,Loot,Misc,firework.boomer.blue (world)
+Blue Keycard,Loot,Items,keycard_blue (world)
+Blue Roman Candle,Loot,Misc,firework.romancandle.blue (world)
+Blueberries,Loot,Berries,blueberries (world)
+Blueprint,Loot,Items,blueprintbase (world)
+Boar,Animal,N/A,assets/rust.ai/agents/boar/boar.prefab
+boar.corpse,Loot,Corpse,assets/rust.ai/agents/boar/boar.corpse.prefab
+Boat Shopkeeper,PlayerNPC,N/A,assets/prefabs/npc/bandit/shopkeepers/boat_shopkeeper.prefab
+Boat Spawner,PlayerNPC,N/A,assets/prefabs/npc/bandit/boatspawner.prefab
+bobber,Blacklist,N/A,assets/prefabs/tools/fishing rod/bobber/bobber.prefab
+Bolt Action Rifle,Loot,Weapons,rifle.bolt (world)
+bolt_rifle,Loot,Prefabs Weapons,assets/prefabs/weapons/bolt rifle/bolt_rifle.entity.prefab
+Bone Armor,Loot,Clothing,bone.armor.suit (world)
+Bone Arrow,Loot,Ammo,arrow.bone (world)
+Bone Club,Loot,Weapons,bone.club (world)
+Bone Fragments,Loot,Resources,bone.fragments (world)
+Bone Helmet,Loot,Clothing,deer.skull.mask (world)
+Bone Knife,Loot,Weapons,knife.bone (world)
+bone_club,Loot,Prefabs Weapons,assets/prefabs/weapons/bone club/bone_club.entity.prefab
+Boogie Board,Loot,Items,boogieboard (world)
+boogieboarddeployed,Blacklist,N/A,assets/prefabs/misc/summer_dlc/boogie_board/boogieboard.deployed.prefab
+Boonie Hat,Loot,Clothing,hat.boonie (world)
+Boots,Loot,Clothing,shoes.boots (world)
+Bota Bag,Loot,Food,assets/prefabs/food/bota bag/bota_bag.entity.prefab
+Bota Bag,Loot,Food,botabag (world)
+Bottle,Loot,Food,assets/prefabs/food/small water bottle/smallwaterbottle.entity.prefab
+bow_hunting,Loot,Prefabs Weapons,assets/prefabs/weapons/bow/bow_hunting.entity.prefab
+Box,Loot,Prefabs Deployable,assets/prefabs/deployable/woodenbox/woodbox_deployed.prefab
+Bradley,Loot,Corpse,assets/prefabs/npc/m2bradley/servergibs_bradley.prefab
+Bradley APC,VehicleNPC,N/A,assets/prefabs/npc/m2bradley/bradleyapc.prefab
+Bradley Crate,Loot,Crate,assets/prefabs/npc/m2bradley/bradley_crate.prefab
+Bronze Egg,Loot,Misc,easter.bronzeegg (world)
+Bucket Helmet,Loot,Clothing,bucket.helmet (world)
+Building Plan,Loot,Construction,building.planner (world)
+Bunny Ears,Loot,Clothing,attire.bunnyears (world)
+Bunny Onesie,Loot,Clothing,attire.bunny.onesie (world)
+Burlap Gloves,Loot,Clothing,burlap.gloves.new (world)
+Burlap Headwrap,Loot,Clothing,burlap.headwrap (world)
+Burlap Shirt,Loot,Clothing,burlap.shirt (world)
+Burlap Shoes,Loot,Clothing,burlap.shoes (world)
+Burlap Trousers,Loot,Clothing,burlap.trousers (world)
+Burnt Bear Meat,Blacklist,N/A,bearmeat.burned (world)
+Burnt Chicken,Blacklist,N/A,chicken.burned (world)
+Burnt Deer Meat,Blacklist,N/A,deermeat.burned (world)
+Burnt Horse Meat,Blacklist,N/A,horsemeat.burned (world)
+Burnt Human Meat,Blacklist,N/A,humanmeat.burned (world)
+Burnt Pork,Blacklist,N/A,meat.pork.burned (world)
+Burnt Wolf Meat,Blacklist,N/A,wolfmeat.burned (world)
+bush_spicebush_a,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_bushes_tundra/bush_spicebush_a.prefab
+bush_spicebush_a,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_bushes_temp/bush_spicebush_a.prefab
+bush_spicebush_a_snow,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_bushes_arctic_forest/bush_spicebush_a_snow.prefab
+bush_spicebush_b,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_bushes_temp/bush_spicebush_b.prefab
+bush_spicebush_b,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_bushes_tundra/bush_spicebush_b.prefab
+bush_spicebush_c,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_bushes_temp/bush_spicebush_c.prefab
+bush_spicebush_c,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_bushes_tundra/bush_spicebush_c.prefab
+bush_spicebush_c_snow,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_bushes_arctic_forest/bush_spicebush_c_snow.prefab
+bush_spicebush_d,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_bushes_tundra/bush_spicebush_d.prefab
+bush_spicebush_d,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_bushes_temp/bush_spicebush_d.prefab
+bush_willow_a,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_bushes_temp/bush_willow_a.prefab
+bush_willow_b,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_bushes_temp/bush_willow_b.prefab
+bush_willow_c,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_bushes_temp/bush_willow_c.prefab
+bush_willow_d,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_bushes_temp/bush_willow_d.prefab
+bush_willow_snow_a,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_bushes_arctic/bush_willow_snow_a.prefab
+bush_willow_snow_a,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_bushes_arctic_forest/bush_willow_snow_a.prefab
+bush_willow_snow_b,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_bushes_arctic/bush_willow_snow_b.prefab
+bush_willow_snow_b,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_bushes_arctic_forest/bush_willow_snow_b.prefab
+bush_willow_snow_c,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_bushes_arctic/bush_willow_snow_c.prefab
+bush_willow_snow_c,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_bushes_arctic_forest/bush_willow_snow_c.prefab
+bush_willow_snow_d,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_bushes_arctic/bush_willow_snow_d.prefab
+bush_willow_snow_d,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_bushes_arctic_forest/bush_willow_snow_d.prefab
+bush_willow_snow_small_a,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_bushes_arctic/bush_willow_snow_small_a.prefab
+bush_willow_snow_small_b,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_bushes_arctic/bush_willow_snow_small_b.prefab
+Butcher Knife,Loot,Weapons,knife.butcher (world)
+butcherknife,Loot,Prefabs Weapons,assets/prefabs/weapons/halloween/butcher knife/butcherknife.entity.prefab
+button,Blacklist,N/A,assets/prefabs/deployable/playerioents/button/button.prefab
+Button,Loot,Electronics,electric.button (world)
+Cable Tunnel,Loot,Electronics,electric.cabletunnel (world)
+cabletunnel,Blacklist,N/A,assets/prefabs/deployable/playerioents/tunnel/cabletunnel.prefab
+Cactus Flesh,Loot,Food,cactusflesh (world)
+cactus-1,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_arid_cactus/cactus-1.prefab
+cactus-1,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_arid_cactus/cactus-1.prefab
+cactus-2,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_arid_cactus/cactus-2.prefab
+cactus-2,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_arid_cactus/cactus-2.prefab
+cactus-3,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_arid_cactus/cactus-3.prefab
+cactus-3,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_arid_cactus/cactus-3.prefab
+cactus-4,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_arid_cactus/cactus-4.prefab
+cactus-4,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_arid_cactus/cactus-4.prefab
+cactus-5,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_arid_cactus/cactus-5.prefab
+cactus-5,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_arid_cactus/cactus-5.prefab
+cactus-6,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_arid_cactus/cactus-6.prefab
+cactus-6,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_arid_cactus/cactus-6.prefab
+cactus-7,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_arid_cactus/cactus-7.prefab
+cactus-7,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_arid_cactus/cactus-7.prefab
+cake,Loot,Prefabs Weapons,assets/prefabs/weapons/cake/cake.entity.prefab
+Camera,Loot,Misc,tool.camera (world)
+Camp Fire,Loot,Items,campfire (world)
+campfire,Blacklist,N/A,assets/prefabs/deployable/campfire/campfire.prefab
+campfire_static,Blacklist,N/A,assets/bundled/prefabs/static/campfire_static.prefab
+Can of Beans,Loot,Food,can.beans (world)
+Can of Tuna,Loot,Food,can.tuna (world)
+Canbourine,Loot,Instruments,fun.tambourine (world)
+Candle Hat,Loot,Clothing,hat.candle (world)
+Candy Cane,Loot,Misc,candycane (world)
+Candy Cane Club,Loot,Misc,candycaneclub (world)
+candy_caneentity,Blacklist,N/A,assets/prefabs/misc/xmas/candy cane club/candy_cane.entity.prefab
+candyprojectile,Blacklist,N/A,assets/prefabs/misc/halloween/candies/candyprojectile.prefab
+capturepoint,Blacklist,N/A,assets/prefabs/gamemodes/objects/capturepoint/capturepoint.prefab
+Car Chassis 2,Loot,Vehicle Parts,assets/content/vehicles/modularcar/car_chassis_2module.entity.prefab
+Car Chassis 3,Loot,Vehicle Parts,assets/content/vehicles/modularcar/car_chassis_3module.entity.prefab
+Car Chassis 4,Loot,Vehicle Parts,assets/content/vehicles/modularcar/car_chassis_4module.entity.prefab
+Car Key,Loot,Items,car.key (world)
+Card Movember Moustache,Loot,Clothing,movembermoustachecard (world)
+cardreader,Blacklist,N/A,assets/prefabs/io/electric/switches/cardreader.prefab
+cardtable.static_configc,Blacklist,CheckThis,assets/prefabs/deployable/card table/cardtable.static_configc.prefab
+cardtableplayerstorage,Blacklist,CheckThis,assets/prefabs/deployable/card table/subents/cardtableplayerstorage.prefab
+cardtablepotstorage,Blacklist,CheckThis,assets/prefabs/deployable/card table/subents/cardtablepotstorage.prefab
+cardtableseat,Blacklist,CheckThis,assets/prefabs/deployable/card table/subents/cardtableseat.prefab
+Cargo Plane,VehicleNPC,N/A,assets/prefabs/npc/cargo plane/cargo_plane.prefab
+Cargo Ship,Vehicle,Content Vehicles,assets/content/vehicles/boats/cargoship/cargoshiptest.prefab
+cargomarker,Blacklist,N/A,assets/prefabs/tools/map/cargomarker.prefab
+carshredder.entity,Blacklist,CheckThis,assets/content/structures/carshredder/carshredder.entity.prefab
+cave_lift,Blacklist,N/A,assets/content/structures/lift_shaft/cave_lift.prefab
+cave_lift_trigger,Blacklist,N/A,assets/content/structures/lift_shaft/cave_lift_trigger.prefab
+CCTV Camera,Loot,Components,cctv.camera (world)
+cctv_deployed,Blacklist,N/A,assets/prefabs/deployable/cctvcamera/cctv_deployed.prefab
+cctvstatic,Blacklist,N/A,assets/prefabs/deployable/cctvcamera/cctv.static.prefab
+Ceiling Light,Loot,Items,ceilinglight (world)
+ceilinglightdeployed,Blacklist,N/A,assets/prefabs/deployable/ceiling light/ceilinglight.deployed.prefab
+ch47,Vehicle,N/A,assets/prefabs/npc/ch47/ch47.entity.prefab
+CH47,Loot,Corpse,assets/prefabs/npc/ch47/servergibs_ch47.prefab
+ch47 Scientists,VehicleNPC,N/A,assets/prefabs/npc/ch47/ch47scientists.entity.prefab
+ch47marker,Blacklist,N/A,assets/prefabs/tools/map/ch47marker.prefab
+Chainlink Fence,Loot,Construction,wall.frame.fence (world)
+Chainlink Fence Gate,Loot,Construction,wall.frame.fence.gate (world)
+chainsaw,Loot,Prefabs Weapons,assets/prefabs/weapons/chainsaw/chainsaw.entity.prefab
+Chainsaw,Loot,Tools,chainsaw (world)
+Chair,Loot,Items,chair (world)
+chairdeployed,Blacklist,N/A,assets/prefabs/deployable/chair/chair.deployed.prefab
+chairinvisiblestatic,Blacklist,N/A,assets/bundled/prefabs/static/chair.invisible.static.prefab
+chairstatic,Blacklist,N/A,assets/bundled/prefabs/static/chair.static.prefab
+Champagne Boomer,Loot,Misc,firework.boomer.champagne (world)
+Charcoal,Loot,Resources,charcoal (world)
+Chicken,Animal,N/A,assets/rust.ai/agents/chicken/chicken.prefab
+Chicken Corpse,Loot,Corpse,assets/rust.ai/agents/chicken/chicken.corpse.prefab
+Chinese Lantern,Loot,Items,chineselantern (world)
+chinese_door_decoration,Blacklist,N/A,assets/prefabs/misc/chinesenewyear/chinese_door_decoration/chinese_door_decoration.prefab
+chinese_door_frame_decoration,Blacklist,N/A,assets/prefabs/misc/chinesenewyear/chinese_door_frame_decoration/chinese_door_frame_decoration.prefab
+chineselanterndeployed,Blacklist,N/A,assets/prefabs/misc/chinesenewyear/chineselantern/chineselantern.deployed.prefab
+Chippy Arcade Game,Loot,Items,arcade.machine.chippy (world)
+chippyarcademachine,Blacklist,N/A,assets/prefabs/misc/chippy arcade/chippyarcademachine.prefab
+Chocolate Bar,Loot,Food,chocholate (world)
+Christmas Door Wreath,Loot,Misc,xmasdoorwreath (world)
+Christmas Lights,Loot,Misc,xmas.lightstring (world)
+Christmas Tree,Loot,Misc,xmas.tree (world)
+christmas_door_wreath_deployed,Blacklist,N/A,assets/prefabs/misc/xmas/wreath/christmas_door_wreath_deployed.prefab
+Clatter Helmet,Loot,Clothing,clatter.helmet (world)
+Cloth,Loot,Resources,cloth (world)
+Coal,Loot,Misc,coal (world)
+Cockpit Vehicle Module,Loot,Vehicle Parts,vehicle.1mod.cockpit (world)
+Cockpit With Engine Vehicle Module,Loot,Vehicle Parts,vehicle.1mod.cockpit.with.engine (world)
+Code Lock,Loot,Construction,lock.code (world)
+codelockedhackablecrate,Blacklist,N/A,assets/prefabs/deployable/chinooklockedcrate/codelockedhackablecrate.prefab
+codelockedhackablecrate_oilrig,Blacklist,N/A,assets/prefabs/deployable/chinooklockedcrate/codelockedhackablecrate_oilrig.prefab
+Coffee Can Helmet,Loot,Clothing,coffeecan.helmet (world)
+Coffin,Loot,Items,coffin.storage (world)
+coffinstorage,Blacklist,N/A,assets/prefabs/misc/halloween/coffin/coffinstorage.prefab
+collectablecandy,Blacklist,N/A,assets/prefabs/misc/halloween/candies/collectablecandy.prefab
+collectableegg,Blacklist,N/A,assets/prefabs/misc/easter/painted eggs/collectableegg.prefab
+Combat Knife,Loot,Weapons,knife.combat (world)
+community,Blacklist,N/A,assets/bundled/prefabs/system/server/community.prefab
+composter,Blacklist,N/A,assets/prefabs/deployable/composter/composter.prefab
+Composter,Loot,Items,composter (world)
+Compound Bow,Loot,Weapons,bow.compound (world)
+compound_bow,Loot,Prefabs Weapons,assets/prefabs/weapons/compound bow/compound_bow.entity.prefab
+Computer Station,Loot,Items,computerstation (world)
+computerstationdeployed,Blacklist,N/A,assets/prefabs/deployable/computerstation/computerstation.deployed.prefab
+Concrete Barricade,Loot,Construction,barricade.concrete (world)
+Cooked Bear Meat,Loot,Food,bearmeat.cooked (world)
+Cooked Chicken,Loot,Food,chicken.cooked (world)
+Cooked Deer Meat,Loot,Food,deermeat.cooked (world)
+Cooked Fish,Loot,Food,fish.cooked (world)
+Cooked Horse Meat,Loot,Food,horsemeat.cooked (world)
+Cooked Human Meat,Loot,Food,humanmeat.cooked (world)
+Cooked Pork,Loot,Food,meat.pork.cooked (world)
+Cooked Wolf Meat,Loot,Food,wolfmeat.cooked (world)
+copilotseat,Blacklist,N/A,assets/prefabs/vehicle/seats/copilotseat.prefab
+Corn,Loot,Food,assets/bundled/prefabs/autospawn/collectable/corn/corn-collectable.prefab
+Corn,Loot,Food,assets/prefabs/plants/corn/corn.entity.prefab
+Corn,Loot,Food,corn (world)
+Corn Clone,Loot,Food,clone.corn (world)
+Corn Seed,Loot,Seeds,seed.corn (world)
+counter,Blacklist,N/A,assets/prefabs/deployable/playerioents/counter/counter.prefab
+Counter,Loot,Electronics,electric.counter (world)
+Cowbell,Loot,Items,fun.cowbell (world)
+cowbellweapon,Blacklist,N/A,assets/prefabs/instruments/cowbell/cowbell.weapon.prefab
+craneoperator,Blacklist,CheckThis,assets/prefabs/vehicle/seats/craneoperator.prefab
+Crate Costume,Loot,Clothing,cratecostume (world)
+cratemarker,Blacklist,N/A,assets/prefabs/tools/map/cratemarker.prefab
+creosote_bush_a,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_bushes_arid_grass/creosote_bush_a.prefab
+creosote_bush_b,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_bushes_arid_grass/creosote_bush_b.prefab
+creosote_bush_c,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_bushes_arid_grass/creosote_bush_c.prefab
+creosote_bush_c,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_bushes_arid_desert/creosote_bush_c.prefab
+creosote_bush_d,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_bushes_arid_grass/creosote_bush_d.prefab
+creosote_bush_d,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_bushes_arid_desert/creosote_bush_d.prefab
+creosote_bush_dry_a,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_bushes_arid_dry/creosote_bush_dry_a.prefab
+creosote_bush_dry_b,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_bushes_arid_dry/creosote_bush_dry_b.prefab
+Crossbow,Loot,Weapons,crossbow (world)
+crossbowentity,Loot,Prefabs Weapons,assets/prefabs/weapons/crossbow/crossbow.entity.prefab
+Crude Oil,Loot,Resources,crude.oil (world)
+crudeoutput,Blacklist,N/A,assets/prefabs/deployable/oil jack/crudeoutput.prefab
+Cupboard Tool,House,N/A,assets/prefabs/deployable/tool cupboard/cupboard.tool.deployed.prefab
+Cursed Cauldron,Loot,Items,cursedcauldron (world)
+cursedcauldrondeployed,Blacklist,N/A,assets/prefabs/misc/halloween/cursed_cauldron/cursedcauldron.deployed.prefab
+Custom SMG,Loot,Weapons,smg.2 (world)
+dead_log_a,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/logs_dry/dead_log_a.prefab
+dead_log_a,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/logs_snow/dead_log_a.prefab
+dead_log_a,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/logs_wet/dead_log_a.prefab
+dead_log_b,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/logs_dry/dead_log_b.prefab
+dead_log_b,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/logs_snow/dead_log_b.prefab
+dead_log_b,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/logs_wet/dead_log_b.prefab
+dead_log_c,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/logs_dry/dead_log_c.prefab
+dead_log_c,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/logs_snow/dead_log_c.prefab
+dead_log_c,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/logs_wet/dead_log_c.prefab
+deathmatch,Blacklist,N/A,assets/prefabs/gamemodes/deathmatch.prefab
+debriswall,Blacklist,N/A,assets/prefabs/debris/debris.wall.prefab
+Decorative Baubels,Loot,Misc,xmas.decoration.baubels (world)
+Decorative Gingerbread Men,Loot,Misc,xmas.decoration.gingerbreadmen (world)
+Decorative Pinecones,Loot,Misc,xmas.decoration.pinecone (world)
+Decorative Plastic Candy Canes,Loot,Misc,xmas.decoration.candycanes (world)
+Decorative Tinsel,Loot,Misc,xmas.decoration.tinsel (world)
+deliverydronemarker,Blacklist,N/A,assets/prefabs/misc/marketplace/deliverydronemarker.prefab
+Deluxe Christmas Lights,Loot,Misc,xmas.lightstring.advanced (world)
+detonatorentity,Blacklist,N/A,assets/prefabs/tools/detonator/detonator.entity.prefab
+Diesel Barrel,Loot,Barrel,assets/prefabs/resource/diesel barrel/diesel_barrel_world.prefab
+Diesel Fuel,Loot,Resources,diesel_barrel (world)
+diesel_collectable,Blacklist,N/A,assets/content/structures/excavator/prefabs/diesel_collectable.prefab
+divesite_a,Blacklist,N/A,assets/prefabs/misc/divesite/divesite_a.prefab
+divesite_b,Blacklist,N/A,assets/prefabs/misc/divesite/divesite_b.prefab
+divesite_c,Blacklist,N/A,assets/prefabs/misc/divesite/divesite_c.prefab
+Diving Fins,Loot,Clothing,diving.fins (world)
+Diving Mask,Loot,Clothing,diving.mask (world)
+Diving Tank,Loot,Clothing,diving.tank (world)
+dm ammo,Blacklist,N/A,assets/bundled/prefabs/radtown/dmloot/dm ammo.prefab
+dm c4,Blacklist,N/A,assets/bundled/prefabs/radtown/dmloot/dm c4.prefab
+dm construction resources,Blacklist,N/A,assets/bundled/prefabs/radtown/dmloot/dm construction resources.prefab
+dm construction tools,Blacklist,N/A,assets/bundled/prefabs/radtown/dmloot/dm construction tools.prefab
+dm food,Blacklist,N/A,assets/bundled/prefabs/radtown/dmloot/dm food.prefab
+dm medical,Blacklist,N/A,assets/bundled/prefabs/radtown/dmloot/dm medical.prefab
+dm res,Blacklist,N/A,assets/bundled/prefabs/radtown/dmloot/dm res.prefab
+dm tier1 lootbox,Blacklist,N/A,assets/bundled/prefabs/radtown/dmloot/dm tier1 lootbox.prefab
+dm tier2 lootbox,Blacklist,N/A,assets/bundled/prefabs/radtown/dmloot/dm tier2 lootbox.prefab
+dm tier3 lootbox,Blacklist,N/A,assets/bundled/prefabs/radtown/dmloot/dm tier3 lootbox.prefab
+Door Closer,Loot,Electronics,door.closer (world)
+Door Controller,Loot,Electronics,electric.doorcontroller (world)
+Door Key,Loot,Misc,door.key (world)
+door_barricade_a,Blacklist,N/A,assets/prefabs/deployable/door barricades/door_barricade_a.prefab
+door_barricade_a_large,Blacklist,N/A,assets/prefabs/deployable/door barricades/door_barricade_a_large.prefab
+door_barricade_b,Blacklist,N/A,assets/prefabs/deployable/door barricades/door_barricade_b.prefab
+door_barricade_dbl_a,Blacklist,N/A,assets/prefabs/deployable/door barricades/door_barricade_dbl_a.prefab
+door_barricade_dbl_a_large,Blacklist,N/A,assets/prefabs/deployable/door barricades/door_barricade_dbl_a_large.prefab
+door_barricade_dbl_b,Blacklist,N/A,assets/prefabs/deployable/door barricades/door_barricade_dbl_b.prefab
+door_barricade_dbl_b_large,Blacklist,N/A,assets/prefabs/deployable/door barricades/door_barricade_dbl_b_large.prefab
+door_test_static,Blacklist,N/A,assets/bundled/prefabs/static/door_test_static.prefab
+doorcloser,Blacklist,N/A,assets/prefabs/misc/doorcloser/doorcloser.prefab
+doorcontrollerdeployed,Blacklist,N/A,assets/prefabs/deployable/playerioents/doormanipulators/doorcontroller.deployed.prefab
+doorhingedelevator_door,Blacklist,N/A,assets/bundled/prefabs/static/door.hinged.elevator_door.prefab
+doorhingedgarage_a,Blacklist,N/A,assets/bundled/prefabs/static/door.hinged.garage_a.prefab
+doorhingedindustrial_a_a,Blacklist,N/A,assets/bundled/prefabs/static/door.hinged.industrial_a_a.prefab
+doorgarlanddeployed,Blacklist,N/A,assets/prefabs/misc/xmas/doorgarland/doorgarland.deployed.prefab
+doorhingedindustrial_a_b,Blacklist,N/A,assets/bundled/prefabs/static/door.hinged.industrial_a_b.prefab
+doorhingedindustrial_a_c,Blacklist,N/A,assets/bundled/prefabs/static/door.hinged.industrial_a_c.prefab
+doorhingedindustrial_a_d,Blacklist,N/A,assets/bundled/prefabs/static/door.hinged.industrial_a_d.prefab
+doorhingedindustrial_a_e,Blacklist,N/A,assets/bundled/prefabs/static/door.hinged.industrial_a_e.prefab
+doorhingedindustrial_a_f,Blacklist,N/A,assets/bundled/prefabs/static/door.hinged.industrial_a_f.prefab
+doorhingedindustrial_a_g,Blacklist,N/A,assets/bundled/prefabs/static/door.hinged.industrial_a_g.prefab
+doorhingedindustrial_a_h,Blacklist,N/A,assets/bundled/prefabs/static/door.hinged.industrial_a_h.prefab
+doorhingedsecurityblue,Blacklist,N/A,assets/bundled/prefabs/static/door.hinged.security.blue.prefab
+doorhingedsecuritygreen,Blacklist,N/A,assets/bundled/prefabs/static/door.hinged.security.green.prefab
+doorhingedsecurityred,Blacklist,N/A,assets/bundled/prefabs/static/door.hinged.security.red.prefab
+doorhingedvent,Blacklist,N/A,assets/bundled/prefabs/static/door.hinged.vent.prefab
+doorhingedwoodstatic,Blacklist,N/A,assets/bundled/prefabs/static/door.hinged.wood.static.prefab
+doordoublehingedmetal,ESP,N/A,assets/prefabs/building/door.double.hinged/door.double.hinged.metal.prefab
+doordoublehingedtoptier,ESP,N/A,assets/prefabs/building/door.double.hinged/door.double.hinged.toptier.prefab
+doordoublehingedwood,ESP,N/A,assets/prefabs/building/door.double.hinged/door.double.hinged.wood.prefab
+doorhingedmetal,ESP,N/A,assets/prefabs/building/door.hinged/door.hinged.metal.prefab
+doorhingedtoptier,ESP,N/A,assets/prefabs/building/door.hinged/door.hinged.toptier.prefab
+doorhingedwood,ESP,N/A,assets/prefabs/building/door.hinged/door.hinged.wood.prefab
+doorhingedindustriala,Blacklist,N/A,assets/prefabs/misc/twitch/industrialdoora/door.hinged.industrial.a.prefab
+Sheet Metal Double Door,Loot,Construction,door.double.hinged.metal (world)
+Armored Double Door,Loot,Construction,door.double.hinged.toptier (world)
+doormanipulator,Blacklist,N/A,assets/prefabs/io/electric/switches/doormanipulator.prefab
+Double Barrel Shotgun,Loot,Weapons,shotgun.double (world)
+Double Sign Post,Loot,Items,sign.post.double (world)
+double_shotgun,Loot,Prefabs Weapons,assets/prefabs/weapons/doubleshotgun/double_shotgun.entity.prefab
+douglas_fir_a,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_tundra_forest/douglas_fir_a.prefab
+douglas_fir_a,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_temp_forest/douglas_fir_a.prefab
+douglas_fir_a,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_temp_forest_pine/douglas_fir_a.prefab
+douglas_fir_a_snow,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_arctic_forest/douglas_fir_a_snow.prefab
+douglas_fir_a_snow,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_arctic_forest/douglas_fir_a_snow.prefab
+douglas_fir_b,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_temp_forest_pine/douglas_fir_b.prefab
+douglas_fir_b,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_tundra_forest/douglas_fir_b.prefab
+douglas_fir_b,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_temp_forest/douglas_fir_b.prefab
+douglas_fir_b_snow,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_arctic_forest/douglas_fir_b_snow.prefab
+douglas_fir_b_snow,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_arctic_forest/douglas_fir_b_snow.prefab
+douglas_fir_c,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_temp_forest_pine/douglas_fir_c.prefab
+douglas_fir_c,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_tundra_forest/douglas_fir_c.prefab
+douglas_fir_c,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_temp_forest/douglas_fir_c.prefab
+douglas_fir_c,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_tundra_forest/douglas_fir_c.prefab
+douglas_fir_c_snow,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_arctic_forest/douglas_fir_c_snow.prefab
+douglas_fir_c_snow,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_arctic_forest_snow/douglas_fir_c_snow.prefab
+douglas_fir_c_snow,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_arctic_forest/douglas_fir_c_snow.prefab
+douglas_fir_d,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_tundra_forest/douglas_fir_d.prefab
+douglas_fir_d,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_temp_beachforest_small/douglas_fir_d.prefab
+douglas_fir_d,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_temp_field_small/douglas_fir_d.prefab
+douglas_fir_d,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_temp_forest_small/douglas_fir_d.prefab
+douglas_fir_d,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_temp_forestside_pine/douglas_fir_d.prefab
+douglas_fir_d_small,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_tundra_forestside/douglas_fir_d_small.prefab
+Dragon Door Knocker,Loot,Misc,dragondoorknocker (world)
+Dragon Mask,Loot,Clothing,hat.dragonmask (world)
+dragondoorknockerdeployed,Blacklist,N/A,assets/prefabs/misc/chinesenewyear/dragondoorknocker/dragondoorknocker.deployed.prefab
+driftwood,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/driftwood/driftwood_set_1.prefab
+driftwood,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/driftwood/driftwood_set_2.prefab
+driftwood,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/driftwood/driftwood_set_3.prefab
+driftwood_1,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/driftwood/driftwood_1.prefab
+driftwood_2,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/driftwood/driftwood_2.prefab
+driftwood_3,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/driftwood/driftwood_3.prefab
+driftwood_4,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/driftwood/driftwood_4.prefab
+driftwood_5,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/driftwood/driftwood_5.prefab
+driverseat,Blacklist,N/A,assets/prefabs/vehicle/seats/driverseat.prefab
+Drone,Loot,Electronics,drone (world)
+dronedelivery,Blacklist,N/A,assets/prefabs/misc/marketplace/drone.delivery.prefab
+dronedeployed,Blacklist,N/A,assets/prefabs/deployable/drone/drone.deployed.prefab
+Drop Box,Loot,Items,dropbox (world)
+dropboxdeployed,Blacklist,N/A,assets/prefabs/deployable/dropbox/dropbox.deployed.prefab
+drumkitdeployed,Blacklist,N/A,assets/prefabs/instruments/drumkit/drumkit.deployed.prefab
+drumkitdeployedstatic,Blacklist,N/A,assets/bundled/prefabs/static/drumkit.deployed.static.prefab
+Duct Tape,Loot,Items,ducttape (world)
+Easter Door Wreath,Loot,Misc,easterdoorwreath (world)
+easter_basketentity,Blacklist,N/A,assets/prefabs/misc/easter/easter basket/easter_basket.entity.prefab
+easter_door_wreath_deployed,Blacklist,N/A,assets/prefabs/misc/easter/door_wreath/easter_door_wreath_deployed.prefab
+eastereggprojectile,Blacklist,N/A,assets/prefabs/misc/easter/easter basket/eastereggprojectile.prefab
+Egg Basket,Loot,Misc,easterbasket (world)
+egghunt,Blacklist,N/A,assets/prefabs/misc/easter/egghunt.prefab
+Electric Fuse,Loot,Electronics,fuse (world)
+Electric Heater,Loot,Electronics,electric.heater (world)
+Electrical Branch,Loot,Electronics,electrical.branch (world)
+electricalblockerdeployed,Blacklist,N/A,assets/prefabs/deployable/playerioents/gates/blocker/electrical.blocker.deployed.prefab
+electricalbranchdeployed,Blacklist,N/A,assets/prefabs/deployable/playerioents/gates/branch/electrical.branch.deployed.prefab
+electricalcombinerdeployed,Blacklist,N/A,assets/prefabs/deployable/playerioents/gates/combiner/electrical.combiner.deployed.prefab
+electricalheater,Blacklist,N/A,assets/prefabs/deployable/playerioents/electricheater/electrical.heater.prefab
+electricalmemorycelldeployed,Blacklist,N/A,assets/prefabs/deployable/playerioents/gates/dflipflop/electrical.memorycell.deployed.prefab
+electricalmodularcarliftdeployed,Blacklist,N/A,assets/prefabs/deployable/modular car lift/electrical.modularcarlift.deployed.prefab
+electricalrandomswitchdeployed,Blacklist,N/A,assets/prefabs/deployable/playerioents/gates/randswitch/electrical.random.switch.deployed.prefab
+electricflasherlightdeployed,Blacklist,N/A,assets/prefabs/deployable/playerioents/lights/flasherlight/electric.flasherlight.deployed.prefab
+electricsirenlightdeployed,Blacklist,N/A,assets/prefabs/deployable/playerioents/lights/sirenlight/electric.sirenlight.deployed.prefab
+electricsprinklerdeployed,Blacklist,N/A,assets/prefabs/deployable/playerioents/sprinkler/electric.sprinkler.deployed.prefab
+electricwindmillsmall,Blacklist,N/A,assets/prefabs/deployable/windmill/windmillsmall/electric.windmill.small.prefab
+elevator,Blacklist,N/A,assets/prefabs/deployable/elevator/elevator.prefab
+elevator,Blacklist,N/A,assets/prefabs/deployable/elevator/static/elevator.static.prefab
+Elevator,Loot,Electronics,elevator (world)
+elevator lift,Blacklist,N/A,assets/prefabs/deployable/elevator/static/elevator_lift.static.prefab
+elevator_lift,Blacklist,N/A,assets/prefabs/deployable/elevator/elevator_lift.prefab
+elevatorioentity,Blacklist,N/A,assets/prefabs/deployable/elevator/elevatorioentity.prefab
+Elite Crate,Loot,Crate,assets/bundled/prefabs/radtown/crate_elite.prefab
+Empty Can Of Beans,Loot,Resources,can.beans.empty (world)
+Empty Propane Tank,Loot,Components,propanetank (world)
+Empty Tuna Can,Loot,Resources,can.tuna.empty (world)
+engine,Blacklist,N/A,assets/content/structures/excavator/prefabs/engine.prefab
+Engine Vehicle Module,Loot,Vehicle Parts,vehicle.1mod.engine (world)
+enginelistener,Blacklist,N/A,assets/content/structures/excavator/prefabs/enginelistener.prefab
+engineswitch,Blacklist,N/A,assets/prefabs/deployable/oil jack/engineswitch.prefab
+engineswitch,Blacklist,N/A,assets/prefabs/deployable/quarry/engineswitch.prefab
+Eoka Pistol,Loot,Weapons,pistol.eoka (world)
+excavator lighting static,Blacklist,N/A,assets/content/props/light_fixtures/v2/radtown work prefabs/excavator lighting static.prefab
+excavator_lights,Blacklist,N/A,assets/content/props/light_fixtures/v2/radtown work prefabs/excavator_lights.prefab
+excavator_lights,Blacklist,N/A,assets/content/structures/excavator/prefabs/excavator_lights.prefab
+excavator_output_pile,Blacklist,N/A,assets/content/structures/excavator/prefabs/excavator_output_pile.prefab
+excavator_yaw,Blacklist,N/A,assets/content/structures/excavator/prefabs/excavator_yaw.prefab
+explosionmarker,Blacklist,N/A,assets/prefabs/tools/map/explosionmarker.prefab
+Explosive 5.56 Rifle Ammo,Loot,Ammo,ammo.rifle.explosive (world)
+Explosives,Loot,Resources,explosives (world)
+explosivesatchel,Loot,Prefabs Weapons,assets/prefabs/weapons/satchelcharge/explosive.satchel.deployed.prefab
+explosivesatchel,Loot,Prefabs Weapons,assets/prefabs/weapons/satchelcharge/explosive.satchel.entity.prefab
+explosivetimeddeployed,Blacklist,N/A,assets/prefabs/tools/c4/explosive.timed.deployed.prefab
+explosivetimedentity,Blacklist,N/A,assets/prefabs/tools/c4/explosive.timed.entity.prefab
+F1 Grenade,Loot,Weapons,grenade.f1 (world)
+Fertilizer,Loot,Resources,fertilizer (world)
+Festive Doorway Garland,Loot,Misc,xmas.door.garland (world)
+Festive Window Garland,Loot,Misc,xmas.window.garland (world)
+Fire Arrow,Loot,Ammo,arrow.fire (world)
+Fire Rocket,Loot,Ammo,assets/prefabs/ammo/rocket/rocket_fire.prefab
+fireball,Blacklist,N/A,assets/bundled/prefabs/fireball.prefab
+fireball_small,Blacklist,N/A,assets/bundled/prefabs/fireball_small.prefab
+fireball_small_arrow,Blacklist,N/A,assets/bundled/prefabs/fireball_small_arrow.prefab
+fireball_small_shotgun,Blacklist,N/A,assets/bundled/prefabs/fireball_small_shotgun.prefab
+Firecracker String,Loot,Misc,lunar.firecrackers (world)
+firecrackersdeployed,Blacklist,N/A,assets/prefabs/misc/chinesenewyear/throwablefirecrackers/firecrackers.deployed.prefab
+firecrackersentity,Blacklist,N/A,assets/prefabs/misc/chinesenewyear/throwablefirecrackers/firecrackers.entity.prefab
+fireplace deployed,Blacklist,N/A,assets/prefabs/deployable/elevator/static/elevator.static.top.prefab
+fireplacedeployed,Blacklist,N/A,assets/prefabs/deployable/fireplace/fireplace.deployed.prefab
+fishing_rodentity,Blacklist,N/A,assets/prefabs/tools/fishing rod/fishing_rod.entity.prefab
+Flame Thrower,Loot,Weapons,flamethrower (world)
+Flame Turret,Loot,Traps,assets/prefabs/npc/flame turret/flameturret.deployed.prefab
+Flame Turret,Loot,Traps,flameturret (world)
+flamethrower,Loot,Prefabs Weapons,assets/prefabs/weapons/flamethrower/flamethrower.entity.prefab
+flamethrower_fireball,Loot,Prefabs Weapons,assets/prefabs/weapons/flamethrower/flamethrower_fireball.prefab
+flameturret_fireball,Blacklist,N/A,assets/prefabs/npc/flame turret/flameturret_fireball.prefab
+Flare,Loot,Tools,flare (world)
+flaredeployed,Blacklist,N/A,assets/prefabs/tools/flareold/flare.deployed.prefab
+flareweapon,Blacklist,N/A,assets/prefabs/tools/flareold/flare.weapon.prefab
+Flasher Light,Loot,Items,electric.flasherlight (world)
+flashlight,Loot,Prefabs Weapons Mods,assets/prefabs/weapon mods/flashlight/flashlight.entity.prefab
+Flashlight,Loot,Items,flashlight.held (world)
+flashlightentity,Blacklist,N/A,assets/prefabs/tools/flashlight/flashlight.entity.prefab
+flashlightvm,Loot,Prefabs Weapons Mods,assets/prefabs/weapon mods/flashlight/flashlight.vm.attachment.prefab
+Flatbed Vehicle Module,Loot,Vehicle Parts,vehicle.1mod.flatbed (world)
+floor,Blacklist,N/A,assets/prefabs/building core/floor/floor.prefab
+Floor grill,Loot,Construction,floor.grill (world)
+Floor Spikes,Loot,Traps,spikes.floor (world)
+Floor triangle grill,Loot,Construction,floor.triangle.grill (world)
+floorframe,Blacklist,N/A,assets/prefabs/building core/floor.frame/floor.frame.prefab
+floorgrill,Blacklist,N/A,assets/prefabs/building/floor.grill/floor.grill.prefab
+floorladderhatch,Blacklist,N/A,assets/prefabs/building/floor.ladder.hatch/floor.ladder.hatch.prefab
+floortriangle,Blacklist,N/A,assets/prefabs/building core/floor.triangle/floor.triangle.prefab
+floortriangleframe,Blacklist,N/A,assets/prefabs/building core/floor.triangle.frame/floor.triangle.frame.prefab
+floortrianglegrill,Blacklist,N/A,assets/prefabs/building/floor.triangle.grill/floor.triangle.grill.prefab
+floortriangleladderhatch,Blacklist,N/A,assets/prefabs/building/floor.triangle.ladder.hatch/floor.triangle.ladder.hatch.prefab
+Fluid Combiner,Loot,Items,fluid.combiner (world)
+Fluid Splitter,Loot,Items,fluid.splitter (world)
+Fluid Switch & Pump,Loot,Items,fluid.switch (world)
+fluidcombinerdeployed,Blacklist,N/A,assets/prefabs/deployable/playerioents/fluidcombiner/fluid.combiner.deployed.prefab
+fluidsplitter,Blacklist,N/A,assets/prefabs/deployable/playerioents/fluidsplitter/fluidsplitter.prefab
+fluidswitch,Blacklist,N/A,assets/prefabs/deployable/playerioents/fluidswitch/fluidswitch.prefab
+fluteweapon,Blacklist,N/A,assets/prefabs/instruments/flute/flute.weapon.prefab
+Fogger-3000,Loot,Items,fogmachine (world)
+fogmachine,Blacklist,N/A,assets/content/props/fog machine/fogmachine.prefab
+Food Crate,Loot,Crate,assets/bundled/prefabs/radtown/crate_normal_2_food.prefab
+Foodbox,Loot,Crate,assets/bundled/prefabs/radtown/foodbox.prefab
+foundation,Blacklist,N/A,assets/prefabs/building core/foundation/foundation.prefab
+foundationsteps,Blacklist,N/A,assets/prefabs/building core/foundation.steps/foundation.steps.prefab
+foundationtriangle,Blacklist,N/A,assets/prefabs/building core/foundation.triangle/foundation.triangle.prefab
+Fridge,Loot,Items,fridge (world)
+fridgedeployed,Blacklist,N/A,assets/prefabs/deployable/fridge/fridge.deployed.prefab
+Frog Boots,Loot,Clothing,boots.frog (world)
+Fuel Tank Vehicle Module,Loot,Vehicle Parts,vehicle.2mod.fuel.tank (world)
+fuel_storage,Loot,Vehicle Parts,assets/content/vehicles/boats/rhib/subents/fuel_storage.prefab
+fuel_storage,Loot,Vehicle Parts,assets/content/vehicles/boats/rowboat/subents/fuel_storage.prefab
+fuel_storage,Loot,Vehicle Parts,assets/content/vehicles/minicopter/subents/fuel_storage.prefab
+fuel_storage_scrapheli,Loot,Vehicle Parts,assets/content/vehicles/scrap heli carrier/subents/fuel_storage_scrapheli.prefab
+fuelstorage,Blacklist,N/A,assets/prefabs/deployable/oil jack/fuelstorage.prefab
+fuelstorage,Blacklist,N/A,assets/prefabs/deployable/quarry/fuelstorage.prefab
+furnace,Blacklist,N/A,assets/prefabs/deployable/furnace/furnace.prefab
+Furnace,Loot,Items,furnace (world)
+furnace_static,Blacklist,N/A,assets/bundled/prefabs/static/furnace_static.prefab
+furnacelarge,Blacklist,N/A,assets/prefabs/deployable/furnace.large/furnace.large.prefab
+fusebox,Blacklist,N/A,assets/prefabs/io/electric/switches/fusebox/fusebox.prefab
+Garage Door,Loot,Construction,wall.frame.garagedoor (world)
+Garry's Mod Tool Gun,Loot,Tools,toolgun (world)
+Gas Mask,Loot,Clothing,hat.gas.mask (world)
+gatesexternalhighstone,Blacklist,N/A,assets/prefabs/building/gates.external.high/gates.external.high.stone/gates.external.high.stone.prefab
+gatesexternalhighwood,Blacklist,N/A,assets/prefabs/building/gates.external.high/gates.external.high.wood/gates.external.high.wood.prefab
+Gears,Loot,Components,gears (world)
+Geiger Counter,Loot,Weapons,geiger.counter (world)
+geiger_counterentity,Blacklist,N/A,assets/prefabs/tools/geiger counter/geiger_counter.entity.prefab
+generatorsmall,Blacklist,N/A,assets/prefabs/deployable/playerioents/generators/generator.small.prefab
+generatorstatic,Blacklist,N/A,assets/prefabs/io/electric/generators/generator.static.prefab
+generatorwindscrap,Blacklist,N/A,assets/prefabs/deployable/windmill/generator.wind.scrap.prefab
+Generic vehicle chassis,Loot,Vehicle Parts,vehicle.chassis (world)
+Generic vehicle module,Loot,Vehicle Parts,vehicle.module (world)
+generic_deploy,Blacklist,N/A,assets/prefabs/tools/deploy (obsolete)/generic_deploy.prefab
+generic_world,Blacklist,N/A,assets/prefabs/misc/burlap sack/generic_world.prefab
+genericradiusmarker,Blacklist,N/A,assets/prefabs/tools/map/genericradiusmarker.prefab
+Ghost Costume,Loot,Clothing,ghostsheet (world)
+Giant Candy Decor,Loot,Misc,giantcandycanedecor (world)
+Giant Lollipop Decor,Loot,Misc,giantlollipops (world)
+giantcandycanedeployed,Blacklist,N/A,assets/prefabs/misc/xmas/giant_candy_cane/giantcandycane.deployed.prefab
+giantlollipopsdeployed,Blacklist,N/A,assets/prefabs/misc/xmas/lollipop_bundle/giantlollipops.deployed.prefab
+giftbox_loot,Blacklist,N/A,assets/prefabs/misc/xmas/giftbox/giftbox_loot.prefab
+Glowing Eyes,Loot,Misc,gloweyes (world)
+Glue,Loot,Resources,glue (world)
+Gold Egg,Loot,Misc,easter.goldegg (world)
+Granola Bar,Loot,Food,granolabar (world)
+Gravestone,Loot,Items,gravestone (world)
+gravestonestonedeployed,Blacklist,N/A,assets/prefabs/misc/halloween/deployablegravestone/gravestone.stone.deployed.prefab
+gravestonewooddeployed,Blacklist,N/A,assets/prefabs/misc/halloween/deployablegravestone/gravestone.wood.deployed.prefab
+Graveyard Fence,Loot,Items,wall.graveyard.fence (world)
+graveyardfence,Blacklist,N/A,assets/prefabs/misc/halloween/graveyard_fence/graveyardfence.prefab
+Green Berry,Loot,Berries,assets/bundled/prefabs/autospawn/collectable/berry-green/berry-green-collectable.prefab
+Green Berry,Loot,Berries,assets/prefabs/plants/berrry/green/green_berry.entity.prefab
+Green Berry,Loot,Berries,green.berry (world)
+Green Berry Clone,Loot,Berries,clone.green.berry (world)
+Green Berry Seed,Loot,Seeds,seed.green.berry (world)
+Green Boomer,Loot,Misc,firework.boomer.green (world)
+Green Keycard,Loot,Items,keycard_green (world)
+Green Roman Candle,Loot,Misc,firework.romancandle.green (world)
+grenadebeancan,Loot,Prefabs Weapons,assets/prefabs/weapons/beancan grenade/grenade.beancan.deployed.prefab
+grenadebeancan,Loot,Prefabs Weapons,assets/prefabs/weapons/beancan grenade/grenade.beancan.entity.prefab
+grenadef1,Loot,Prefabs Weapons,assets/prefabs/weapons/f1 grenade/grenade.f1.deployed.prefab
+grenadef1,Loot,Prefabs Weapons,assets/prefabs/weapons/f1 grenade/grenade.f1.entity.prefab
+grenadesmokedeployed,Blacklist,N/A,assets/prefabs/tools/smoke grenade/grenade.smoke.deployed.prefab
+grenadesupplysignaldeployed,Blacklist,N/A,assets/prefabs/tools/supply signal/grenade.supplysignal.deployed.prefab
+guitarweapon,Blacklist,N/A,assets/prefabs/instruments/guitar/guitar.weapon.prefab
+Gun Powder,Loot,Resources,gunpowder (world)
+Gun Trap,Loot,Traps,assets/prefabs/deployable/single shot trap/guntrap.deployed.prefab
+gunnertest,Blacklist,N/A,assets/prefabs/vehicle/seats/gunnertest.prefab
+Hab Repair,Loot,Items,habrepair (world)
+hab_storage,Blacklist,N/A,assets/prefabs/deployable/hot air balloon/subents/hab_storage.prefab
+hacksaw,Loot,Prefabs Weapons,assets/prefabs/weapons/hacksaw/hacksaw.weapon.prefab
+Halloween Candy,Loot,Food,halloween.candy (world)
+halloween-bone,Blacklist,N/A,assets/bundled/prefabs/autospawn/collectable/stone/halloween/halloween-bone-collectable.prefab
+halloweenhunt,Blacklist,N/A,assets/prefabs/misc/halloween/halloweenhunt.prefab
+halloween-metal,Blacklist,N/A,assets/bundled/prefabs/autospawn/collectable/stone/halloween/halloween-metal-collectable.prefab
+halloween-stone,Blacklist,N/A,assets/bundled/prefabs/autospawn/collectable/stone/halloween/halloween-stone-collectable.prefab
+halloween-sulfur,Blacklist,N/A,assets/bundled/prefabs/autospawn/collectable/stone/halloween/halloween-sulfur-collectible.prefab
+halloween-wood,Blacklist,N/A,assets/bundled/prefabs/autospawn/collectable/stone/halloween/halloween-wood-collectable.prefab
+hammer,Loot,Prefabs Weapons,assets/prefabs/weapons/hammer/hammer.entity.prefab
+Hammer,Loot,Tools,hammer (world)
+hammer_salvaged,Loot,Prefabs Weapons,assets/prefabs/weapons/salvaged_hammer/hammer_salvaged.entity.prefab
+Handmade Fishing Rod,Loot,Tools,fishingrod.handmade (world)
+Handmade Shell,Loot,Ammo,ammo.handmade.shell (world)
+hatchet,Loot,Prefabs Weapons,assets/prefabs/weapons/hatchet/hatchet.entity.prefab
+Hatchet,Loot,Tools,hatchet (world)
+Hazmat Suit,Loot,Clothing,hazmatsuit (world)
+HBHF Sensor,Loot,Electronics,electric.hbhfsensor (world)
+hbhfsensordeployed,Blacklist,N/A,assets/prefabs/deployable/playerioents/detectors/hbhfsensor/hbhfsensor.deployed.prefab
+Headset,Loot,Clothing,twitch.headset (world)
+Heavy Plate Helmet,Loot,Clothing,heavy.plate.helmet (world)
+Heavy Plate Jacket,Loot,Clothing,heavy.plate.jacket (world)
+Heavy Plate Pants,Loot,Clothing,heavy.plate.pants (world)
+Heavy Scientist Suit,Loot,Clothing,scientistsuit_heavy (world)
+Heli Crate,Loot,Crate,assets/prefabs/npc/patrol helicopter/heli_crate.prefab
+Hemp,Loot,Collectable,assets/bundled/prefabs/autospawn/collectable/hemp/hemp-collectable.prefab
+Hemp,Loot,Collectable,assets/prefabs/plants/hemp/hemp.entity.prefab
+Hemp Clone,Loot,Resources,clone.hemp (world)
+Hemp Seed,Loot,Seeds,seed.hemp (world)
+Hide Boots,Loot,Clothing,attire.hide.boots (world)
+Hide Halterneck,Loot,Clothing,attire.hide.helterneck (world)
+Hide Pants,Loot,Clothing,attire.hide.pants (world)
+Hide Poncho,Loot,Clothing,attire.hide.poncho (world)
+Hide Skirt,Loot,Clothing,attire.hide.skirt (world)
+Hide Vest,Loot,Clothing,attire.hide.vest (world)
+High External Stone Gate,Loot,Construction,gates.external.high.stone (world)
+High External Stone Wall,Loot,Construction,wall.external.high.stone (world)
+High External Wooden Gate,Loot,Construction,gates.external.high.wood (world)
+High External Wooden Wall,Loot,Construction,wall.external.high (world)
+High Ice Wall,Loot,Construction,wall.external.high.ice (world)
+High Quality Carburetor,Loot,Vehicle Parts,carburetor3 (world)
+High Quality Crankshaft,Loot,Vehicle Parts,crankshaft3 (world)
+High Quality Horse Shoes,Loot,Vehicle Parts,horse.shoes.advanced (world)
+High Quality Metal,Loot,Resources,metal.refined (world)
+High Quality Metal Ore,Loot,Resources,hq.metal.ore (world)
+High Quality Pistons,Loot,Vehicle Parts,piston3 (world)
+High Quality Spark Plugs,Loot,Vehicle Parts,sparkplug3 (world)
+High Quality Valves,Loot,Vehicle Parts,valve3 (world)
+High Velocity Arrow,Loot,Ammo,arrow.hv (world)
+High Velocity Rocket,Loot,Ammo,ammo.rocket.hv (world)
+Hitch & Trough,Loot,Items,hitchtroughcombo (world)
+hitchtroughdeployed,Blacklist,N/A,assets/prefabs/deployable/hitch & trough/hitchtrough.deployed.prefab
+Hobo Barrel,Loot,Items,hobobarrel (world)
+hobobarrel_static,Blacklist,N/A,assets/bundled/prefabs/static/hobobarrel_static.prefab
+hobobarreldeployed,Blacklist,N/A,assets/prefabs/misc/twitch/hobobarrel/hobobarrel.deployed.prefab
+holosight,Loot,Prefabs Weapons Mods,assets/prefabs/weapon mods/holosight/holosight.entity.prefab
+Holosight,Loot,Weapons,weapon.mod.holosight (world)
+holosightvm,Loot,Prefabs Weapons Mods,assets/prefabs/weapon mods/holosight/holosight.vm.attachment.prefab
+Hoodie,Loot,Clothing,hoodie (world)
+hopperoutput,Blacklist,N/A,assets/prefabs/deployable/quarry/hopperoutput.prefab
+Horse,Animal,N/A,assets/rust.ai/nextai/testridablehorse.prefab
+Horse Dung,Loot,Resources,horsedung (world)
+Horse Saddle,Loot,Electronics,horse.saddle (world)
+Horse Spawner,PlayerNPC,N/A,assets/prefabs/npc/bandit/horsespawner.prefab
+horsedungentity,Loot,Prefabs Resource,assets/prefabs/resource/horsedung/horsedung.entity.prefab
+Hose Tool,Loot,Tools,hosetool (world)
+hosetoolentity,Blacklist,N/A,assets/prefabs/tools/hose/hosetool.entity.prefab
+hotairballoon,Blacklist,N/A,assets/prefabs/deployable/hot air balloon/hotairballoon.prefab
+Huge Wooden Sign,Loot,Items,sign.wooden.huge (world)
+Human Skull,Loot,Resources,skull.human (world)
+Hunting Bow,Loot,Weapons,bow.hunting (world)
+HV 5.56 Rifle Ammo,Loot,Ammo,ammo.rifle.hv (world)
+HV Pistol Ammo,Loot,Ammo,ammo.pistol.hv (world)
+HV Rocket,Loot,Ammo,assets/prefabs/ammo/rocket/rocket_hv.prefab
+icewall,Blacklist,N/A,assets/prefabs/misc/xmas/icewalls/icewall.prefab
+Igniter,Loot,Electronics,electric.igniter (world)
+igniterdeployed,Blacklist,N/A,assets/prefabs/deployable/playerioents/igniter/igniter.deployed.prefab
+Improvised Balaclava,Loot,Clothing,mask.balaclava (world)
+Incendiary 5.56 Rifle Ammo,Loot,Ammo,ammo.rifle.incendiary (world)
+Incendiary Pistol Bullet,Loot,Ammo,ammo.pistol.fire (world)
+Incendiary Rocket,Loot,Ammo,ammo.rocket.fire (world)
+Wood Double Door,Loot,Construction,door.double.hinged.wood (world)
+Inner Tube,Loot,Items,innertube (world)
+Inner Tube,Loot,Items,innertube.horse (world)
+Inner Tube,Loot,Items,innertube.unicorn (world)
+innertubedeployed,Blacklist,N/A,assets/prefabs/misc/summer_dlc/inner_tube/innertube.deployed.prefab
+Instant Camera,Loot,Tools,tool.instant_camera (world)
+instant_cameraentity,Blacklist,N/A,assets/prefabs/misc/summer_dlc/instantcamera/instant_camera.entity.prefab
+item_drop,Blacklist,N/A,assets/prefabs/misc/item drop/item_drop.prefab
+Jack O Lantern Angry,Loot,Misc,jackolantern.angry (world)
+Jack O Lantern Happy,Loot,Misc,jackolantern.happy (world)
+Jacket,Loot,Clothing,jacket (world)
+Jackhammer,Loot,Tools,jackhammer (world)
+jackhammerentity,Blacklist,N/A,assets/prefabs/tools/jackhammer/jackhammer.entity.prefab
+jackolanternangry,Blacklist,N/A,assets/prefabs/deployable/jack o lantern/jackolantern.angry.prefab
+jackolanternhappy,Blacklist,N/A,assets/prefabs/deployable/jack o lantern/jackolantern.happy.prefab
+Jerry Can Guitar,Loot,Instruments,fun.jerrycanguitar (world)
+jerrycanguitarweapon,Blacklist,N/A,assets/prefabs/instruments/jerrycanguitar/jerrycanguitar.weapon.prefab
+Jug,Loot,Food,assets/prefabs/food/water jug/waterjug.entity.prefab
+Jumpsuit,Loot,Clothing,jumpsuit.suit (world)
+junkpile_a,Blacklist,N/A,assets/prefabs/misc/junkpile/junkpile_a.prefab
+junkpile_b,Blacklist,N/A,assets/prefabs/misc/junkpile/junkpile_b.prefab
+junkpile_c,Blacklist,N/A,assets/prefabs/misc/junkpile/junkpile_c.prefab
+junkpile_d,Blacklist,N/A,assets/prefabs/misc/junkpile/junkpile_d.prefab
+junkpile_e,Blacklist,N/A,assets/prefabs/misc/junkpile/junkpile_e.prefab
+junkpile_f,Blacklist,N/A,assets/prefabs/misc/junkpile/junkpile_f.prefab
+junkpile_g,Blacklist,N/A,assets/prefabs/misc/junkpile/junkpile_g.prefab
+junkpile_h,Loot,Misc,assets/prefabs/misc/junkpile/junkpile_h.prefab
+junkpile_i,Loot,Misc,assets/prefabs/misc/junkpile/junkpile_i.prefab
+junkpile_j,Loot,Loot,assets/prefabs/misc/junkpile/junkpile_j.prefab
+junkpile_water_a,Blacklist,N/A,assets/prefabs/misc/junkpile_water/junkpile_water_a.prefab
+junkpile_water_b,Blacklist,N/A,assets/prefabs/misc/junkpile_water/junkpile_water_b.prefab
+junkpile_water_c,Blacklist,N/A,assets/prefabs/misc/junkpile_water/junkpile_water_c.prefab
+Junkyard Drum Kit,Loot,Instruments,drumkit (world)
+Kayak,Vehicle,Content Vehicles,assets/content/vehicles/boats/kayak/kayak.prefab
+Kayak,Loot,Vehicle Parts,kayak (world)
+kayakseat,Blacklist,N/A,assets/prefabs/vehicle/seats/kayakseat.prefab
+Key Lock,Loot,Construction,lock.key (world)
+keycard,Loot,Prefabs Tools,assets/prefabs/tools/keycard/keycard.entity.prefab
+keycard_blue_pickup,Loot,Prefabs Tools,assets/prefabs/tools/keycard/keycard_blue_pickup.entity.prefab
+keycard_green_pickup,Loot,Prefabs Tools,assets/prefabs/tools/keycard/keycard_green_pickup.entity.prefab
+keycard_red_pickup,Loot,Prefabs Tools,assets/prefabs/tools/keycard/keycard_red_pickup.entity.prefab
+kingofthehilldm,Blacklist,N/A,assets/prefabs/gamemodes/kingofthehilldm.prefab
+kingofthehillteam,Blacklist,N/A,assets/prefabs/gamemodes/kingofthehillteam.prefab
+knife_bone,Loot,Prefabs Weapons,assets/prefabs/weapons/bone knife/knife_bone.entity.prefab
+knifecombat,Loot,Prefabs Weapons,assets/prefabs/weapons/knife/knife.combat.entity.prefab
+l96,Loot,Prefabs Weapons,assets/prefabs/weapons/l96/l96.entity.prefab
+L96 Rifle,Loot,Weapons,rifle.l96 (world)
+Ladder Hatch,Loot,Construction,floor.ladder.hatch (world)
+ladderwoodenwall,Blacklist,N/A,assets/prefabs/building/ladder.wall.wood/ladder.wooden.wall.prefab
+Land Mine,Loot,Traps,assets/prefabs/deployable/landmine/landmine.prefab
+Land Mine,Loot,Traps,trap.landmine (world)
+Landscape Photo Frame,Loot,Items,photoframe.landscape (world)
+Landscape Picture Frame,Loot,Items,sign.pictureframe.landscape (world)
+Lantern,Loot,Items,lantern (world)
+lanterndeployed,Blacklist,N/A,assets/prefabs/deployable/lantern/lantern.deployed.prefab
+Large Animated Neon Sign,Loot,Electronics,sign.neon.xl.animated (world)
+Large Banner Hanging,Loot,Items,sign.hanging.banner.large (world)
+Large Banner on pole,Loot,Items,sign.pole.banner.large (world)
+Large Box,Loot,Prefabs Deployable,assets/prefabs/deployable/large wood storage/box.wooden.large.prefab
+Large Candle Set,Loot,Vehicle Parts,largecandles (world)
+Large Chassis,Loot,Vehicle Parts,vehicle.chassis.4mod (world)
+Large Flatbed Vehicle Module,Loot,Vehicle Parts,vehicle.2mod.flatbed (world)
+Large Furnace,Loot,Items,furnace.large (world)
+Large Loot Bag,Loot,Misc,halloween.lootbag.large (world)
+Large Medkit,Loot,Medicals,largemedkit (world)
+Large Neon Sign,Loot,Electronics,sign.neon.xl (world)
+Large Photo Frame,Loot,Items,photoframe.large (world)
+Large Planter Box,Loot,Items,planter.large (world)
+Large Present,Loot,Misc,xmas.present.large (world)
+Large Rechargable Battery,Loot,Electronics,electric.battery.rechargable.large (world)
+Large Solar Panel,Loot,Electronics,electric.solarpanel.large (world)
+Large Water Catcher,Loot,Construction,water.catcher.large (world)
+Large Wood Box,Loot,Items,box.wooden.large (world)
+Large Wooden Sign,Loot,Items,sign.wooden.large (world)
+largecandleset,Blacklist,N/A,assets/prefabs/misc/halloween/candles/largecandleset.prefab
+largerechargablebatterydeployed,Blacklist,N/A,assets/prefabs/deployable/playerioents/batteries/large/large.rechargable.battery.deployed.prefab
+Laser Detector,Loot,Electronics,electric.laserdetector (world)
+laserdetector,Blacklist,N/A,assets/prefabs/deployable/playerioents/detectors/laserdetector/laserdetector.prefab
+lasersight,Loot,Prefabs Weapons Mods,assets/prefabs/weapon mods/lasersight/lasersight.entity.prefab
+lasersightvm,Loot,Prefabs Weapons Mods,assets/prefabs/weapon mods/lasersight/lasersight.vm.attachment.prefab
+Leather,Loot,Resources,leather (world)
+Leather Gloves,Loot,Clothing,burlap.gloves (world)
+lift_cabin_15,Blacklist,N/A,assets/content/structures/lifts/lift_cabin_15.prefab
+lift_cabin_15_no_roof,Blacklist,N/A,assets/content/structures/lifts/lift_cabin_15_no_roof.prefab
+lift_cabin_18_no_roof,Blacklist,N/A,assets/content/structures/lifts/lift_cabin_18_no_roof.prefab
+lift_cabin_21,Blacklist,N/A,assets/content/structures/lifts/lift_cabin_21.prefab
+lift_cabin_21_no_roof,Blacklist,N/A,assets/content/structures/lifts/lift_cabin_21_no_roof.prefab
+lift_cabin_27,Blacklist,N/A,assets/content/structures/lifts/lift_cabin_27.prefab
+lift_cabin_30,Blacklist,N/A,assets/content/structures/lifts/lift_cabin_30.prefab
+Local Player,LocalPlayer,LocalPlayer,LocalPlayer
+lockcode,Blacklist,N/A,assets/prefabs/locks/keypad/lock.code.prefab
+Locker,Loot,Prefabs Deployable,assets/prefabs/deployable/locker/locker.deployed.prefab
+Locker,Loot,Items,locker (world)
+lockkey,Blacklist,N/A,assets/prefabs/locks/keylock/lock.key.prefab
+Longsleeve T-Shirt,Loot,Clothing,tshirt.long (world)
+longsword,Loot,Prefabs Weapons,assets/prefabs/weapons/sword big/longsword.entity.prefab
+Longsword,Loot,Weapons,longsword (world)
+Low Grade Fuel,Loot,Resources,lowgradefuel (world)
+Low Quality Carburetor,Loot,Vehicle Parts,carburetor1 (world)
+Low Quality Crankshaft,Loot,Vehicle Parts,crankshaft1 (world)
+Low Quality Pistons,Loot,Vehicle Parts,piston1 (world)
+Low Quality Spark Plugs,Loot,Vehicle Parts,sparkplug1 (world)
+Low Quality Valves,Loot,Vehicle Parts,valve1 (world)
+lr300,Loot,Prefabs Weapons,assets/prefabs/weapons/lr300/lr300.entity.prefab
+LR-300 Assault Rifle,Loot,Weapons,rifle.lr300 (world)
+m249,Loot,Prefabs Weapons,assets/prefabs/weapons/m249/m249.entity.prefab
+M249,Loot,Weapons,lmg.m249 (world)
+m39,Loot,Prefabs Weapons,assets/prefabs/weapons/m39 emr/m39.entity.prefab
+M39 Rifle,Loot,Weapons,rifle.m39 (world)
+m92,Loot,Prefabs Weapons,assets/prefabs/weapons/m92/m92.entity.prefab
+M92 Pistol,Loot,Weapons,pistol.m92 (world)
+mace,Loot,Prefabs Weapons,assets/prefabs/weapons/mace/mace.entity.prefab
+Mace,Loot,Weapons,mace (world)
+machete,Loot,Prefabs Weapons,assets/prefabs/weapons/machete/machete.weapon.prefab
+Machete,Loot,Weapons,machete (world)
+magnetcrane.entity,Blacklist,CheckThis,assets/content/vehicles/crane_magnet/magnetcrane.entity.prefab
+Mail Box,Loot,Items,mailbox (world)
+mailboxdeployed,Blacklist,N/A,assets/prefabs/deployable/mailbox/mailbox.deployed.prefab
+maincannonshell,Blacklist,N/A,assets/prefabs/npc/m2bradley/maincannonshell.prefab
+map,Blacklist,N/A,assets/prefabs/tools/map/map.prefab
+marketplace,Blacklist,N/A,assets/prefabs/misc/marketplace/marketplace.prefab
+marketterminal,Blacklist,N/A,assets/prefabs/misc/marketplace/marketterminal.prefab
+MC repair,Loot,Vehicle Parts,minihelicopter.repair (world)
+Medical Crate,Loot,Crate,assets/bundled/prefabs/radtown/crate_normal_2_medical.prefab
+Medical Syringe,Loot,Medicals,syringe.medical (world)
+Medium Animated Neon Sign,Loot,Electronics,sign.neon.125x215.animated (world)
+Medium Chassis,Loot,Vehicle Parts,vehicle.chassis.3mod (world)
+Medium Loot Bag,Loot,Items,halloween.lootbag.medium (world)
+Medium Neon Sign,Loot,Electronics,sign.neon.125x215 (world)
+Medium Present,Loot,Misc,xmas.present.medium (world)
+Medium Quality Carburetor,Loot,Vehicle Parts,carburetor2 (world)
+Medium Quality Crankshaft,Loot,Vehicle Parts,crankshaft2 (world)
+Medium Quality Pistons,Loot,Vehicle Parts,piston2 (world)
+Medium Quality Spark Plugs,Loot,Vehicle Parts,sparkplug2 (world)
+Medium Quality Valves,Loot,Vehicle Parts,valve2 (world)
+Medium Rechargable Battery,Loot,Electronics,electric.battery.rechargable.medium (world)
+Medium Wooden Sign,Loot,Items,sign.wooden.medium (world)
+mediumrechargablebatterydeployed,Blacklist,N/A,assets/prefabs/deployable/playerioents/batteries/medium/medium.rechargable.battery.deployed.prefab
+Memory Cell,Loot,Electronics,electrical.memorycell (world)
+Metal,Loot,Collectable,assets/bundled/prefabs/autospawn/collectable/stone/metal-collectable.prefab
+Metal Barricade,Loot,Construction,barricade.metal (world)
+Metal Blade,Loot,Components,metalblade (world)
+Metal Chest Plate,Loot,Clothing,metal.plate.torso (world)
+Metal Facemask,Loot,Clothing,metal.facemask (world)
+Metal Fragments,Loot,Resources,metal.fragments (world)
+Metal horizontal embrasure,Loot,Construction,shutter.metal.embrasure.a (world)
+Metal Ore,Loot,Ore,assets/bundled/prefabs/autospawn/resource/ores/metal-ore.prefab
+Metal Ore,Loot,Ore,assets/bundled/prefabs/autospawn/resource/ores_sand/metal-ore.prefab
+Metal Ore,Loot,Ore,assets/bundled/prefabs/autospawn/resource/ores_snow/metal-ore.prefab
+Metal Ore,Loot,Ore,assets/bundled/prefabs/radtown/ore_metal.prefab
+Metal Ore,Loot,Resources,metal.ore (world)
+Metal Pipe,Loot,Components,metalpipe (world)
+Metal Shop Front,Loot,Construction,wall.frame.shopfront.metal (world)
+Metal Spring,Loot,Components,metalspring (world)
+Metal Vertical embrasure,Loot,Construction,shutter.metal.embrasure.b (world)
+Metal Window Bars,Loot,Construction,wall.window.bars.metal (world)
+mgl,Loot,Prefabs Weapons,assets/prefabs/weapons/grenade launcher/mgl.entity.prefab
+militaryflamethrower,Loot,Prefabs Weapons,assets/prefabs/weapons/military flamethrower/militaryflamethrower.entity.prefab
+Mine Crate,Loot,Crate,assets/bundled/prefabs/radtown/crate_mine.prefab
+Minecart,Loot,Minecart,assets/bundled/prefabs/radtown/minecart.prefab
+Miners Hat,Loot,Clothing,hat.miner (world)
+Mini Copter,Vehicle,Content Vehicles,assets/content/vehicles/minicopter/minicopter.entity.prefab
+minihelipassenger,Blacklist,N/A,assets/prefabs/vehicle/seats/minihelipassenger.prefab
+miniheliseat,Blacklist,N/A,assets/prefabs/vehicle/seats/miniheliseat.prefab
+Mining Quarry,Loot,Construction,mining.quarry (world)
+mining_quarry,Blacklist,N/A,assets/prefabs/deployable/quarry/mining_quarry.prefab
+miningpumpjack,Blacklist,N/A,assets/prefabs/deployable/oil jack/mining.pumpjack.prefab
+miningquarry_static,Blacklist,N/A,assets/bundled/prefabs/static/miningquarry_static.prefab
+Minnows,Loot,Food,fish.minnows (world)
+Mixing Table,Loot,Prefabs Deployable,assets/prefabs/deployable/mixingtable/mixingtable.deployed.prefab
+Mixing Table,Loot,Items,mixingtable (world)
+Modular Car Lift,Loot,Vehicle Parts,modularcarlift (world)
+modular_car_1mod_storage,Loot,Vehicle Parts,assets/content/vehicles/modularcar/subents/modular_car_1mod_storage.prefab
+modular_car_1mod_trade,Loot,Vehicle Parts,assets/content/vehicles/modularcar/subents/modular_car_1mod_trade.prefab
+modular_car_2mod_fuel_tank,Loot,Vehicle Parts,assets/content/vehicles/modularcar/subents/modular_car_2mod_fuel_tank.prefab
+modular_car_fuel_storage,Loot,Vehicle Parts,assets/content/vehicles/modularcar/subents/modular_car_fuel_storage.prefab
+modular_car_i4_engine_storage,Loot,Vehicle Parts,assets/content/vehicles/modularcar/subents/modular_car_i4_engine_storage.prefab
+modular_car_v8_engine_storage,Loot,Vehicle Parts,assets/content/vehicles/modularcar/subents/modular_car_v8_engine_storage.prefab
+modularcardriverseat,Blacklist,N/A,assets/prefabs/vehicle/seats/modularcardriverseat.prefab
+modularcarliftstatic,Blacklist,N/A,assets/bundled/prefabs/static/modularcarlift.static.prefab
+modularcarpassengerseatleft,Blacklist,N/A,assets/prefabs/vehicle/seats/modularcarpassengerseatleft.prefab
+modularcarpassengerseatlesslegroomleft,Blacklist,N/A,assets/prefabs/vehicle/seats/modularcarpassengerseatlesslegroomleft.prefab
+modularcarpassengerseatlesslegroomright,Blacklist,N/A,assets/prefabs/vehicle/seats/modularcarpassengerseatlesslegroomright.prefab
+modularcarpassengerseatright,Blacklist,N/A,assets/prefabs/vehicle/seats/modularcarpassengerseatright.prefab
+mormon_tea_a,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_bushes_arid_desert/mormon_tea_a.prefab
+mormon_tea_b,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_bushes_arid_desert/mormon_tea_b.prefab
+mormon_tea_c,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_bushes_arid_desert/mormon_tea_c.prefab
+mormon_tea_d,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_bushes_arid_desert/mormon_tea_d.prefab
+mortarblue,Blacklist,N/A,assets/prefabs/deployable/fireworks/mortarblue.prefab
+mortarchampagne,Blacklist,N/A,assets/prefabs/deployable/fireworks/mortarchampagne.prefab
+mortargreen,Blacklist,N/A,assets/prefabs/deployable/fireworks/mortargreen.prefab
+mortarorange,Blacklist,N/A,assets/prefabs/deployable/fireworks/mortarorange.prefab
+mortarred,Blacklist,N/A,assets/prefabs/deployable/fireworks/mortarred.prefab
+mortarviolet,Blacklist,N/A,assets/prefabs/deployable/fireworks/mortarviolet.prefab
+Movember Moustache,Loot,Clothing,movembermoustache (world)
+mp5,Loot,Prefabs Weapons,assets/prefabs/weapons/mp5/mp5.entity.prefab
+MP5A4,Loot,Weapons,smg.mp5 (world)
+Multiple Grenade Launcher,Loot,Weapons,multiplegrenadelauncher (world)
+Mummy Suit,Loot,Clothing,halloween.mummysuit (world)
+Murderer,PlayerNPC,N/A,assets/prefabs/npc/murderer/murderer.prefab
+Murderer Corpse,Loot,Corpse,assets/prefabs/npc/murderer/murderer_corpse.prefab
+Mushroom,Loot,Food,assets/bundled/prefabs/autospawn/collectable/mushrooms/mushroom-cluster-5.prefab
+Mushroom,Loot,Food,assets/bundled/prefabs/autospawn/collectable/mushrooms/mushroom-cluster-6.prefab
+Mushroom,Loot,Food,mushroom (world)
+Muzzle Boost,Loot,Weapons,weapon.mod.muzzleboost (world)
+Muzzle Brake,Loot,Weapons,weapon.mod.muzzlebrake (world)
+muzzleboost,Loot,Prefabs Weapons Mods,assets/prefabs/weapon mods/muzzleboost/muzzleboost.entity.prefab
+muzzlebrake,Loot,Prefabs Weapons Mods,assets/prefabs/weapon mods/muzzlebrake/muzzlebrake.entity.prefab
+nailgun,Loot,Prefabs Weapons,assets/prefabs/weapons/nailgun/nailgun.entity.prefab
+Nailgun,Loot,Weapons,pistol.nailgun (world)
+Nailgun Nails,Loot,Ammo,ammo.nailgun.nails (world)
+napalm,Blacklist,N/A,assets/bundled/prefabs/napalm.prefab
+Nest Hat,Loot,Clothing,attire.nesthat (world)
+net_env,Blacklist,N/A,assets/bundled/prefabs/system/net_env.prefab
+Netting,Loot,Construction,wall.frame.netting (world)
+New Year Gong,Loot,Misc,newyeargong (world)
+newyeargongdeployed,Blacklist,N/A,assets/prefabs/misc/chinesenewyear/newyeargong/newyeargong.deployed.prefab
+Night Vision Goggles,Loot,Clothing,nightvisiongoggles (world)
+Normal Crate,Loot,Crate,assets/bundled/prefabs/radtown/crate_normal.prefab
+Normal Crate,Loot,Crate,assets/bundled/prefabs/radtown/crate_normal_2.prefab
+Note,Loot,Misc,note (world)
+npcvendingmachine,Blacklist,N/A,assets/prefabs/deployable/vendingmachine/npcvendingmachine.prefab
+npcvendingmachine_attire,Blacklist,N/A,assets/prefabs/deployable/vendingmachine/npcvendingmachines/npcvendingmachine_attire.prefab
+npcvendingmachine_building,Blacklist,N/A,assets/prefabs/deployable/vendingmachine/npcvendingmachines/npcvendingmachine_building.prefab
+npcvendingmachine_building_hapis,Blacklist,N/A,assets/bundled/prefabs/hapis/npcvendingmachine_building_hapis.prefab
+npcvendingmachine_buyres_hapis,Blacklist,N/A,assets/bundled/prefabs/hapis/npcvendingmachine_buyres_hapis.prefab
+npcvendingmachine_components,Blacklist,N/A,assets/prefabs/deployable/vendingmachine/npcvendingmachines/npcvendingmachine_components.prefab
+npcvendingmachine_extra,Blacklist,N/A,assets/prefabs/deployable/vendingmachine/npcvendingmachines/npcvendingmachine_extra.prefab
+npcvendingmachine_farming,Blacklist,N/A,assets/prefabs/deployable/vendingmachine/npcvendingmachines/npcvendingmachine_farming.prefab
+npcvendingmachine_food_hapis,Blacklist,N/A,assets/bundled/prefabs/hapis/npcvendingmachine_food_hapis.prefab
+npcvendingmachine_hapis_farming,Blacklist,N/A,assets/bundled/prefabs/hapis/npcvendingmachine_hapis_farming.prefab
+npcvendingmachine_hapis_hapis,Blacklist,N/A,assets/bundled/prefabs/hapis/npcvendingmachine_hapis_hapis.prefab
+npcvendingmachine_hapisexchange,Blacklist,N/A,assets/prefabs/deployable/vendingmachine/npcvendingmachines/npcvendingmachine_hapisexchange.prefab
+npcvendingmachine_resources,Blacklist,N/A,assets/prefabs/deployable/vendingmachine/npcvendingmachines/npcvendingmachine_resources.prefab
+npcvendingmachine_tools,Blacklist,N/A,assets/prefabs/deployable/vendingmachine/npcvendingmachines/npcvendingmachine_tools.prefab
+npcvendingmachine_vehicles,Blacklist,N/A,assets/prefabs/deployable/vendingmachine/npcvendingmachines/npcvendingmachine_vehicles.prefab
+npcvendingmachine_vehicleshigh,Blacklist,N/A,assets/prefabs/deployable/vendingmachine/npcvendingmachines/npcvendingmachine_vehicleshigh.prefab
+npcvendingmachine_weapons,Blacklist,N/A,assets/prefabs/deployable/vendingmachine/npcvendingmachines/npcvendingmachine_weapons.prefab
+npcvendingmachine_weapons_hapis,Blacklist,N/A,assets/bundled/prefabs/hapis/npcvendingmachine_weapons_hapis.prefab
+oak_a,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_temp_field_large/oak_a.prefab
+oak_a_tundra,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_tundra_forest/oak_a_tundra.prefab
+oak_a_tundra,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_tundra_forest_small/oak_a_tundra.prefab
+oak_b,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_temp_field_large/oak_b.prefab
+oak_b,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_temp_field_large/oak_b.prefab
+oak_b_tundra,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_tundra_forest/oak_b_tundra.prefab
+oak_c,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_temp_field_large/oak_c.prefab
+oak_c,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_temp_field_large/oak_c.prefab
+oak_d,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_temp_field_large/oak_d.prefab
+oak_d,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_temp_field_large/oak_d.prefab
+oak_e,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_temp_field/oak_e.prefab
+oak_e,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_temp_field_small/oak_e.prefab
+oak_f,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_temp_field_small/oak_f.prefab
+oak_f,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_temp_field/oak_f.prefab
+oak_f_tundra,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_tundra_forest_small/oak_f_tundra.prefab
+ocotillo_a,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_bushes_arid_ocotillo/ocotillo_a.prefab
+ocotillo_b,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_bushes_arid_ocotillo/ocotillo_b.prefab
+ocotillo_c,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_bushes_arid_ocotillo/ocotillo_c.prefab
+ocotillo_d,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_bushes_arid_ocotillo/ocotillo_d.prefab
+ocotillo_dry_a,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_bushes_arid_ocotillo/ocotillo_dry_a.prefab
+ocotillo_dry_b,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_bushes_arid_ocotillo/ocotillo_dry_b.prefab
+ocotillo_dry_c,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_bushes_arid_ocotillo/ocotillo_dry_c.prefab
+ocotillo_dry_d,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_bushes_arid_ocotillo/ocotillo_dry_d.prefab
+Oil Barrel,Loot,Barrel,assets/bundled/prefabs/radtown/oil_barrel.prefab
+oilfireball2,Blacklist,N/A,assets/prefabs/npc/m2bradley/oilfireball2.prefab
+oilfireballsmall,Blacklist,N/A,assets/bundled/prefabs/oilfireballsmall.prefab
+One Sided Town Sign Post,Loot,Items,sign.post.town (world)
+onedeath,Blacklist,N/A,assets/prefabs/gamemodes/onedeath.prefab
+OR Switch,Loot,Electronics,electric.orswitch (world)
+Orange Boomer,Loot,Misc,firework.boomer.orange (world)
+orebonus_generic,Blacklist,N/A,assets/prefabs/misc/orebonus/orebonus_generic.prefab
+orswitch,Blacklist,N/A,assets/prefabs/io/electric/switches/orswitch.prefab
+orswitchentity,Blacklist,N/A,assets/prefabs/deployable/playerioents/gates/orswitch/orswitch.entity.prefab
+Ox Mask,Loot,Clothing,hat.oxmask (world)
+paddle,Loot,Prefabs Weapons,assets/prefabs/weapons/paddle/paddle.entity.prefab
+Paddle,Loot,Weapons,paddle (world)
+Paddling Pool,Loot,Weapons,paddlingpool (world)
+paddlingpooldeployed,Blacklist,N/A,assets/prefabs/misc/summer_dlc/paddling_pool/paddlingpool.deployed.prefab
+pagerentity,Blacklist,N/A,assets/prefabs/tools/pager/pager.entity.prefab
+Painted Egg,Loot,Items,easter.paintedeggs (world)
+palm_tree_med_a_entity,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_arid_forest/palm_tree_med_a_entity.prefab
+palm_tree_med_a_entity,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_arid_forest/palm_tree_med_a_entity.prefab
+palm_tree_med_b_entity,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_arid_forest/palm_tree_med_b_entity.prefab
+palm_tree_short_a_entity,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_arid_beachside/palm_tree_short_a_entity.prefab
+palm_tree_short_a_entity,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_arid_field/palm_tree_short_a_entity.prefab
+palm_tree_short_a_entity,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_arid_forest/palm_tree_short_a_entity.prefab
+palm_tree_short_a_entity,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_arid_forest/palm_tree_short_a_entity.prefab
+palm_tree_short_b_entity,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_arid_forest/palm_tree_short_b_entity.prefab
+palm_tree_short_b_entity,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_arid_forest/palm_tree_short_b_entity.prefab
+palm_tree_short_b_entity,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_arid_beachside/palm_tree_short_b_entity.prefab
+palm_tree_short_b_entity,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_arid_field/palm_tree_short_b_entity.prefab
+palm_tree_short_c_entity,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_arid_forest/palm_tree_short_c_entity.prefab
+palm_tree_short_c_entity,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_arid_forest/palm_tree_short_c_entity.prefab
+palm_tree_short_c_entity,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_arid_beachside/palm_tree_short_c_entity.prefab
+palm_tree_short_c_entity,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_arid_field/palm_tree_short_c_entity.prefab
+palm_tree_small_a_entity,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_arid_forest/palm_tree_small_a_entity.prefab
+palm_tree_small_a_entity,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_arid_beachside/palm_tree_small_a_entity.prefab
+palm_tree_small_b_entity,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_arid_field/palm_tree_small_b_entity.prefab
+palm_tree_small_b_entity,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_arid_forest/palm_tree_small_b_entity.prefab
+palm_tree_small_b_entity,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_arid_beachside/palm_tree_small_b_entity.prefab
+palm_tree_small_c_entity,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_arid_field/palm_tree_small_c_entity.prefab
+palm_tree_small_c_entity,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_arid_forest/palm_tree_small_c_entity.prefab
+palm_tree_small_c_entity,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_arid_beachside/palm_tree_small_c_entity.prefab
+palm_tree_tall_a_entity,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_arid_forest/palm_tree_tall_a_entity.prefab
+palm_tree_tall_a_entity,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_arid_forest/palm_tree_tall_a_entity.prefab
+palm_tree_tall_b_entity,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_arid_forest/palm_tree_tall_b_entity.prefab
+palm_tree_tall_b_entity,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_arid_forest/palm_tree_tall_b_entity.prefab
+Pan Flute,Loot,Instruments,fun.flute (world)
+Pants,Loot,Clothing,pants (world)
+Paper,Loot,Items,paper (world)
+Paper Map,Loot,Items,map (world)
+parachute,Blacklist,N/A,assets/prefabs/misc/parachute/parachute.prefab
+Party Hat,Loot,Clothing,partyhat (world)
+passenger,Blacklist,N/A,assets/prefabs/vehicle/seats/passenger.prefab
+Passenger Vehicle Module,Loot,Vehicle Parts,vehicle.2mod.passengers (world)
+passengerchair,Blacklist,N/A,assets/prefabs/vehicle/seats/passengerchair.prefab
+Patrol Helicopter,VehicleNPC,N/A,assets/prefabs/npc/patrol helicopter/patrolhelicopter.prefab
+Patrol Helicopter,Loot,Corpse,assets/prefabs/npc/patrol helicopter/servergibs_patrolhelicopter.prefab
+phonebooth,Blacklist,N/A,assets/bundled/prefabs/autospawn/phonebooth/phonebooth.static.prefab
+photoentity,Blacklist,N/A,assets/prefabs/misc/summer_dlc/photo/photo.entity.prefab
+photoframelandscape,Blacklist,N/A,assets/prefabs/misc/summer_dlc/photoframe/photoframe.landscape.prefab
+photoframelarge,Blacklist,N/A,assets/prefabs/misc/summer_dlc/photoframe/photoframe.large.prefab
+photoframeportrait,Blacklist,N/A,assets/prefabs/misc/summer_dlc/photoframe/photoframe.portrait.prefab
+Photograph,Loot,Items,photo (world)
+pianodeployed,Blacklist,N/A,assets/prefabs/instruments/piano/piano.deployed.prefab
+pianodeployedstatic,Blacklist,N/A,assets/bundled/prefabs/static/piano.deployed.static.prefab
+pickaxe,Loot,Prefabs Weapons,assets/prefabs/weapons/pickaxe/pickaxe.entity.prefab
+Pickaxe,Loot,Tools,pickaxe (world)
+Pickles,Loot,Food,jar.pickle (world)
+pilotseat,Blacklist,N/A,assets/prefabs/vehicle/seats/pilotseat.prefab
+pine_a,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_temp_forest_pine/pine_a.prefab
+pine_a,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_tundra_field_pines/pine_a.prefab
+pine_a,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_tundra_forest/pine_a.prefab
+pine_a,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_temp_forest/pine_a.prefab
+pine_a_snow,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_arctic_forestside/pine_a_snow.prefab
+pine_a_snow,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_arctic_forest_snow/pine_a_snow.prefab
+pine_a_snow,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_arctic_forest/pine_a_snow.prefab
+pine_b,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_temp_field/pine_b.prefab
+pine_b,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_temp_forestside_pine/pine_b.prefab
+pine_b,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_tundra_field_pines/pine_b.prefab
+pine_b,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_tundra_forestside/pine_b.prefab
+pine_b,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_temp_forest/pine_b.prefab
+pine_b snow,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_arctic_forest_snow/pine_b snow.prefab
+pine_b snow,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_arctic_forestside/pine_b snow.prefab
+pine_c,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_temp_forest_pine/pine_c.prefab
+pine_c,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_tundra_forest/pine_c.prefab
+pine_c,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_temp_forest/pine_c.prefab
+pine_c_snow,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_arctic_forest_snow/pine_c_snow.prefab
+pine_c_snow,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_arctic_forest/pine_c_snow.prefab
+pine_d,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_temp_field/pine_d.prefab
+pine_d,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_temp_forestside_pine/pine_d.prefab
+pine_d,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_tundra_field_pines/pine_d.prefab
+pine_d,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_tundra_forestside/pine_d.prefab
+pine_d,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_temp_beachforest_small/pine_d.prefab
+pine_d,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_temp_field_small/pine_d.prefab
+pine_d,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_temp_forest_small/pine_d.prefab
+pine_d_snow,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v2_arctic_forest_snow/pine_d_snow.prefab
+pine_d_snow,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_arctic_forestside/pine_d_snow.prefab
+pine_dead_a,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_tundra_forest/pine_dead_a.prefab
+pine_dead_b,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_tundra_forest/pine_dead_b.prefab
+pine_dead_c,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_tundra_forest/pine_dead_c.prefab
+pine_dead_d,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_tundra_field/pine_dead_d.prefab
+pine_dead_d,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_tundra_forest/pine_dead_d.prefab
+pine_dead_e,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_tundra_field/pine_dead_e.prefab
+pine_dead_e,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_tundra_forest/pine_dead_e.prefab
+pine_dead_e,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_tundra_forest_dead/pine_dead_e.prefab
+pine_dead_f,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_tundra_forest/pine_dead_f.prefab
+pine_dead_f,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_tundra_field/pine_dead_f.prefab
+pine_dead_snow_a,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_arctic_forest/pine_dead_snow_a.prefab
+pine_dead_snow_b,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_arctic_forest/pine_dead_snow_b.prefab
+pine_dead_snow_c,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_arctic_forest/pine_dead_snow_c.prefab
+pine_dead_snow_d,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_arctic_forest/pine_dead_snow_d.prefab
+pine_dead_snow_e,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_arctic_forestside/pine_dead_snow_e.prefab
+pine_dead_snow_e,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_arctic_forest/pine_dead_snow_e.prefab
+pine_dead_snow_f,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_arctic_forest/pine_dead_snow_f.prefab
+pine_dead_snow_f,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_arctic_forestside/pine_dead_snow_f.prefab
+pine_sapling_a,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_tundra_field_pines/pine_sapling_a.prefab
+pine_sapling_a,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_tundra_forest_saplings/pine_sapling_a.prefab
+pine_sapling_a_snow,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_arctic_forest_saplings/pine_sapling_a_snow.prefab
+pine_sapling_b,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_tundra_field_pines/pine_sapling_b.prefab
+pine_sapling_b,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_tundra_forest_saplings/pine_sapling_b.prefab
+pine_sapling_b_snow,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_arctic_forest_saplings/pine_sapling_b_snow.prefab
+pine_sapling_c,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_tundra_field_pines/pine_sapling_c.prefab
+pine_sapling_c,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_tundra_forest_saplings/pine_sapling_c.prefab
+pine_sapling_c_snow,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_arctic_forest_saplings/pine_sapling_c_snow.prefab
+pine_sapling_d,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_tundra_field_pines/pine_sapling_d.prefab
+pine_sapling_d,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_tundra_forest_saplings/pine_sapling_d.prefab
+pine_sapling_d_snow,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_arctic_forestside/pine_sapling_d_snow.prefab
+pine_sapling_d_snow,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_arctic_forest_saplings/pine_sapling_d_snow.prefab
+pine_sapling_e,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_tundra_field_pines/pine_sapling_e.prefab
+pine_sapling_e,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_tundra_forest_saplings/pine_sapling_e.prefab
+pine_sapling_e_snow,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_arctic_forestside/pine_sapling_e_snow.prefab
+pine_sapling_e_snow,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/v3_arctic_forest_saplings/pine_sapling_e_snow.prefab
+Pistol Bullet,Loot,Ammo,ammo.pistol (world)
+pistol_eoka,Loot,Prefabs Weapons,assets/prefabs/weapons/eoka pistol/pistol_eoka.entity.prefab
+pistol_revolver,Loot,Prefabs Weapons,assets/prefabs/weapons/revolver/pistol_revolver.entity.prefab
+pistol_semiauto,Loot,Prefabs Weapons,assets/prefabs/weapons/semi auto pistol/pistol_semiauto.entity.prefab
+pitchfork,Loot,Prefabs Weapons,assets/prefabs/weapons/halloween/pitchfork/pitchfork.entity.prefab
+Pitchfork,Loot,Weapons,pitchfork (world)
+planner,Blacklist,N/A,assets/prefabs/tools/planner/planner.prefab
+Plant Fiber,Loot,Resources,plantfiber (world)
+planterlargedeployed,Blacklist,N/A,assets/prefabs/deployable/planters/planter.large.deployed.prefab
+plantersmalldeployed,Blacklist,N/A,assets/prefabs/deployable/planters/planter.small.deployed.prefab
+platformentity,Blacklist,N/A,assets/prefabs/misc/platform/platform.entity.prefab
+platformexclusionentity,Blacklist,N/A,assets/prefabs/misc/platform/platform.exclusion.entity.prefab
+platformforceentity,Blacklist,N/A,assets/prefabs/misc/platform/platform.force.entity.prefab
+Player,Player,Human,assets/prefabs/player/player.prefab
+player_corpse,Loot,Corpse,assets/prefabs/player/player_corpse.prefab
+Plumber's Trumpet,Loot,Instruments,fun.trumpet (world)
+Pookie Bear,Loot,Misc,pookie.bear (world)
+pookie_deployed,Blacklist,N/A,assets/prefabs/misc/xmas/pookie/pookie_deployed.prefab
+Portrait Photo Frame,Loot,Items,photoframe.portrait (world)
+Portrait Picture Frame,Loot,Items,sign.pictureframe.portrait (world)
+Potato,Loot,Food,assets/bundled/prefabs/autospawn/collectable/potato/potato-collectable.prefab
+Potato,Loot,Food,assets/prefabs/plants/potato/potato.entity.prefab
+Potato,Loot,Food,potato (world)
+Potato Clone,Loot,Food,clone.potato (world)
+Potato Seed,Loot,Seeds,seed.potato (world)
+Powered Water Purifier,Loot,Items,powered.water.purifier (world)
+poweredlightsdeployer,Blacklist,N/A,assets/prefabs/misc/xmas/poweredlights/poweredlightsdeployer.prefab
+poweredwaterpurifierdeployed,Blacklist,N/A,assets/prefabs/deployable/playerioents/poweredwaterpurifier/poweredwaterpurifier.deployed.prefab
+poweredwaterpurifierstorage,Blacklist,N/A,assets/prefabs/deployable/playerioents/poweredwaterpurifier/poweredwaterpurifier.storage.prefab
+presentdrop,Blacklist,N/A,assets/prefabs/misc/xmas/sleigh/presentdrop.prefab
+pressbutton,Blacklist,N/A,assets/prefabs/io/electric/switches/pressbutton/pressbutton.prefab
+pressbuttontrainstairwell,Blacklist,N/A,assets/prefabs/io/electric/switches/pressbutton/pressbutton_trainstairwell.prefab
+Pressure Pad,Loot,Items,electric.pressurepad (world)
+pressurepaddeployed,Blacklist,N/A,assets/prefabs/deployable/playerioents/detectors/pressurepad/pressurepad.deployed.prefab
+Prison Cell Gate,Loot,Construction,wall.frame.cell.gate (world)
+Prison Cell Wall,Loot,Construction,wall.frame.cell (world)
+Pump Jack,Loot,Construction,mining.pumpjack (world)
+Pump Shotgun,Loot,Weapons,shotgun.pump (world)
+pumpjack-static,Blacklist,N/A,assets/bundled/prefabs/static/pumpjack-static.prefab
+Pumpkin,Loot,Food,assets/bundled/prefabs/autospawn/collectable/pumpkin/pumpkin-collectable.prefab
+Pumpkin,Loot,Food,assets/prefabs/plants/pumpkin/pumpkin.entity.prefab
+Pumpkin,Loot,Food,pumpkin (world)
+Pumpkin Bucket,Loot,Food,pumpkinbasket (world)
+Pumpkin Plant Clone,Loot,Food,clone.pumpkin (world)
+Pumpkin Seed,Loot,Seeds,seed.pumpkin (world)
+pumpkin_basketentity,Blacklist,N/A,assets/prefabs/misc/halloween/pumpkin_bucket/pumpkin_basket.entity.prefab
+Pure Anti-Rad Tea,Loot,Potions,radiationresisttea.pure (world)
+Pure Healing Tea,Loot,Potions,healingtea.pure (world)
+Pure Max Health Tea,Loot,Potions,maxhealthtea.pure (world)
+Pure Ore Tea,Loot,Potions,oretea.pure (world)
+Pure Rad. Removal Tea,Loot,Potions,radiationremovetea.pure (world)
+Pure Scrap Tea,Loot,Potions,scraptea.pure (world)
+Pure Wood Tea,Loot,Potions,woodtea.pure (world)
+Purple Sunglasses,Loot,Clothing,twitchsunglasses (world)
+python,Loot,Prefabs Weapons,assets/prefabs/weapons/python/python.entity.prefab
+Python Revolver,Loot,Weapons,pistol.python (world)
+Rad. Removal Tea,Loot,Potions,radiationremovetea (world)
+ramp,Blacklist,N/A,assets/prefabs/building core/ramp/ramp.prefab
+RAND Switch,Loot,Electronics,electric.random.switch (world)
+Rat Mask,Loot,Clothing,hat.ratmask (world)
+Raw Bear Meat,Loot,Food,bearmeat (world)
+Raw Chicken Breast,Loot,Food,chicken.raw (world)
+Raw Deer Meat,Loot,Food,deermeat.raw (world)
+Raw Fish,Loot,Food,fish.raw (world)
+Raw Horse Meat,Loot,Food,horsemeat.raw (world)
+Raw Human Meat,Loot,Food,humanmeat.raw (world)
+Raw Pork,Loot,Food,meat.boar (world)
+Raw Wolf Meat,Loot,Food,wolfmeat.raw (world)
+Reactive Target,Loot,Items,target.reactive (world)
+reactivetarget_deployed,Blacklist,N/A,assets/prefabs/deployable/reactive target/reactivetarget_deployed.prefab
+Rear Seats Vehicle Module,Loot,Vehicle Parts,vehicle.1mod.rear.seats (world)
+reclaimbackpack,Blacklist,N/A,assets/prefabs/gamemodes/objects/reclaim/reclaimbackpack.prefab
+reclaimmanager,Blacklist,N/A,assets/prefabs/gamemodes/objects/reclaim/reclaimmanager.prefab
+reclaimterminal,Blacklist,N/A,assets/prefabs/gamemodes/objects/reclaim/reclaimterminal.prefab
+recycler_static,Blacklist,N/A,assets/bundled/prefabs/static/recycler_static.prefab
+Red Berry,Loot,Berries,assets/bundled/prefabs/autospawn/collectable/berry-red/berry-red-collectable.prefab
+Red Berry,Loot,Berries,assets/prefabs/plants/berrry/red/red_berry.entity.prefab
+Red Berry,Loot,Berries,red.berry (world)
+Red Berry Clone,Loot,Berries,clone.red.berry (world)
+Red Berry Seed,Loot,Seeds,seed.red.berry (world)
+Red Boomer,Loot,Items,firework.boomer.red (world)
+Red Keycard,Loot,Items,keycard_red (world)
+Red Roman Candle,Loot,Misc,firework.romancandle.red (world)
+Red Volcano Firework,Loot,Misc,firework.volcano.red (world)
+refinery_small_deployed,Blacklist,N/A,assets/prefabs/deployable/oil refinery/refinery_small_deployed.prefab
+Reindeer Antlers,Loot,Misc,attire.reindeer.headband (world)
+Reinforced Glass Window,Loot,Construction,wall.window.bars.toptier (world)
+Reinforcements Listener,Blacklist,N/A,assets/prefabs/npc/ch47/reinforcementslistener.prefab
+relationship_manager,Blacklist,N/A,assets/bundled/prefabs/system/server/relationship_manager.prefab
+Repair Bench,Loot,Prefabs Deployable,assets/prefabs/deployable/repair bench/repairbench_deployed.prefab
+Repair Bench,Loot,Items,box.repair.bench (world)
+repairbench_static,Blacklist,N/A,assets/bundled/prefabs/static/repairbench_static.prefab
+Research Paper,Loot,Items,researchpaper (world)
+Research Table,Loot,Prefabs Deployable,assets/prefabs/deployable/research table/researchtable_deployed.prefab
+Research Table,Loot,Items,research.table (world)
+researchtable_static,Blacklist,N/A,assets/bundled/prefabs/static/researchtable_static.prefab
+resourcedepositmanager,Blacklist,N/A,assets/bundled/prefabs/system/server/resourcedepositmanager.prefab
+Revolver,Loot,Weapons,pistol.revolver (world)
+RF Broadcaster,Loot,Electronics,electric.rf.broadcaster (world)
+RF Pager,Loot,Electronics,rf_pager (world)
+RF Receiver,Loot,Electronics,electric.rf.receiver (world)
+RF Transmitter,Loot,Electronics,rf.detonator (world)
+rfbroadcaster,Blacklist,N/A,assets/prefabs/deployable/playerioents/gates/rfbroadcaster/rfbroadcaster.prefab
+rfbroadcasterstatic,Blacklist,N/A,assets/prefabs/io/electric/other/rfbroadcaster.static.prefab
+rfreceiver,Blacklist,N/A,assets/prefabs/deployable/playerioents/gates/rfreceiver/rfreceiver.prefab
+RHIB,Vehicle,Content Vehicles,assets/content/vehicles/boats/rhib/rhib.prefab
+rhib_storage,Loot,Vehicle Parts,assets/content/vehicles/boats/rhib/subents/rhib_storage.prefab
+Rifle Body,Loot,Components,riflebody (world)
+Riot Helmet,Loot,Clothing,riot.helmet (world)
+Road Sign,Loot,Road Sign,assets/content/props/roadsigns/roadsign1.prefab
+Road Sign,Loot,Road Sign,assets/content/props/roadsigns/roadsign2.prefab
+Road Sign,Loot,Road Sign,assets/content/props/roadsigns/roadsign3.prefab
+Road Sign,Loot,Road Sign,assets/content/props/roadsigns/roadsign4.prefab
+Road Sign,Loot,Road Sign,assets/content/props/roadsigns/roadsign5.prefab
+Road Sign,Loot,Road Sign,assets/content/props/roadsigns/roadsign6.prefab
+Road Sign,Loot,Road Sign,assets/content/props/roadsigns/roadsign7.prefab
+Road Sign,Loot,Road Sign,assets/content/props/roadsigns/roadsign8.prefab
+Road Sign,Loot,Road Sign,assets/content/props/roadsigns/roadsign9.prefab
+Road Sign Jacket,Loot,Clothing,roadsign.jacket (world)
+Road Sign Kilt,Loot,Clothing,roadsign.kilt (world)
+Road Signs,Loot,Components,roadsigns (world)
+Roadsign Gloves,Loot,Clothing,roadsign.gloves (world)
+Roadsign Horse Armor,Loot,Clothing,horse.armor.roadsign (world)
+rock,Loot,Prefabs Weapons,assets/prefabs/weapons/rock/rock.entity.prefab
+Rock,Loot,Tools,rock (world)
+Rocket,Loot,Ammo,ammo.rocket.basic (world)
+Rocket,Loot,Ammo,assets/prefabs/ammo/rocket/rocket_basic.prefab
+Rocket Launcher,Loot,Weapons,rocket.launcher (world)
+rocket_crane_lift,Blacklist,N/A,assets/content/structures/rocket_crane/rocket_crane_lift.prefab
+rocket_crane_lift_nd,Blacklist,N/A,assets/content/structures/rocket_crane/rocket_crane_lift_nd.prefab
+rocket_crane_lift_trigger,Blacklist,N/A,assets/content/structures/rocket_crane/rocket_crane_lift_trigger.prefab
+rocket_heli,Blacklist,N/A,assets/prefabs/npc/patrol helicopter/rocket_heli.prefab
+rocket_heli_airburst,Blacklist,N/A,assets/prefabs/npc/patrol helicopter/rocket_heli_airburst.prefab
+rocket_heli_napalm,Blacklist,N/A,assets/prefabs/npc/patrol helicopter/rocket_heli_napalm.prefab
+rocket_launcher,Loot,Prefabs Weapons,assets/prefabs/weapons/rocketlauncher/rocket_launcher.entity.prefab
+rocket_sam,Blacklist,N/A,assets/prefabs/npc/sam_site_turret/rocket_sam.prefab
+romancandle,Blacklist,N/A,assets/prefabs/deployable/fireworks/romancandle.prefab
+romancandle-blue,Blacklist,N/A,assets/prefabs/deployable/fireworks/romancandle-blue.prefab
+romancandle-green,Blacklist,N/A,assets/prefabs/deployable/fireworks/romancandle-green.prefab
+romancandle-violet,Blacklist,N/A,assets/prefabs/deployable/fireworks/romancandle-violet.prefab
+roof,Blacklist,N/A,assets/prefabs/building core/roof/roof.prefab
+rooftriangle,Blacklist,N/A,assets/prefabs/building core/roof.triangle/roof.triangle.prefab
+Root Combiner,Loot,Electronics,electrical.combiner (world)
+Rope,Loot,Components,rope (world)
+Rotten Apple,Blacklist,N/A,apple.spoiled (world)
+Row Boat,Vehicle,Content Vehicles,assets/content/vehicles/boats/rowboat/rowboat.prefab
+rowboat_storage,Loot,Vehicle Parts,assets/content/vehicles/boats/rowboat/subents/rowboat_storage.prefab
+Rug,Loot,Items,rug (world)
+Rug Bear Skin,Loot,Items,rug.bear (world)
+rugbeardeployed,Blacklist,N/A,assets/prefabs/deployable/rug/rug.bear.deployed.prefab
+rugdeployed,Blacklist,N/A,assets/prefabs/deployable/rug/rug.deployed.prefab
+RustigÃ© Egg - Blue,Loot,Misc,rustige_egg_b (world)
+RustigÃ© Egg - Ivory,Loot,Misc,rustige_egg_d (world)
+RustigÃ© Egg - Purple,Loot,Misc,rustige_egg_c (world)
+RustigÃ© Egg - Red,Loot,Misc,rustige_egg_a (world)
+rustigeegg_adeployed,Blacklist,N/A,assets/prefabs/misc/easter/faberge_egg_a/rustigeegg_a.deployed.prefab
+rustigeegg_bdeployed,Blacklist,N/A,assets/prefabs/misc/easter/faberge_egg_b/rustigeegg_b.deployed.prefab
+rustigeegg_cdeployed,Blacklist,N/A,assets/prefabs/misc/easter/faberge_egg_c/rustigeegg_c.deployed.prefab
+rustigeegg_ddeployed,Blacklist,N/A,assets/prefabs/misc/easter/faberge_egg_d/rustigeegg_d.deployed.prefab
+Saddle bag,Loot,Items,horse.saddlebag (world)
+saddletest,Blacklist,N/A,assets/prefabs/vehicle/seats/saddletest.prefab
+Salt Water,Loot,Resources,water.salt (world)
+Salvaged Axe,Loot,Tools,axe.salvaged (world)
+Salvaged Cleaver,Loot,Weapons,salvaged.cleaver (world)
+Salvaged Hammer,Loot,Tools,hammer.salvaged (world)
+Salvaged Icepick,Loot,Tools,icepick.salvaged (world)
+Salvaged Shelves,Loot,Items,shelves (world)
+Salvaged Sword,Loot,Weapons,salvaged.sword (world)
+salvaged_cleaver,Loot,Prefabs Weapons,assets/prefabs/weapons/cleaver big/salvaged_cleaver.entity.prefab
+salvaged_sword,Loot,Prefabs Weapons,assets/prefabs/weapons/sword/salvaged_sword.entity.prefab
+SAM Ammo,Loot,Ammo,ammo.rocket.sam (world)
+SAM Site,Loot,Weapons,samsite (world)
+Sam Turret,Loot,Traps,assets/prefabs/npc/sam_site_turret/sam_site_turret_deployed.prefab
+sam_ammo,Blacklist,N/A,assets/prefabs/npc/sam_site_turret/sam_ammo.prefab
+sam_static,Loot,Traps,assets/prefabs/npc/sam_site_turret/sam_static.prefab
+Sandbag Barricade,Loot,Construction,barricade.sandbags (world)
+Santa Beard,Loot,Clothing,santabeard (world)
+Santa Hat,Loot,Misc,santahat (world)
+santasleigh,Blacklist,N/A,assets/prefabs/misc/xmas/sleigh/santasleigh.prefab
+Satchel Charge,Loot,Tools,explosive.satchel (world)
+Scarecrow,Blacklist,N/A,assets/prefabs/npc/scarecrow/scarecrow.prefab
+Scarecrow,Loot,Misc,scarecrow (world)
+Scarecrow Suit,Loot,Clothing,scarecrow.suit (world)
+Scarecrow Wrap,Loot,Clothing,scarecrowhead (world)
+scarecrowdeployed,Blacklist,N/A,assets/prefabs/misc/halloween/scarecrow/scarecrow.deployed.prefab
+Scientist,PlayerNPC,N/A,assets/prefabs/npc/scientist/htn/scientist_astar_full_any.prefab
+Scientist,PlayerNPC,N/A,assets/prefabs/npc/scientist/htn/scientist_full_any.prefab
+Scientist,PlayerNPC,N/A,assets/prefabs/npc/scientist/htn/scientist_full_lr300.prefab
+Scientist,PlayerNPC,N/A,assets/prefabs/npc/scientist/htn/scientist_full_mp5.prefab
+Scientist,PlayerNPC,N/A,assets/prefabs/npc/scientist/htn/scientist_full_pistol.prefab
+Scientist,PlayerNPC,N/A,assets/prefabs/npc/scientist/htn/scientist_full_shotgun.prefab
+Scientist,PlayerNPC,N/A,assets/prefabs/npc/scientist/htn/scientist_junkpile_pistol.prefab
+Scientist,PlayerNPC,N/A,assets/prefabs/npc/scientist/htn/scientist_turret_any.prefab
+Scientist,PlayerNPC,N/A,assets/prefabs/npc/scientist/htn/scientist_turret_lr300.prefab
+Scientist,PlayerNPC,N/A,assets/prefabs/npc/scientist/scientist.prefab
+Scientist,PlayerNPC,N/A,assets/prefabs/npc/scientist/scientist_gunner.prefab
+Scientist,PlayerNPC,N/A,assets/prefabs/npc/scientist/scientistjunkpile.prefab
+Scientist,PlayerNPC,N/A,assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc.prefab
+Scientist Corpse,Loot,Corpse,assets/prefabs/npc/scientist/scientist_corpse.prefab
+Scientist Peacekeeper,PlayerNPC,N/A,assets/prefabs/npc/scientist/scientistpeacekeeper.prefab
+Scientist Stationary,PlayerNPC,N/A,assets/prefabs/npc/scientist/scientiststationary.prefab
+Scientist Suit,Loot,Clothing,hazmatsuit_scientist (world)
+Scientist Suit,Loot,Clothing,hazmatsuit_scientist_peacekeeper (world)
+scientistnpc_excavator,PlayerNPC,N/A,assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_excavator.prefab
+Scrap,Loot,Resources,scrap (world)
+Scrap Heli,Vehicle,Content Vehicles,assets/content/vehicles/scrap heli carrier/scraptransporthelicopter.prefab
+Scrap Transport,Loot,Corpse,assets/content/vehicles/scrap heli carrier/servergibs_scraptransport.prefab
+ScrapTransportHeliRepair,Loot,Items,scraptransportheli.repair (world)
+Search Light,Loot,Items,searchlight (world)
+searchlightdeployed,Blacklist,N/A,assets/prefabs/deployable/search light/searchlight.deployed.prefab
+Secret Lab Chair,Loot,Items,secretlabchair (world)
+secretlabchairdeployed,Blacklist,N/A,assets/prefabs/deployable/secretlab chair/secretlabchair.deployed.prefab
+Sedan,Vehicle,Content Vehicles,assets/content/vehicles/sedan_a/sedantest.entity.prefab
+Semi Automatic Body,Loot,Components,semibody (world)
+semi_auto_rifle,Loot,Prefabs Weapons,assets/prefabs/weapons/semi auto rifle/semi_auto_rifle.entity.prefab
+Semi-Automatic Pistol,Loot,Weapons,pistol.semiauto (world)
+Semi-Automatic Rifle,Loot,Weapons,rifle.semiauto (world)
+sentrybandit,Loot,Content Props,assets/content/props/sentry_scientists/sentry.bandit.static.prefab
+sentryscientist,Loot,Content Props,assets/content/props/sentry_scientists/sentry.scientist.static.prefab
+Sewing Kit,Loot,Components,sewingkit (world)
+Sheet Metal,Loot,Components,sheetmetal (world)
+Industrial Door,Loot,Items,door.hinged.industrial.a (world)
+Sheet Metal Door,Loot,Construction,door.hinged.metal (world)
+shelves,Blacklist,N/A,assets/prefabs/deployable/shelves/shelves.prefab
+Shirt,Loot,Clothing,shirt.collared (world)
+Shop Front,Loot,Construction,wall.frame.shopfront (world)
+shopkeeper_vm_invis,Blacklist,N/A,assets/prefabs/deployable/vendingmachine/npcvendingmachines/shopkeeper_vm_invis.prefab
+Short Ice Wall,Loot,Construction,wall.ice.wall (world)
+Shorts,Loot,Clothing,pants.shorts (world)
+Shotgun Trap,Loot,Traps,guntrap (world)
+shotgun_pump,Loot,Prefabs Weapons,assets/prefabs/weapons/sawnoff_shotgun/shotgun_pump.entity.prefab
+shotgun_waterpipe,Loot,Prefabs Weapons,assets/prefabs/weapons/pipe shotgun/shotgun_waterpipe.entity.prefab
+Shovel Bass,Loot,Instruments,fun.bass (world)
+shreddable_pickuptruck,Blacklist,CheckThis,assets/content/vehicles/crane_magnet/shreddable_pickuptruck.prefab
+shuttermetalembrasurea,Blacklist,N/A,assets/prefabs/building/wall.window.embrasure/shutter.metal.embrasure.a.prefab
+shuttermetalembrasureb,Blacklist,N/A,assets/prefabs/building/wall.window.embrasure/shutter.metal.embrasure.b.prefab
+shutterwooda,Blacklist,N/A,assets/prefabs/building/wall.window.shutter/shutter.wood.a.prefab
+sickle,Loot,Prefabs Weapons,assets/prefabs/weapons/halloween/sickle/sickle.entity.prefab
+Sickle,Loot,Weapons,sickle (world)
+signhanging,Blacklist,N/A,assets/prefabs/deployable/signs/sign.hanging.prefab
+signhangingbannerlarge,Blacklist,N/A,assets/prefabs/deployable/signs/sign.hanging.banner.large.prefab
+signhangingornate,Blacklist,N/A,assets/prefabs/deployable/signs/sign.hanging.ornate.prefab
+signhugewood,Blacklist,N/A,assets/prefabs/deployable/signs/sign.huge.wood.prefab
+signlargewood,Blacklist,N/A,assets/prefabs/deployable/signs/sign.large.wood.prefab
+signmediumwood,Blacklist,N/A,assets/prefabs/deployable/signs/sign.medium.wood.prefab
+signneon125Ã—125,Blacklist,N/A,assets/prefabs/misc/xmas/neon_sign/sign.neon.125Ã—125.prefab
+signneon125Ã—215,Blacklist,N/A,assets/prefabs/misc/xmas/neon_sign/sign.neon.125Ã—215.prefab
+signneon125Ã—215animated,Blacklist,N/A,assets/prefabs/misc/xmas/neon_sign/sign.neon.125Ã—215.animated.prefab
+signneonxl,Blacklist,N/A,assets/prefabs/misc/xmas/neon_sign/sign.neon.xl.prefab
+signneonxlanimated,Blacklist,N/A,assets/prefabs/misc/xmas/neon_sign/sign.neon.xl.animated.prefab
+signpictureframelandscape,Blacklist,N/A,assets/prefabs/deployable/signs/sign.pictureframe.landscape.prefab
+signpictureframeportrait,Blacklist,N/A,assets/prefabs/deployable/signs/sign.pictureframe.portrait.prefab
+signpictureframetall,Blacklist,N/A,assets/prefabs/deployable/signs/sign.pictureframe.tall.prefab
+signpictureframexl,Blacklist,N/A,assets/prefabs/deployable/signs/sign.pictureframe.xl.prefab
+signpictureframexxl,Blacklist,N/A,assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab
+signpolebannerlarge,Blacklist,N/A,assets/prefabs/deployable/signs/sign.pole.banner.large.prefab
+signpostdouble,Blacklist,N/A,assets/prefabs/deployable/signs/sign.post.double.prefab
+signpostsingle,Blacklist,N/A,assets/prefabs/deployable/signs/sign.post.single.prefab
+signposttown,Blacklist,N/A,assets/prefabs/deployable/signs/sign.post.town.prefab
+signposttownroof,Blacklist,N/A,assets/prefabs/deployable/signs/sign.post.town.roof.prefab
+signsmallwood,Blacklist,N/A,assets/prefabs/deployable/signs/sign.small.wood.prefab
+silencer,Loot,Prefabs Weapons Mods,assets/prefabs/weapon mods/silencers/silencer.entity.prefab
+Silencer,Loot,Weapons,weapon.mod.silencer (world)
+Silver Egg,Loot,Misc,easter.silveregg (world)
+Simple Handmade Sight,Loot,Weapons,weapon.mod.simplesight (world)
+Simple Light,Loot,Electronics,electric.simplelight (world)
+simplelight,Blacklist,N/A,assets/prefabs/deployable/playerioents/lights/simplelight.prefab
+simplelight,Blacklist,N/A,assets/prefabs/io/electric/lights/simplelight.prefab
+simplesight,Loot,Prefabs Weapons Mods,assets/prefabs/weapon mods/reddotsight/simplesight.entity.prefab
+simplesightvm,Loot,Prefabs Weapons Mods,assets/prefabs/weapon mods/reddotsight/simplesight.vm.attachment.prefab
+simpleswitch,Blacklist,N/A,assets/prefabs/io/electric/switches/simpleswitch/simpleswitch.prefab
+Single Sign Post,Loot,Items,sign.post.single (world)
+Siren Light,Loot,Electronics,electric.sirenlight (world)
+sirenlightorange,Blacklist,N/A,assets/prefabs/io/electric/lights/sirenlightorange.prefab
+Skull Door Knocker,Loot,Items,skulldoorknocker (world)
+Skull Fire Pit,Loot,Misc,skull_fire_pit (world)
+Skull Spikes,Loot,Items,skullspikes (world)
+Skull Spikes,Loot,Items,skullspikes.candles (world)
+Skull Spikes,Loot,Items,skullspikes.pumpkin (world)
+Skull Trophy,Loot,Items,skull.trophy (world)
+Skull Trophy,Loot,Items,skull.trophy.jar (world)
+Skull Trophy,Loot,Items,skull.trophy.jar2 (world)
+Skull Trophy,Loot,Items,skull.trophy.table (world)
+skull_door_knocker,Blacklist,N/A,assets/prefabs/misc/halloween/skull_door_knocker/skull_door_knocker.prefab
+skull_door_knockerdeployed,Blacklist,N/A,assets/prefabs/misc/halloween/skull_door_knocker/skull_door_knocker.deployed.prefab
+skull_fire_pit,Blacklist,N/A,assets/prefabs/misc/halloween/skull_fire_pit/skull_fire_pit.prefab
+skullspikesdeployed,Blacklist,N/A,assets/prefabs/misc/halloween/skull spikes/skullspikes.deployed.prefab
+skulltrophydeployed,Blacklist,N/A,assets/prefabs/misc/halloween/trophy skulls/skulltrophy.deployed.prefab
+Sled,Loot,Items,sled (world)
+Sled,Loot,Items,sled.xmas (world)
+sleddeployed,Blacklist,N/A,assets/prefabs/misc/xmas/sled/sled.deployed.prefab
+sledseatfront,Blacklist,N/A,assets/prefabs/vehicle/seats/sledseatfront.prefab
+sledseatrear,Blacklist,N/A,assets/prefabs/vehicle/seats/sledseatrear.prefab
+Sleeping Bag,Loot,Sleeping Bag,sleepingbag (world)
+sleepingbag_leather_deployed,Loot,Sleeping Bag,assets/prefabs/deployable/sleeping bag/sleepingbag_leather_deployed.prefab
+sliding_blast_door,Blacklist,N/A,assets/content/structures/interactive_garage_door/sliding_blast_door.prefab
+Slot Machine,Blacklist,N/A,assets/prefabs/misc/casino/slotmachine/slotmachine.prefab
+Slot Machine Storage,Blacklist,N/A,assets/prefabs/misc/casino/slotmachine/slotmachinestorage.prefab
+Small Candle Set,Loot,Items,smallcandles (world)
+Small Chassis,Loot,Vehicle Parts,vehicle.chassis.2mod (world)
+Small Generator,Loot,Electronics,electric.fuelgenerator.small (world)
+Small Loot Bag,Loot,Items,halloween.lootbag.small (world)
+Small Neon Sign,Loot,Electronics,sign.neon.125x125 (world)
+Small Oil Refinery,Loot,Items,small.oil.refinery (world)
+Small Planter Box,Loot,Items,planter.small (world)
+Small Present,Loot,Misc,xmas.present.small (world)
+Small Rechargable Battery,Loot,Electronics,electric.battery.rechargable.small (world)
+Small Stash,Loot,Items,stash.small (world)
+Small Stocking,Loot,Misc,stocking.small (world)
+Small Trout,Loot,Food,fish.troutsmall (world)
+Small Water Bottle,Loot,Food,smallwaterbottle (world)
+Small Water Catcher,Loot,Construction,water.catcher.small (world)
+Small Wooden Sign,Loot,Items,sign.wooden.small (world)
+small_fuel_generatordeployed,Blacklist,N/A,assets/prefabs/deployable/playerioents/generators/fuel generator/small_fuel_generator.deployed.prefab
+small_refinery_static,Blacklist,N/A,assets/bundled/prefabs/static/small_refinery_static.prefab
+small_stash_deployed,Blacklist,N/A,assets/prefabs/deployable/small stash/small_stash_deployed.prefab
+smallboatdriver,Blacklist,N/A,assets/prefabs/vehicle/seats/smallboatdriver.prefab
+smallboatpassenger,Blacklist,N/A,assets/prefabs/vehicle/seats/smallboatpassenger.prefab
+smallcandleset,Blacklist,N/A,assets/prefabs/misc/halloween/candles/smallcandleset.prefab
+smallrechargablebatterydeployed,Blacklist,N/A,assets/prefabs/deployable/playerioents/batteries/smallrechargablebattery.deployed.prefab
+smallscope,Loot,Prefabs Weapons Mods,assets/prefabs/weapon mods/smallscope/smallscope.entity.prefab
+smallscopevm,Loot,Prefabs Weapons Mods,assets/prefabs/weapon mods/smallscope/smallscope.vm.attachment.prefab
+Smart Alarm,Loot,Electronics,smart.alarm (world)
+Smart Switch,Loot,Electronics,smart.switch (world)
+smartalarm,Blacklist,N/A,assets/prefabs/deployable/playerioents/app/smartalarm/smartalarm.prefab
+smartswitch,Blacklist,N/A,assets/prefabs/deployable/playerioents/app/smartswitch/smartswitch.prefab
+smg,Loot,Prefabs Weapons,assets/prefabs/weapons/smg/smg.entity.prefab
+SMG Body,Loot,Components,smgbody (world)
+Smoke Grenade,Loot,Tools,grenade.smoke (world)
+Smoke Rocket,Loot,Ammo,ammo.rocket.smoke (world)
+Smoke Rocket,Loot,Ammo,assets/prefabs/ammo/rocket/rocket_smoke.prefab
+smoke_grenadeweapon,Blacklist,N/A,assets/prefabs/tools/smoke grenade/smoke_grenade.weapon.prefab
+Snap Trap,Loot,Traps,trap.bear (world)
+Snow Jacket,Loot,Clothing,jacket.snow (world)
+Snow Machine,Loot,Items,snowmachine (world)
+Snowball,Loot,Items,snowball (world)
+Snowball Gun,Loot,Items,snowballgun (world)
+snowballentity,Blacklist,N/A,assets/prefabs/misc/xmas/snowball/snowball.entity.prefab
+snowballgunentity,Blacklist,N/A,assets/prefabs/misc/xmas/snowballgun/snowballgun.entity.prefab
+snowmachine,Blacklist,N/A,assets/prefabs/misc/xmas/snow_machine/models/snowmachine.prefab
+Snowman,Loot,Items,snowman (world)
+snowmandeployed,Blacklist,N/A,assets/prefabs/misc/xmas/snowman/snowman.deployed.prefab
+Sofa,Loot,Items,sofa (world)
+sofadeployed,Blacklist,N/A,assets/prefabs/deployable/sofa/sofa.deployed.prefab
+sofaseat,Blacklist,N/A,assets/prefabs/deployable/sofa/seats/sofaseat.prefab
+softcore,Blacklist,N/A,assets/prefabs/gamemodes/softcore.prefab
+solarpanellargedeployed,Blacklist,N/A,assets/prefabs/deployable/playerioents/generators/solar_panels_roof/solarpanel.large.deployed.prefab
+Sousaphone,Loot,Instruments,fun.tuba (world)
+Space Suit,Loot,Clothing,hazmatsuit.spacesuit (world)
+spas12,Loot,Prefabs Weapons,assets/prefabs/weapons/spas12/spas12.entity.prefab
+Spas-12 Shotgun,Loot,Weapons,shotgun.spas12 (world)
+spear_stone,Loot,Prefabs Weapons,assets/prefabs/weapons/stone spear/spear_stone.entity.prefab
+spear_wooden,Loot,Prefabs Weapons,assets/prefabs/weapons/wooden spear/spear_wooden.entity.prefab
+sphere,Blacklist,N/A,assets/prefabs/visualization/sphere.prefab
+Spider Webs,Loot,Items,spiderweb (world)
+spiderweba,Blacklist,N/A,assets/prefabs/misc/halloween/spiderweb/spiderweba.prefab
+Spikes,Loot,Traps,assets/prefabs/deployable/floor spikes/spikes.floor.prefab
+spikes_static,Blacklist,N/A,assets/bundled/prefabs/static/spikes_static.prefab
+spinnerwheeldeployed,Blacklist,N/A,assets/prefabs/deployable/spinner_wheel/spinner.wheel.deployed.prefab
+Spinning wheel,Loot,Items,spinner.wheel (world)
+splitter,Blacklist,N/A,assets/prefabs/deployable/playerioents/splitter/splitter.prefab
+splitter,Blacklist,N/A,assets/prefabs/io/electric/switches/splitter.prefab
+Splitter,Loot,Electronics,electric.splitter (world)
+Spoiled Chicken,Blacklist,N/A,chicken.spoiled (world)
+Spoiled Human Meat,Blacklist,N/A,humanmeat.spoiled (world)
+Spoiled Wolf Meat,Blacklist,N/A,wolfmeat.spoiled (world)
+Spooky Speaker,Loot,Electronics,spookyspeaker (world)
+spookyspeaker,Blacklist,N/A,assets/prefabs/misc/halloween/spookyspeaker/spookyspeaker.prefab
+Sprinkler,Loot,Electronics,electric.sprinkler (world)
+Stables Shopkeeper,PlayerNPC,N/A,assets/prefabs/npc/bandit/shopkeepers/stables_shopkeeper.prefab
+Stag,Animal,N/A,assets/rust.ai/agents/stag/stag.prefab
+stag.corpse,Loot,Corpse,assets/rust.ai/agents/stag/stag.corpse.prefab
+standingdriver,Blacklist,N/A,assets/prefabs/vehicle/seats/standingdriver.prefab
+Star Tree Topper,Loot,Misc,xmas.decoration.star (world)
+staticrespawnzonebandit,Blacklist,N/A,assets/prefabs/gamemodes/softcore/staticrespawnzonebandit.prefab
+staticrespawnzonecompound,Blacklist,N/A,assets/prefabs/gamemodes/softcore/staticrespawnzonecompound.prefab
+Sticks,Loot,Items,sticks (world)
+stocking_large_deployed,Blacklist,N/A,assets/prefabs/misc/xmas/stockings/stocking_large_deployed.prefab
+stocking_small_deployed,Blacklist,N/A,assets/prefabs/misc/xmas/stockings/stocking_small_deployed.prefab
+Stone,Loot,Collectable,assets/bundled/prefabs/autospawn/collectable/stone/stone-collectable.prefab
+Stone Barricade,Loot,Construction,barricade.stone (world)
+Stone Fireplace,Loot,Items,fireplace.stone (world)
+Stone Hatchet,Loot,Tools,stonehatchet (world)
+Stone Ore,Loot,Ore,assets/bundled/prefabs/autospawn/resource/ores/stone-ore.prefab
+Stone Ore,Loot,Ore,assets/bundled/prefabs/autospawn/resource/ores_sand/stone-ore.prefab
+Stone Ore,Loot,Ore,assets/bundled/prefabs/autospawn/resource/ores_snow/stone-ore.prefab
+Stone Ore,Loot,Ore,assets/bundled/prefabs/radtown/ore_stone.prefab
+Stone Pickaxe,Loot,Tools,stone.pickaxe (world)
+Stone Spear,Loot,Weapons,spear.stone (world)
+stone_pickaxe,Loot,Prefabs Weapons,assets/prefabs/weapons/stone pickaxe/stone_pickaxe.entity.prefab
+stonehatchet,Loot,Prefabs Weapons,assets/prefabs/weapons/stone hatchet/stonehatchet.entity.prefab
+Stones,Loot,Resources,stones (world)
+Storage Monitor,Loot,Electronics,storage.monitor (world)
+Storage Vehicle Module,Loot,Vehicle Parts,vehicle.1mod.storage (world)
+storagemonitordeployed,Blacklist,N/A,assets/prefabs/deployable/playerioents/app/storagemonitor/storagemonitor.deployed.prefab
+Strengthened Glass Window,Loot,Construction,wall.window.glass.reinforced (world)
+Strobe Light,Loot,Electronics,strobelight (world)
+strobelight,Loot,Content Props,assets/content/props/strobe light/strobelight.prefab
+Sulfur,Loot,Collectable,assets/bundled/prefabs/autospawn/collectable/stone/sulfur-collectable.prefab
+Sulfur,Loot,Resources,sulfur (world)
+Sulfur Ore,Loot,Ore,assets/bundled/prefabs/autospawn/resource/ores/sulfur-ore.prefab
+Sulfur Ore,Loot,Ore,assets/bundled/prefabs/autospawn/resource/ores_sand/sulfur-ore.prefab
+Sulfur Ore,Loot,Ore,assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab
+Sulfur Ore,Loot,Ore,assets/bundled/prefabs/radtown/ore_sulfur.prefab
+Sulfur Ore,Loot,Ore,sulfur.ore (world)
+Sunglasses,Loot,Clothing,sunglasses (world)
+Sunglasses,Loot,Clothing,sunglasses02black (world)
+Sunglasses,Loot,Clothing,sunglasses02camo (world)
+Sunglasses,Loot,Clothing,sunglasses02red (world)
+Sunglasses,Loot,Clothing,sunglasses03black (world)
+Sunglasses,Loot,Clothing,sunglasses03chrome (world)
+Sunglasses,Loot,Clothing,sunglasses03gold (world)
+SUPER Stocking,Loot,Misc,stocking.large (world)
+Supply Signal,Loot,Tools,supply.signal (world)
+supply_drop,Blacklist,N/A,assets/prefabs/misc/supply drop/supply_drop.prefab
+supplysignalweapon,Blacklist,N/A,assets/prefabs/tools/supply signal/supplysignal.weapon.prefab
+Surgeon Scrubs,Loot,Clothing,halloween.surgeonsuit (world)
+Survey Charge,Loot,Items,surveycharge (world)
+survey_charge,Blacklist,N/A,assets/prefabs/tools/surveycharge/survey_charge.prefab
+survey_chargedeployed,Blacklist,N/A,assets/prefabs/tools/surveycharge/survey_charge.deployed.prefab
+survey_crater,Blacklist,N/A,assets/prefabs/tools/surveycharge/survey_crater.prefab
+survey_crater_oil,Blacklist,N/A,assets/prefabs/tools/surveycharge/survey_crater_oil.prefab
+Survival Fish Trap,Loot,Items,fishtrap.small (world)
+survivalfishtrapdeployed,Blacklist,N/A,assets/prefabs/deployable/survivalfishtrap/survivalfishtrap.deployed.prefab
+swamp_tree_a,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/swamp-trees/swamp_tree_a.prefab
+swamp_tree_b,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/swamp-trees/swamp_tree_b.prefab
+swamp_tree_c,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/swamp-trees/swamp_tree_c.prefab
+swamp_tree_d,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/swamp-trees/swamp_tree_d.prefab
+swamp_tree_e,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/swamp-trees/swamp_tree_e.prefab
+swamp_tree_f,Blacklist,N/A,assets/bundled/prefabs/autospawn/resource/swamp-trees/swamp_tree_f.prefab
+switch,Blacklist,N/A,assets/prefabs/deployable/playerioents/simpleswitch/switch.prefab
+Switch,Loot,Electronics,electric.switch (world)
+syringe_medicalentity,Blacklist,N/A,assets/prefabs/tools/medical syringe/syringe_medical.entity.prefab
+Table,Loot,Items,table (world)
+tabledeployed,Blacklist,N/A,assets/prefabs/deployable/table/table.deployed.prefab
+Tactical Gloves,Loot,Clothing,tactical.gloves (world)
+Tall Picture Frame,Loot,Items,sign.pictureframe.tall (world)
+tambourineweapon,Blacklist,N/A,assets/prefabs/instruments/tambourine/tambourine.weapon.prefab
+Tank Top,Loot,Clothing,shirt.tanktop (world)
+Targeting Computer,Loot,Components,targeting.computer (world)
+Tarp,Loot,Components,tarp (world)
+Taxi Vehicle Module,Loot,Vehicle Parts,vehicle.1mod.taxi (world)
+teamdeathmatch,Blacklist,N/A,assets/prefabs/gamemodes/teamdeathmatch.prefab
+Tech Trash,Loot,Components,techparts (world)
+Telephone,Loot,Electronics,telephone (world)
+telephonedeployed,Blacklist,N/A,assets/prefabs/voiceaudio/telephone/telephone.deployed.prefab
+Tesla Coil,Loot,Electronics,electric.teslacoil (world)
+teslacoildeployed,Blacklist,N/A,assets/prefabs/deployable/playerioents/teslacoil/teslacoil.deployed.prefab
+Test Generator,Loot,Electronics,electric.generator.small (world)
+testseat,Blacklist,N/A,assets/prefabs/vehicle/seats/testseat.prefab
+thompson,Loot,Prefabs Weapons,assets/prefabs/weapons/thompson/thompson.entity.prefab
+Thompson,Loot,Weapons,smg.thompson (world)
+Timed Explosive Charge,Loot,Tools,explosive.timed (world)
+timer,Blacklist,N/A,assets/prefabs/deployable/playerioents/timers/timer.prefab
+Timer,Loot,Electronics,electric.timer (world)
+timerswitch,Blacklist,N/A,assets/prefabs/io/electric/switches/timerswitch.prefab
+Tool Cupboard,Loot,Construction,cupboard.tool (world)
+tool_camera,Blacklist,N/A,assets/prefabs/tools/camera/tool_camera.prefab
+toolgun,Loot,Prefabs Weapons,assets/prefabs/weapons/toolgun/toolgun.entity.prefab
+Tools Crate,Loot,Crate,assets/bundled/prefabs/radtown/crate_tools.prefab
+ToolsDropped,Loot,Prefabs Weapons,assets/prefabs/weapons/salvaged_icepick/icepick_salvaged.entity.prefab
+torch,Loot,Prefabs Weapons,assets/prefabs/weapons/torch/torch.entity.prefab
+Torch,Loot,Tools,torch (world)
+Train Barricade,Blacklist,N/A,assets/content/props/train_tunnels/trainbarricadeheavy.prefab
+transporthelicopilot,Blacklist,N/A,assets/prefabs/vehicle/seats/transporthelicopilot.prefab
+transporthelipilot,Blacklist,N/A,assets/prefabs/vehicle/seats/transporthelipilot.prefab
+Trash,Loot,Resources,assets/bundled/prefabs/radtown/loot_trash.prefab
+Trash Pile,Loot,Crate,assets/bundled/prefabs/autospawn/resource/loot/trash-pile-1.prefab
+Tree,Blacklist,N/A,assets/content/nature/treesprefabs/trees/effects/tree_marking_nospherecast.prefab
+Tree Lights,Loot,Misc,xmas.decoration.lights (world)
+TreeManager,Blacklist,N/A,assets/bundled/prefabs/system/tree_manager.prefab
+Triangle Ladder Hatch,Loot,Construction,floor.triangle.ladder.hatch (world)
+trumpetweapon,Blacklist,N/A,assets/prefabs/instruments/trumpet/trumpet.weapon.prefab
+T-Shirt,Loot,Clothing,tshirt (world)
+tubaweapon,Blacklist,N/A,assets/prefabs/instruments/tuba/tuba.weapon.prefab
+Tuna Can Lamp,Loot,Items,tunalight (world)
+tunalightdeployed,Blacklist,N/A,assets/prefabs/deployable/tuna can wall lamp/tunalight.deployed.prefab
+Tunnel Dweller,PlayerNPC,N/A,assets/rust.ai/agents/npcplayer/humannpc/tunneldweller/tunneldweller.prefab
+Tunnel Dwelling,Blacklist,N/A,assets/prefabs/misc/tunneldwelling/tunnel_dwelling_a.prefab
+Tunnel Dwelling,Blacklist,N/A,assets/prefabs/misc/tunneldwelling/tunnel_dwelling_b.prefab
+Tunnel Dwelling,Blacklist,N/A,assets/prefabs/misc/tunneldwelling/tunnel_dwelling_c.prefab
+Tunnel Dwelling,Blacklist,N/A,assets/prefabs/misc/tunneldwelling/tunnel_dwelling_d.prefab
+Tunnel Dwelling,Blacklist,N/A,assets/prefabs/misc/tunneldwelling/tunnel_dwelling_e.prefab
+Tunnel Dwelling,Blacklist,N/A,assets/prefabs/misc/tunneldwelling/tunnel_dwelling_f.prefab
+Tunnel Dwelling,Blacklist,N/A,assets/prefabs/misc/tunneldwelling/tunnel_dwelling_g.prefab
+Tunnel Dwelling,Blacklist,N/A,assets/prefabs/misc/tunneldwelling/tunnel_dwelling_h.prefab
+Tunnel Dwelling,Blacklist,N/A,assets/prefabs/misc/tunneldwelling/tunnellootstrip_a.prefab
+Two Sided Hanging Sign,Loot,Items,sign.hanging (world)
+Two Sided Ornate Hanging Sign,Loot,Items,sign.hanging.ornate (world)
+Two Sided Town Sign Post,Loot,Items,sign.post.town.roof (world)
+Underwater Advanced Crate,Loot,Crate,assets/bundled/prefabs/radtown/crate_underwater_advanced.prefab
+Underwater Crate,Loot,Crate,assets/bundled/prefabs/radtown/crate_underwater_basic.prefab
+vanilla,Blacklist,N/A,assets/prefabs/gamemodes/vanilla.prefab
+Vehicle Parts,Loot,Crate,assets/bundled/prefabs/radtown/vehicle_parts.prefab
+Vending Machine,Loot,Items,vending.machine (world)
+vending_mapmarker,Blacklist,N/A,assets/prefabs/deployable/vendingmachine/vending_mapmarker.prefab
+vendingmachinedeployed,Blacklist,N/A,assets/prefabs/deployable/vendingmachine/vendingmachine.deployed.prefab
+Violet Boomer,Loot,Misc,firework.boomer.violet (world)
+Violet Roman Candle,Loot,Misc,firework.romancandle.violet (world)
+Violet Volcano Firework,Loot,Misc,firework.volcano.violet (world)
+volcanofirework,Blacklist,N/A,assets/prefabs/deployable/fireworks/volcanofirework.prefab
+volcanofirework-red,Blacklist,N/A,assets/prefabs/deployable/fireworks/volcanofirework-red.prefab
+volcanofirework-violet,Blacklist,N/A,assets/prefabs/deployable/fireworks/volcanofirework-violet.prefab
+wall,Blacklist,N/A,assets/prefabs/building core/wall/wall.prefab
+walldoorway,Blacklist,N/A,assets/prefabs/building core/wall.doorway/wall.doorway.prefab
+wallexternalhighice,Blacklist,N/A,assets/prefabs/misc/xmas/icewalls/wall.external.high.ice.prefab
+wallexternalhighstone,Blacklist,N/A,assets/prefabs/building/wall.external.high.stone/wall.external.high.stone.prefab
+wallexternalhighwood,Blacklist,N/A,assets/prefabs/building/wall.external.high.wood/wall.external.high.wood.prefab
+wallframe,Blacklist,N/A,assets/prefabs/building core/wall.frame/wall.frame.prefab
+wallframecell,Blacklist,N/A,assets/prefabs/building/wall.frame.cell/wall.frame.cell.prefab
+wallframecellgate,Blacklist,N/A,assets/prefabs/building/wall.frame.cell/wall.frame.cell.gate.prefab
+wallframefence,Blacklist,N/A,assets/prefabs/building/wall.frame.fence/wall.frame.fence.prefab
+wallframefencegate,Blacklist,N/A,assets/prefabs/building/wall.frame.fence/wall.frame.fence.gate.prefab
+wallframegaragedoor,Blacklist,N/A,assets/prefabs/building/wall.frame.garagedoor/wall.frame.garagedoor.prefab
+wallframenetting,Blacklist,N/A,assets/prefabs/building/wall.frame.netting/wall.frame.netting.prefab
+wallframeshopfront,Blacklist,N/A,assets/prefabs/building/wall.frame.shopfront/wall.frame.shopfront.prefab
+wallframeshopfrontmetal,Blacklist,N/A,assets/prefabs/building/wall.frame.shopfront/wall.frame.shopfront.metal.prefab
+wallframeshopfrontmetalstatic,Blacklist,N/A,assets/bundled/prefabs/static/wall.frame.shopfront.metal.static.prefab
+wallhalf,Blacklist,N/A,assets/prefabs/building core/wall.half/wall.half.prefab
+walllow,Blacklist,N/A,assets/prefabs/building core/wall.low/wall.low.prefab
+wallwindow,Blacklist,N/A,assets/prefabs/building core/wall.window/wall.window.prefab
+wallwindowbarsmetal,Blacklist,N/A,assets/prefabs/building/wall.window.bars/wall.window.bars.metal.prefab
+wallwindowbarstoptier,Blacklist,N/A,assets/prefabs/building/wall.window.bars/wall.window.bars.toptier.prefab
+wallwindowbarswood,Blacklist,N/A,assets/prefabs/building/wall.window.bars/wall.window.bars.wood.prefab
+wallwindowglassreinforced,Blacklist,N/A,assets/prefabs/building/wall.window.reinforcedglass/wall.window.glass.reinforced.prefab
+Watch Tower,Loot,Construction,watchtower.wood (world)
+watchtowerwood,Blacklist,N/A,assets/prefabs/building/watchtower.wood/watchtower.wood.prefab
+Water,Loot,Resources,water (world)
+Water Barrel,Loot,Items,water.barrel (world)
+Water Bucket,Loot,Items,bucket.water (world)
+Water Gun,Loot,Weapons,gun.water (world)
+Water Jug,Loot,Items,waterjug (world)
+Water Pistol,Loot,Weapons,pistol.water (world)
+Water Pump,Loot,Items,waterpump (world)
+Water Purifier,Loot,Items,water.purifier (world)
+water_catcher_large,Blacklist,N/A,assets/prefabs/deployable/water catcher/water_catcher_large.prefab
+water_catcher_small,Blacklist,N/A,assets/prefabs/deployable/water catcher/water_catcher_small.prefab
+water_catcher_smallstatic,Blacklist,N/A,assets/bundled/prefabs/static/water_catcher_small.static.prefab
+waterball,Loot,Prefabs Weapons,assets/prefabs/weapons/waterbucket/waterball.prefab
+waterbarrel,Blacklist,N/A,assets/prefabs/deployable/liquidbarrel/waterbarrel.prefab
+waterbucket,Loot,Prefabs Weapons,assets/prefabs/weapons/waterbucket/waterbucket.entity.prefab
+watergunentity,Blacklist,N/A,assets/prefabs/misc/summer_dlc/watergun/watergun.entity.prefab
+Waterpipe Shotgun,Loot,Weapons,shotgun.waterpipe (world)
+waterpistolentity,Blacklist,N/A,assets/prefabs/misc/summer_dlc/waterpistol/waterpistol.entity.prefab
+waterpumpdeployed,Blacklist,N/A,assets/prefabs/deployable/playerioents/waterpump/water.pump.deployed.prefab
+waterpurifierdeployed,Blacklist,N/A,assets/prefabs/deployable/waterpurifier/waterpurifier.deployed.prefab
+waterstorage,Blacklist,N/A,assets/prefabs/deployable/waterpurifier/waterstorage.prefab
+waterwellstatic,Blacklist,N/A,assets/prefabs/deployable/water well/waterwellstatic.prefab
+Weapon flashlight,Loot,Weapons,weapon.mod.flashlight (world)
+Weapon Lasersight,Loot,Weapons,weapon.mod.lasersight (world)
+Wetsuit,Loot,Clothing,diving.wetsuit (world)
+Wheelbarrow Piano,Loot,Instruments,piano (world)
+wheelswitch,Blacklist,N/A,assets/prefabs/io/kinetic/wheelswitch.prefab
+White Berry,Loot,Berries,assets/bundled/prefabs/autospawn/collectable/berry-white/berry-white-collectable.prefab
+White Berry,Loot,Berries,assets/prefabs/plants/berrry/white/white_berry.entity.prefab
+White Berry,Loot,Berries,white.berry (world)
+White Berry Clone,Loot,Berries,clone.white.berry (world)
+White Berry Seed,Loot,Seeds,seed.white.berry (world)
+White Volcano Firework,Loot,Misc,firework.volcano (world)
+Wind Turbine,Loot,Electronics,generator.wind.scrap (world)
+windowgarlanddeployed,Blacklist,N/A,assets/prefabs/misc/xmas/windowgarland/windowgarland.deployed.prefab
+Wire Tool,Loot,Tools,wiretool (world)
+wiretoolentity,Blacklist,N/A,assets/prefabs/tools/wire/wiretool.entity.prefab
+Wolf,Animal,N/A,assets/rust.ai/agents/wolf/wolf.prefab
+Wolf Headdress,Loot,Clothing,hat.wolf (world)
+Wolf Skull,Loot,Resources,skull.wolf (world)
+Wood,Loot,Collectable,assets/bundled/prefabs/autospawn/collectable/wood/wood-collectable.prefab
+Wood,Loot,Resources,wood (world)
+Wood Armor Helmet,Loot,Clothing,wood.armor.helmet (world)
+Wood Armor Pants,Loot,Clothing,wood.armor.pants (world)
+Wood Chestplate,Loot,Clothing,wood.armor.jacket (world)
+Armored Door,Loot,Construction,door.hinged.toptier (world)
+Wood Shutters,Loot,Construction,shutter.wood.a (world)
+Wood Storage Box,Loot,Items,box.wooden (world)
+Wooden Arrow,Loot,Ammo,arrow.wooden (world)
+Wooden Barricade,Loot,Construction,barricade.wood (world)
+Wooden Barricade Cover,Loot,Construction,barricade.wood.cover (world)
+Wooden Cross,Loot,Construction,woodcross (world)
+Wooden Door,Loot,Construction,door.hinged.wood (world)
+Wooden Horse Armor,Loot,Clothing,horse.armor.wood (world)
+Wooden Ladder,Loot,Construction,ladder.wooden.wall (world)
+Wooden Spear,Loot,Weapons,spear.wooden (world)
+Wooden Window Bars,Loot,Construction,wall.window.bars.wood (world)
+Work Bench Level 1,Loot,Items,workbench1 (world)
+Work Bench Level 2,Loot,Items,workbench2 (world)
+Work Bench Level 3,Loot,Items,workbench3 (world)
+Work Cart,Vehicle,Prefabs Vehicle,assets/prefabs/vehicle/seats/workcartdriver.prefab
+Work Cart,Loot,Vehicle Parts,workcart (world)
+Workbench1,Loot,Prefabs Deployable,assets/prefabs/deployable/tier 1 workbench/workbench1.deployed.prefab
+workbench1static,Blacklist,N/A,assets/bundled/prefabs/static/workbench1.static.prefab
+Workbench2,Loot,Prefabs Deployable,assets/prefabs/deployable/tier 2 workbench/workbench2.deployed.prefab
+workbench2static,Blacklist,N/A,assets/bundled/prefabs/static/workbench2.static.prefab
+Workbench3,Loot,Prefabs Deployable,assets/prefabs/deployable/tier 3 workbench/workbench3.deployed.prefab
+workcart,Blacklist,N/A,assets/content/vehicles/workcart/workcart.entity.prefab
+workcart fuel storage,Blacklist,N/A,assets/content/vehicles/workcart/subents/workcart_fuel_storage.prefab
+Wrapped Gift,Loot,Misc,wrappedgift (world)
+Wrapping Paper,Loot,Misc,wrappingpaper (world)
+XL Picture Frame,Loot,Items,sign.pictureframe.xl (world)
+xmas_tree_adeployed,Blacklist,N/A,assets/prefabs/misc/xmas/xmastree/xmas_tree_a.deployed.prefab
+xmas_treedeployed,Blacklist,N/A,assets/prefabs/misc/xmas/xmastree/xmas_tree.deployed.prefab
+xmasadvancedlightsdeployed,Blacklist,N/A,assets/prefabs/misc/xmas/poweredlights/xmas.advanced.lights.deployed.prefab
+xmaslightstringdeployed,Blacklist,N/A,assets/prefabs/misc/xmas/christmas_lights/xmas.lightstring.deployed.prefab
+xmasrefill,Blacklist,N/A,assets/prefabs/misc/xmas/xmasrefill.prefab
+XOR Switch,Loot,Electronics,electric.xorswitch (world)
+xorswitchentity,Blacklist,N/A,assets/prefabs/deployable/playerioents/gates/xorswitch/xorswitch.entity.prefab
+XXL Picture Frame,Loot,Items,sign.pictureframe.xxl (world)
+Xylobone,Loot,Instruments,xylophone (world)
+xylophonedeployed,Blacklist,N/A,assets/prefabs/instruments/xylophone/xylophone.deployed.prefab
+xylophonedeployedstatic,Blacklist,N/A,assets/bundled/prefabs/static/xylophone.deployed.static.prefab
+Yellow Berry,Loot,Berries,assets/bundled/prefabs/autospawn/collectable/berry-yellow/berry-yellow-collectable.prefab
+Yellow Berry,Loot,Berries,assets/prefabs/plants/berrry/yellow/yellow_berry.entity.prefab
+Yellow Berry,Loot,Berries,yellow.berry (world)
+Yellow Berry Clone,Loot,Berries,clone.yellow.berry (world)
+Yellow Berry Seed,Loot,Seeds,seed.yellow.berry (world)

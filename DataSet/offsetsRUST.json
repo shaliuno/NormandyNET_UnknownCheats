@@ -1,0 +1,53 @@
+{
+  "GameOjectManager": "0x17C1F18",
+  "BaseNetworkable": "0x3171BE0",
+  "BasePlayer": "0x3172668",
+  "ClientEntitiesAll": [
+    "0xB8",
+    "0x0",
+    "0x10",
+    "0x28"
+  ],
+  "ClientEntitiesPlayersOnlyDict": [
+    "0xB8",
+    "0x10",
+    "0x28"
+  ],
+  "GameObjectTransFormPositionOffset": "0x90",
+  "GameObjectChain": [
+    "0x10",
+    "0x30"
+  ],
+  "TransformChain": [
+    "0x30",
+    "0x8",
+    "0x38"
+  ],
+  "BaseEntityPrefabID": "0x48",
+  "BaseEntityIsDestroyed": "0x58",
+  "BasePlayerFlags": "0x680",
+  "BasePlayerSteamID": "0x6C8",
+  "BasePlayerTeamID": "0x598",
+  "BasePlayerActiveItem": "0x5D0",
+  "BasePlayerDisplayName": "0x6E0",
+  "BasePlayerPlayerInput": "0x4E0",
+  "BasePlayerBaseMovement": "0x4E8",
+  "BasePlayerPlayerInputBodyAngles": "0x3C",
+  "BasePlayerPlayerModel": "0x4C0",
+  "BasePlayerPlayerModelIsLocalPlayer": "0x289",
+  "BasePlayerPlayerModelPosition": "0x208",
+  "BasePlayerPlayerModelRotation": "0x238",
+  "BaseCombatEntityHealth": "0x224",
+  "BaseCombatDeathTime": "0x230",
+  "BuildingPrivlidgeAuthorizedPlayers": "0x590",
+  "BuildingPrivlidgeCachedProtectedMinutes": "0x580",
+  "AuthorizedPlayersPlayerNameID": "0x0",
+  "PlayerNameIDUsername": "0x18",
+  "PlayerNameIDSteamID": "0x20",
+  "BasePlayerPlayerInventory": "0x690",
+  "ItemContainerContainerBelt": "0x28",
+  "ItemContainerListContents": "0x38",
+  "TodCycle": "0x38",
+  "TodNight": "0x58",
+  "TodAmbient": "0x90"
+}
