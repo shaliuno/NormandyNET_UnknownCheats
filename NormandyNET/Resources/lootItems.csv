@@ -1,0 +1,2136 @@
+﻿Id,FriendlyName,Category,Priority
+_5a7ad2e851dfba0016153692,Big Stick,Attachments,0 None
+_5d96141523f0ea1b7f2aacab,"""Door Kicker""",Vanity,0 None
+_5d1b376e86f774252519444e,Moonshine,Food,3 High
+_59e655cb86f77411dc52a77b,EKO,Ammo,0 None
+_59e6542b86f77411dc52a77a,FMJ,Ammo,0 None
+_59e6658b86f77411d949b250,Geksa,Ammo,0 None
+_5448fee04bdc2dbc018b4567,Water,Food,2 Medium
+_587df3a12459772c28142567,SKS int.,Attachments,0 None
+_5c5db5b82e2216003a0fe71d,"10.5"" MPX 9x19",Attachments,0 None
+_5cc701aae4a949000e1ea45c,"10.5"" P90 5.7x28",Attachments,0 None
+_5c6d85e02e22165df16b81f4,"10.6"" 416A5 5.56x45",Attachments,0 None
+_5cffa483d7ad1a049e54ef1c,100 rounds belt,Attachments,0 None
+_5c6592372e221600133e47d7,MAG5-100,Attachments,0 None
+_5d25a6538abbc306c62e630d,AICS 10rnd,Attachments,0 None
+_5888988e24597752fe43a6fa,DVL-10,Attachments,0 None
+_5bfeaa0f0db834001b734927,Wyatt 10rnd,Attachments,0 None
+_57838f0b2459774a256959b2,6L24,Attachments,0 None
+_5998529a86f774647f44f421,9x19 Sb.7,Attachments,0 None
+_559ba5b34bdc2d1f1a8b4582,SV-98 polymer,Attachments,0 None
+_55d4837c4bdc2d1d4e8b456c,Saiga 545,Attachments,0 None
+_5c471c442e221602b542a6f8,SVD 7.62x54,Attachments,0 None
+_5a78832ec5856700155a6ca3,M870x10,Attachments,0 None
+_5bb20d92d4351e00853263eb,"11"" 416A5 5.56x45",Attachments,0 None
+_5b099a765acfc47a8607efe3,"11"" SA-58 7.62x51",Attachments,0 None
+_56d5a1f7d2720bb3418b456a,112mm P226 9x19,Attachments,0 None
+_571a26d524597720680fbe8a,116mm st. TT,Attachments,0 None
+_5b3baf8f5acfc40dc5296692,116mm gld. TT,Attachments,0 None
+_5cde8864d7f00c0010373be1,12.7x108 mm B-32,Ammo,0 None
+_5d2f2ab648f03550091993ca,12.7x108 mm BZT-44M,Ammo,0 None
+_5caf1041ae92157c28402e3f,ASh-12 10rd.,Attachments,0 None
+_5caf1109ae9215753c44119f,Ash-12 20rnd Mag,Attachments,0 None
+_5cadf6ddae9215051e1c23b2,PS12,Ammo,0 None
+_5cadf6e5ae921500113bb973,PS12A,Ammo,0 None
+_5cadf6eeae921500134b2799,PS12B,Ammo,0 None
+_5d6e6891a4b9361bd473feea,P-3 12c,Ammo,0 None
+_5d6e689ca4b9361bc8618956,P-6u 12c,Ammo,0 None
+_5d6e6772a4b936088465b17c,5.25 12c,Ammo,0 None
+_5d6e6806a4b936088465b17e,8.5 12c,Ammo,0 None
+_5d6e68a8a4b9360b6c0d54e2,AP-20,Ammo,1 Low
+_5d6e68dea4b9361bcc29e659,2-Sabot,Ammo,0 None
+_5d6e6911a4b9361bd5780d52,Flech.,Ammo,0 None
+_5d6e68e6a4b9361c140bcfe0,FTX,Ammo,0 None
+_5d6e6869a4b9361c140bcfde,Grizzly,Ammo,0 None
+_5d6e68d1a4b93622fe60e845,SF,Ammo,0 None
+_5d6e68b3a4b9361bca7e50b5,CSP,Ammo,0 None
+_5737292724597765e5728562,120 pcs. 5.45x39 BP gs ammo pack,Ammo Pack,0 None
+_57372a7f24597766fe0de0c1,120 pcs. 5.45x39 BP gs ammo pack (damaged),Ammo Pack,0 None
+_57372b832459776701014e41,BS Ammo (120),Ammo Pack,1 Low
+_57372bad245977670b7cd242,BS Ammo (120) (dmg),Ammo Pack,1 Low
+_57372c21245977670937c6c2,BT gs,Ammo Pack,1 Low
+_57372c56245977685e584582,120 pcs. 5.45x39 BT gs ammo pack (damaged),Ammo Pack,1 Low
+_57372d1b2459776862260581,120 pcs. 5.45x39 PP gs ammo pack,Ammo Pack,0 None
+_57372d4c245977685a3da2a1,120 pcs. 5.45x39 PP gs ammo pack (damaged),Ammo Pack,0 None
+_57372deb245977685d4159b3,120 pcs. 5.45x39 PRS gs ammo pack,Ammo Pack,0 None
+_57372e1924597768553071c1,120 pcs. 5.45x39 PRS gs ammo pack (damaged),Ammo Pack,0 None
+_57372e73245977685d4159b4,120 pcs. 5.45x39 PS gs ammo pack,Ammo Pack,0 None
+_57372e94245977685648d3e1,120 pcs. 5.45x39 PS gs ammo pack (damaged),Ammo Pack,0 None
+_57372ee1245977685d4159b5,120 pcs. 5.45x39 T gs ammo pack,Ammo Pack,0 None
+_57372f2824597769a270a191,120 pcs. 5.45x39 T gs ammo pack (damaged),Ammo Pack,0 None
+_57372f7d245977699b53e301,US gs,Ammo Pack,0 None
+_57372fc52459776998772ca1,120 pcs. 5.45x39 US gs ammo pack (damaged),Ammo Pack,0 None
+_5d25a6a48abbc306c62e6310,MDT 12rnd,Attachments,0 None
+_5d6e67fba4b9361bc73bc779,6.5 12c,Ammo,0 None
+_560d5e524bdc2d25448b4571,7mm 12c,Ammo,0 None
+_58820d1224597753c90aeb13,12x70 Slug,Ammo,0 None
+_5c0d591486f7744c505b416f,12x70 RIP,Ammo,0 None
+_5d6e68c4a4b9361b93413f79,.50 12c,Ammo,0 None
+_5c5db5c62e22160012542255,"14"" MPX 9x19",Attachments,0 None
+_5bb20d9cd4351e00334c9d8a,"14.5"" 416A5 5.56x45",Attachments,0 None
+_5beec1bd0db834001e6006f3,"15"" RPK-16 5.45x39",Attachments,0 None
+_5dcbe9431e1f4616d354987e,"16"" MDR 308",Attachments,0 None
+_573722e82459776104581c21,BZHT gzh,Ammo Pack,0 None
+_573724b42459776125652ac2,16 pcs. 9x18 PM P gzh ammo box,Ammo Pack,0 None
+_5737250c2459776125652acc,PBM,Ammo Pack,0 None
+_5737256c2459776125652acd,PMM,Ammo Pack,0 None
+_573725b0245977612125bae2,Ppe gzh,Ammo Pack,0 None
+_5737260b24597761224311f2,16 pcs. 9x18 PM PPT gzh ammo box,Ammo Pack,0 None
+_5737266524597761006c6a8c,16 pcs. 9x18 PM PRS gs ammo box,Ammo Pack,0 None
+_573726d824597765d96be361,16 pcs. 9x18 PM PS gs PPO ammo box,Ammo Pack,0 None
+_5737273924597765dd374461,16 pcs. 9x18 PM PSO gzh ammo box,Ammo Pack,0 None
+_573727c624597765cc785b5b,16 pcs. 9x18 PM Pst gzh ammo box,Ammo Pack,0 None
+_5737280e24597765cc785b5c,16 pcs. 9x18 PM PSV ammo box,Ammo Pack,0 None
+_5737287724597765e1625ae2,16 pcs. 9x18 PM RG028 gzh ammo box,Ammo Pack,0 None
+_573728cc24597765cc785b5d,SP7 gzh,Ammo Pack,0 None
+_573728f324597765e5728561,SP8 gzh,Ammo Pack,0 None
+_5739d41224597779c3645501,Pst Gzh,Ammo Pack,0 None
+_5aaf9d53e5b5b00015042a52,"16"" M1A 7.62x51",Attachments,0 None
+_5cc701d7e4a94900100ac4e7,"16"" P90 5.7x28",Attachments,0 None
+_5b7be1125acfc4001876c0e5,"16"" SA-58 7.62x51",Attachments,0 None
+_5df917564a9f347bc92edca3,"16"" SR-25 7.62x51",Attachments,0 None
+_5bb20da5d4351e0035629dbf,"16.5"" 416A5 5.56x45",Attachments,0 None
+_58aeaaa886f7744fc1560f81,165mm MPXSD 9x19,Attachments,0 None
+_5a34f7f1c4a2826c6e06d75d,"18"" AR-10",Attachments,0 None
+_5d440b93a4b9364276578d4b,"18"" AR-15 5.56x45",Attachments,0 None
+_5d0b5cd3d7ad1a3fe32ad263,1P59 eyecup,Attachments,0 None
+_5c11279ad174af029d64592b,Warmage,Ammo Pack,0 None
+_5c1127bdd174af44217ab8b9,20 pcs. 9x19 mm DIPP ammo box,Ammo Pack,0 None
+_5bb20dadd4351e00367faeff,"20"" 416A5 5.56x45",Attachments,0 None
+_5bfebc320db8340019668d79,"20"" M700 7.62x51",Attachments,0 None
+_5d440b9fa4b93601354d480c,"20"" AR-15 5.56x45",Attachments,0 None
+_5dfa397fb11454561e39246c,"20"" SR-25 7.62x51",Attachments,0 None
+_5d2703038abbc3105103d94c,"20"" stainless steel barrel for a Remington M700 7.62x51 NATO",Attachments,0 None
+_5d6e695fa4b936359b35d852,5.6 20c,Ammo,0 None
+_5d6e69b9a4b9361bc8618958,6.2 20k,Ammo,0 None
+_5d6e69c7a4b9360b6c0d54e4,7.3 20c,Ammo,0 None
+_5d6e6a5fa4b93614ec501745,Dev.,Ammo,0 None
+_5d6e6a53a4b9361bd473feec,P-3 20c,Ammo,0 None
+_5d6e6a42a4b9364f07165f52,P-6u 20c,Ammo,0 None
+_5d6e6a05a4b93618084f58d0,20/70 Slug,Ammo,0 None
+_5894a2c386f77427140b8342,203mm MPX 9x19,Attachments,0 None
+_57838f9f2459774a150289a0,6L25,Attachments,0 None
+_5c88f24b2e22160bc12c69a6,20-round SVD 7.62x54 magazine,Attachments,0 None
+_5a38ebd9c4a282000d722a5b,7.5 20c,Ammo,0 None
+_5b7be1265acfc400161d0798,"21"" SA-58 7.62x51",Attachments,0 None
+_5a34fae7c4a2826c6e06d760,"22"" AR-10",Attachments,0 None
+_5addbac75acfc400194dbc56,"22"" M1A 7.62x51",Attachments,0 None
+_5c471cb32e221602b177afaa,"22"" SVDS",Attachments,0 None
+_5beec2820db834001b095426,"22"" RPK-16 5.45x39",Attachments,0 None
+_5de65547883dde217541644b,"23"" barrel for a VPO-215 .366TKM",Attachments,0 None
+_57d17e212459775a1179a0f5,25 mm ring,Attachments,0 None
+_5dff77c759400025ea5150cf,UTG 25mm,Attachments,0 None
+_5bfebc250db834001a6694e1,"26"" M700",Attachments,0 None
+_5d2702e88abbc31ed91efc44,"26"" stainless steel barrel for a Remington M700 7.62x51 NATO",Attachments,0 None
+_55d35ee94bdc2d61338b4568,260mm AR-15 5.56x45,Attachments,0 None
+_5a5f1ce64f39f90b401987bc,2IRS,Attachments,0 None
+_560d657b4bdc2da74d8b4572,Klesch,Attachments,0 None
+_5a38ee51c4a282000c5a955c,20-01 Sb.3x2,Attachments,0 None
+_5b3a337e5acfc4704b4a19a0,"2U ""Kleh""",Attachments,0 None
+_5926e16e86f7742f5a0f7ecb,3 Lug,Attachments,0 None
+_5c0000c00db834001a6697fc,3 Lug thr.,Attachments,0 None
+_5c1262a286f7743f8a69aab2,7N39,Ammo Pack,1 Low
+_57372ac324597767001bc261,BP,Ammo Pack,1 Low
+_57372bd3245977670b7cd243,BS,Ammo Pack,1 Low
+_57372c89245977685d4159b1,BT,Ammo Pack,1 Low
+_5737330a2459776af32363a1,30 pcs. 5.45x39 FMJ ammo box,Ammo Pack,0 None
+_5737339e2459776af261abeb,30 pcs. 5.45x39 HP ammo box,Ammo Pack,0 None
+_57372db0245977685d4159b2,PP gs,Ammo Pack,0 None
+_57372e4a24597768553071c2,PRS gs,Ammo Pack,0 None
+_57372ebf2459776862260582,PS gs,Ammo Pack,0 None
+_573733c72459776b0b7b51b0,30 pcs. 5.45x39 SP ammo box,Ammo Pack,0 None
+_57372f5c24597769917c0131,30 pcs. 5.45x39 T gs ammo pack,Ammo Pack,0 None
+_5737300424597769942d5a01,30 pcs. 5.45x39 US gs ammo pack,Ammo Pack,0 None
+_5b2389515acfc4771e1be0c0,AR- P.E.P.R.,Attachments,0 None
+_5a37ca54c4a282000d72296a,JP 30mm,Attachments,0 None
+_5bfebc5e0db834001a6694e5,Rem. integr.,Attachments,0 None
+_5b3b99265acfc4704b4a1afb,NF 30mm,Attachments,0 None
+_57c69dd424597774c03b7bbc,30mm Mount,Attachments,0 None
+_5bed61680db834001d2c45ab,АK-12 std.,Attachments,0 None
+_55d480c04bdc2d1d4e8b456a,6L23,Attachments,0 None
+_5cbdaf89ae9215000e5b9c94,30-round 6L23 Plum 5.45x39 magazine for AK-74 and compatibles,Attachments,0 None
+_5ac66bea5acfc43b321d4aec,AK-103 Mag,Attachments,0 None
+_5a9e81fba2750c00164f6b11,SR3M.130,Attachments,0 None
+_5d70e500a4b9364de70d38ce,30x29 mm VOG-30,Ammo,0 None
+_5c86592b2e2216000e69e77c,KH/F 34mm,Attachments,0 None
+_5aa66a9be5b5b0214e506e89,NF 34mm,Attachments,0 None
+_5aa66c72e5b5b00016327c93,NF 34mm RIS,Attachments,0 None
+_5a787f25c5856700186c4ab9,355mm M870,Attachments,0 None
+_55d3632e4bdc2d972f8b4569,370mm AR-15 5.56x45,Attachments,0 None
+_5c0e805e86f774683f3dd637,Paratus,Backpack,4 Ultra
+_5c5db5852e2216003a0fe71a,"4.5"" MPX 9x19",Attachments,0 None
+_5ba26812d4351e003201fef1,Action SX,Ammo,0 None
+_5ba26835d4351e0035628ff5,AP SX,Ammo,0 None
+_5ba2678ad4351e44f824b344,FMJ SX,Ammo,0 None
+_5ba26844d4351e00334c9475,Subsonic SX,Ammo,0 None
+_5656eb674bdc2d35148b457c,40mm,Ammo,0 None
+_5c48a2852e221602b21d5923,406mm MDR 5.56x45,Attachments,0 None
+_5c0e2f94d174af029f650d56,406mm AR-15 5.56x45,Attachments,0 None
+_544a378f4bdc2d30388b4567,40-round PMAG GEN M3 40 5.56x45 STANAG magazine,Attachments,0 None
+_5d1340bdd7ad1a0e8d245aab,GEN M3 40,Attachments,0 None
+_5bc9be8fd4351e00334cae6e,Tea,Barter Items,0 None
+_55d481904bdc2d8c2f8b456a,6L26,Attachments,0 None
+_5a7882dcc5856700177af662,M870x4,Attachments,0 None
+_5a38ed75c4a28232996e40c6,Sb.3x4,Attachments,0 None
+_5c1127d0d174af29be75cf68,12x70 DIPP,Ammo Pack,0 None
+_5b44cad286f77402a54ae7e5,Tactec,Armored Rig,4 Ultra
+_5cf4e3f3d7f00c06595bc7f0,Aggressor,Attachments,4 Ultra
+_5c0d5e4486f77478390952fe,7N39,Ammo,1 Low
+_56dfef82d2720bbd668b4567,BP,Ammo,1 Low
+_56dff026d2720bb8668b4567,BS,Ammo,1 Low
+_56dff061d2720bb5668b4567,BT,Ammo,1 Low
+_56dff0bed2720bb0668b4567,5.45x39 mm FMJ,Ammo,0 None
+_56dff216d2720bbd668b4568,HP,Ammo,0 None
+_56dff2ced2720bb4668b4567,PP,Ammo,0 None
+_56dff338d2720bbd668b4569,PRS,Ammo,0 None
+_56dff3afd2720bba668b4567,PS,Ammo,0 None
+_56dff421d2720b5f5a8b4567,SP,Ammo,0 None
+_56dff4a2d2720bbd668b456a,T,Ammo,0 None
+_56dff4ecd2720b5f5a8b4568,US,Ammo,0 None
+_5447ac644bdc2d6c208b4567,Ball 5.56x45,Ammo,0 None
+_59e6920f86f77411d82aa167,55 FMJ,Ammo,0 None
+_59e6927d86f77411da468256,55 HP,Ammo,0 None
+_54527a984bdc2d4e668b4567,M855,Ammo,0 None
+_54527ac44bdc2d36668b4567,M855A1,Ammo,1 Low
+_59e68f6f86f7746c9f75e846,M856,Ammo,0 None
+_59e6906286f7746c9f75e847,M856A1,Ammo,1 Low
+_59e690b686f7746c9f75e848,M995,Ammo,1 Low
+_59e6918f86f7746c9f75e849,Mk255 Mod0,Ammo,0 None
+_5c0d5ae286f7741e46554302,WG,Ammo,0 None
+_5cc80f53e4a949000e1ea4f8,L191,Ammo,0 None
+_5cc86832d7f00c000d3a6e6c,R37.F,Ammo,0 None
+_5cc86840d7f00c002412c56c,R37.X,Ammo,0 None
+_5cc80f67e4a949035e43bbba,SB193,Ammo,0 None
+_5cc80f38e4a949001152b560,SS190,Ammo,0 None
+_5cc80f8fe4a949033b0224a2,SS197SR,Ammo,0 None
+_5cc80f79e4a949033c7343b2,SS198LF,Ammo,0 None
+_5888945a2459774bf43ba385,DVL-10 500mm .308,Attachments,0 None
+_5a787f7ac5856700177af660,508mm M870,Attachments,0 None
+_5a787ebcc5856700142fdd98,508mm M870 FS,Attachments,0 None
+_55d4491a4bdc2d882f8b456e,510mm barrel for MP-133 12ga,Attachments,0 None
+_560835c74bdc2dc8488b456f,510mm MP-133 12ga,Attachments,0 None
+_560836484bdc2d20478b456e,540mm MP-133,Attachments,0 None
+_560836b64bdc2d57468b4567,540mm MP-133 12ga,Attachments,0 None
+_59fafb5d86f774067a6f2084,Propane,Barter Items,0 None
+_5d25a4a98abbc30b917421a4,AICS 5rnd,Attachments,0 None
+_5bfea7ad0db834001c38f1ee,Wyatt 5rnd,Attachments,0 None
+_5df25b6c0b92095fd441e4cf,T-5000 5rnd,Attachments,0 None
+_5c6161fb2e221600113fbde5,Sb.3x5,Attachments,0 None
+_5c5db5962e2216000e5e46eb,"6.5"" MPX 9x19",Attachments,0 None
+_55d482194bdc2d1d4e8b456b,6L31,Attachments,0 None
+_544a37c44bdc2d25388b4567,MAG5-60,Attachments,0 None
+_588200af24597742fa221dfb,610mm MP-153 12ga,Attachments,0 None
+_55d448594bdc2d8c2f8b4569,610mm MP-133 12ga,Attachments,0 None
+_55d449444bdc2d962f8b456d,610mm barrel for MP-133 12ga shotgun with rib,Attachments,0 None
+_588200c224597743990da9ed,660mm MP-153 12ga,Attachments,0 None
+_5888956924597752983e182d,DVL-10 M2 660mm .308,Attachments,0 None
+_5df256570dee1b22f862e9c4,T-5000 660mm .308,Attachments,0 None
+_560837154bdc2da74d8b4568,660mm MP-133 12ga,Attachments,0 None
+_560836fb4bdc2d773f8b4569,660mm MR-133,Attachments,0 None
+_5a787fadc5856700155a6ca1,660mm M870,Attachments,0 None
+_5c0e53c886f7747fa54205c7,6B13 assault armor (digital flora pattern) (47/47),Armor Vest,0 None
+_5c0e51be86f774598e797894,6B13,Armor Vest,0 None
+_5c0e541586f7747fa54205c9,6B13 M assault armor (tan) (60/60),Armor Vest,0 None
+_5df8a2ca86f7740bfe6df777,flora,Armor Vest,0 None
+_5c0e5bab86f77461f55ed1f3,digital flora pattern,Armor Vest,0 None
+_5c0e57ba86f7747fa141986d,mountain flora pattern,Armor Vest,0 None
+_5b432be65acfc433000ed01f,6B34,Vanity,0 None
+_5d5d646386f7742797261fd9,6B3TM-01M,Armored Rig,0 None
+_545cdb794bdc2d3a198b456a,6B43 6A,Armor Vest,0 None
+_5aa7cfc0e5b5b00015693143,6B47,Helmet,0 None
+_5a7c4850e899ef00150be885,6B47 Ratnik-BSh Helmet,Helmet,0 None
+_5c0e446786f7742013381639,6B5-15,Armored Rig,0 None
+_5c0e3eb886f7742015526062,6B5-16,Armored Rig,0 None
+_5bffdc370db834001d23eca8,6h5,Weapons M,0 None
+_564ca9df4bdc2d35148b4569,6L18,Attachments,0 None
+_564ca99c4bdc2d16268b4589,6L20,Attachments,0 None
+_5ac66c5d5acfc4001718d314,6L29,Attachments,0 None
+_5df8a4d786f77412672a1e3b,6SH118,Backpack,4 Ultra
+_55d484b44bdc2d1d4e8b456d,MP-133x6,Attachments,0 None
+_5d03794386f77420415576f5,Tank battery,Barter Items,3 High
+_5735fdcd2459776445391d61,7.62x25 AKBS,Ammo,0 None
+_5735ff5c245977640e39ba7e,FMJ43,Ammo,0 None
+_573601b42459776410737435,LRN,Ammo,0 None
+_573602322459776445391df1,7.62x25 LRNPC,Ammo,0 None
+_5736026a245977644601dc61,P gl,Ammo,0 None
+_573603562459776430731618,7.62x25mm TT Pst gzh,Ammo,0 None
+_573603c924597764442bd9cb,PT gzh,Ammo,0 None
+_59e0d99486f7744a32234762,BP 7.62,Ammo,1 Low
+_59e4d3d286f774176a36250a,7.62x39 mm HP,Ammo,0 None
+_5656d7c34bdc2d9d198b4587,7.62x39 mm PS,Ammo,0 None
+_59e4cf5286f7741778269d8a,T45M,Ammo,0 None
+_59e4d24686f7741776641ac7,7.62x39 mm US,Ammo,0 None
+_5649ed104bdc2d3d1c8b458b,PS 7.62x39,Ammo Pack,0 None
+_59e5d83b86f7745aed03d262,AK custom,Attachments,0 None
+_5c503ad32e2216398b5aada2,"7.62x51 metal magazine for VPO-101 and compatibles, 10-round capacity",Attachments,0 None
+_5c503ac82e221602b21d6e9a,"7.62x51 metal magazine for VPO-101 and compatibles, 5-round capacity",Attachments,0 None
+_5e023e53d4353e3302577c4c,BPZ FMJ,Ammo,0 None
+_5a6086ea4f39f99cd479502f,M61,Ammo,1 Low
+_5a608bf24f39f98ffc77720e,M62,Ammo,1 Low
+_58dd3ad986f77403051cba8f,M80,Ammo,1 Low
+_5e023e6e34d52a55c3304f71,TPZ SP,Ammo,0 None
+_5e023e88277cce2b522ff2b1,Ultra Nosler,Ammo,0 None
+_560d75f54bdc2da74d8b4573,SNB 7.62x54 R,Ammo,0 None
+_5e023d34e8a400319a28ed44,7BT1,Ammo,1 Low
+_59e77a2386f7742ee578960a,7N1,Ammo,1 Low
+_5e023d48186a883be655e551,7N37,Ammo,1 Low
+_5887431f2459777e1612938f,LPS Gzh,Ammo,0 None
+_5bae13ded4351e44f824bf38,AA762R 02,Attachments,0 None
+_560d61e84bdc2da74d8b4571,SNB,Ammo,0 None
+_5e023cf8186a883be655e54f,T-46M,Ammo,0 None
+_588200cf2459774414733d55,710mm MP-153 12ga,Attachments,0 None
+_5608373c4bdc2dc8488b4570,710mm MP-133,Attachments,0 None
+_560837544bdc2de22e8b456e,710mm MP-133 12ga,Attachments,0 None
+_56deec93d2720bec348b4568,750mm MP-153 12ga,Attachments,0 None
+_560837824bdc2d57468b4568,750mm MP-133,Attachments,0 None
+_5608379a4bdc2d26448b4569,750mm MP-133 12ga,Attachments,0 None
+_5a78830bc5856700137e4c90,M870x7,Attachments,0 None
+_5c1260dc86f7746b106e8748,7N12,Ammo Pack,0 None
+_5c12619186f7743f871c8a32,7N9,Ammo Pack,0 None
+_55d485804bdc2d8c2f8b456b,MP-133x8,Attachments,0 None
+_5448c12b4bdc2d02308b456f,PM 90-93,Attachments,0 None
+_59d6272486f77466146386ff,PMAG30 AK/AKM GEN M3,Attachments,0 None
+_5bed625c0db834001c062946,RPK-16 std.,Attachments,0 None
+_573718ba2459775a75491131,9 BZT gzh,Ammo,0 None
+_573719762459775a626ccbc1,9 P gzh,Ammo,0 None
+_573719df2459775a626ccbc2,9x18 mm PM PBM,Ammo,0 None
+_57371aab2459775a77142f22,9x18 mm PM PMM,Ammo,0 None
+_57371b192459775a9f58a5e0,9x18 mm PM PPe gzh,Ammo,0 None
+_57371e4124597760ff7b25f1,PPT gzh,Ammo,0 None
+_57371eb62459776125652ac1,9x18 mm PM PRS gs,Ammo,0 None
+_57371f2b24597761224311f1,PS gs PPO,Ammo,0 None
+_57371f8d24597761006c6a81,9x18 mm PM PSO gzh,Ammo,0 None
+_5737201124597760fc4431f1,9x18 mm PM Pst gzh,Ammo,0 None
+_5737207f24597760ff7b25f2,PSV,Ammo,0 None
+_57372140245977611f70ee91,9x18 mm PM SP7 gzh,Ammo,0 None
+_5737218f245977612125ba51,9x18 mm PM SP8 gzh,Ammo,0 None
+_573720e02459776143012541,RG028 gzh,Ammo,0 None
+_5c925fa22e221601da359b7b,AP 6.3,Ammo,1 Low
+_5c3df7d588a4501f290594e5,GT,Ammo,0 None
+_5a3c16fe86f77452b62de32a,Luger CCI,Ammo,1 Low
+_58864a4f2459770fcc257101,PSO gzh,Ammo,0 None
+_56d59d3ad2720bdb418b4577,9x19 mm Pst gzh,Ammo,0 None
+_5c0d56a986f774449d5de529,RIP,Ammo,1 Low
+_5a269f97c4a282000b151807,SP10,Ammo,0 None
+_5a26abfac4a28232980eabff,SP11,Ammo,0 None
+_5a26ac06c4a282000c5a90a8,SP12,Ammo,0 None
+_5a26ac0ec4a28200741e1e18,SP13,Ammo,0 None
+_59f98b4986f7746f546d2cef,SR-1MP,Weapons P,0 None
+_5c0d688c86f77413ae3407b2,9x39 mm 7N12 BP,Ammo,0 None
+_5c0d668f86f7747ccb7f13b2,SPP,Ammo,0 None
+_57a0dfb82459774d3078b56c,SP-5,Ammo,0 None
+_57a0e5022459774d1673f889,SP-6,Ammo,0 None
+_590c31c586f774245e3141b2,Nails,Barter Items,0 None
+_59e35ef086f7741777737012,Screws,Barter Items,0 None
+_590c2e1186f77425357b6124,Set,Barter Items,0 None
+_5cde7afdd7f00c000d36b89d,A*B Arms MOD X Gen.3 keymod handguard for M700,Attachments,0 None
+_5cde7b43d7f00c000d36b93e,MOD X,Attachments,0 None
+_58949dea86f77409483e16a8,MPX A2,Attachments,0 None
+_5672cb124bdc2d1a0f8b4568,AA Bat.,Barter Items,0 None
+_5a34fe59c4a282000b1521a2,SDN-6,Attachments,1 Low
+_5c7e5f112e221600106f4ede,Blackout 51T,Attachments,1 Low
+_5a34fd2bc4a282329a73b4c5,7.62x51,Attachments,0 None
+_5c7e8fab2e22165df16b889b,AAC Illusion 9,Attachments,1 Low
+_5c07c60e0db834002330051f,ADAR 2-15,Weapons AR,0 None
+_5c0faf68d174af02a96260b8,ADAR 2-15 Charge,Attachments,0 None
+_5c0e2ff6d174af02a1659d4a,2-15 wood,Attachments,0 None
+_5c0e2f5cd174af02a012cfc9,ADAR 2-15 wooden stock for AR-15 and compatibles,Attachments,0 None
+_5c0fafb6d174af02a96260ba,ADAR FH,Attachments,0 None
+_5c0faeddd174af02a962601f,ADAR St.,Attachments,0 None
+_5c10c8fd86f7743d7d706df3,Adrenaline,Meds,2 Medium
+_5bfe86bd0db83400232fe959,AGR-870 cap,Attachments,0 None
+_5d52cc5ba4b9367408500062,AGS 30x29 mm automatic grenade launcher,Weapons GL,0 None
+_5d52d479a4b936793d58c76b,AGS-30 30-Grenades box 30x29,Attachments,0 None
+_5755356824597772cb798962,AI-2,Meds,0 None
+_5b7be2345acfc400196d524a,Keymod Handguard,Attachments,0 None
+_5b7bebc85acfc43bca706666,M-LOK Handguard,Attachments,0 None
+_5bbdb811d4351e45020113c7,Tri-Rail,Attachments,0 None
+_5bc5a372d4351e44f824d17f,MNG,Attachments,0 None
+_5c7d55de2e221644f31bff68,COMP M4,Attachments,0 None
+_5c7d55f52e221644f31bff6a,LRP,Attachments,0 None
+_58d39b0386f77443380bf13c,AMSH,Attachments,0 None
+_58d399e486f77442e0016fe7,T-1,Attachments,0 None
+_58d39d3d86f77445bb794ae7,AMM,Attachments,0 None
+_5a7ad4af51dfba0013379717,G Base,Attachments,0 None
+_5a7ad55551dfba0015068f42,G Ti Sh,Attachments,0 None
+_590c595c86f7747884343ad7,Air filter for gas mask,Barter Items,0 None
+_5ac66cb05acfc40198510a10,AK-101,Weapons AR,4 Ultra
+_5ac66d015acfc400180ae6e4,AK-102,Weapons AR,4 Ultra
+_5ac66d2e5acfc43b321d4b53,AK-103,Weapons AR,4 Ultra
+_5ac66d725acfc43b321d4b60,AK-104,Weapons AR,4 Ultra
+_5ac66d9b5acfc4001633997a,AK-105,Weapons AR,4 Ultra
+_5ac733a45acfc400192630e2,6P44 Sb.1-30,Attachments,0 None
+_5bf3e03b0db834001d2c4a9c,AK-74,Weapons AR,1 Low
+_59c6633186f7740cf0493bb9,AK 74 G.Tube,Attachments,0 None
+_5649b0544bdc2d1b2b8b458a,6P1 Sb.2,Attachments,0 None
+_5ac78eaf5acfc4001926317a,PT 74M/100,Attachments,0 None
+_5ac4cd105acfc40016339859,AK-74M,Weapons AR,1 Low
+_5ac72e475acfc400180ae6fe,6P20 Sb.2,Attachments,0 None
+_5644bd2b4bdc2d3b4c8b4572,AK-74N,Weapons AR,4 Ultra
+_5d2c76ed48f03532f2136169,Bastion,Attachments,0 None
+_59d64ec286f774171d1e0a42,6P1 Sb.1-2,Attachments,0 None
+_59e8977386f77415a553c453,VPO-209,Attachments,0 None
+_59d6088586f774275f37482f,AKM,Weapons AR,4 Ultra
+_59d650cf86f7741b846413a4,6P1 Sb.2-1,Attachments,0 None
+_5b222d335acfc4771e1be099,AKM Lock,Attachments,0 None
+_5a0eb980fcdbcb001a3b00a6,AKMB,Attachments,0 None
+_5a0ec13bfcdbcb00165aa685,AKMN,Weapons AR,4 Ultra
+_5a0f096dfcdbcb0176308b15,AKMP,Attachments,0 None
+_5a0ed824fcdbcb0176308b0d,AKMP system rear sight device,Attachments,0 None
+_59ff346386f77477562ff5e2,AKMS,Weapons AR,0 None
+_5abcbc27d8ce8700182eceeb,AKMSN,Weapons AR,0 None
+_5bf3e0490db83400196199af,AKS-74,Weapons AR,0 None
+_59ecc28286f7746d7a68aa8c,PT 74S,Attachments,0 None
+_5ab8e9fcd8ce870019439434,AKS-74N,Weapons AR,0 None
+_57dc334d245977597164366f,6P26 Sb.7,Attachments,0 None
+_59d36a0086f7747e673f3946,AKS74U G.tube,Attachments,0 None
+_5b30bc285acfc47a8608615d,Mk10 10 In.,Attachments,0 None
+_5b30bc165acfc40016387293,Mk10 3 In.,Attachments,0 None
+_5d15ce51d7ad1a1eff619092,Goliaf,Attachments,0 None
+_5a33a8ebc4a282000c5a950d,Alpha 9,Attachments,0 None
+_5a705e128dc32e000d46d258,G AW,Attachments,0 None
+_5aa7e373e5b5b000137b76f0,Altyn face shield,Attachments,4 Ultra
+_5aa7e276e5b5b000171d0647,Altyn,Helmet,4 Ultra
+_57505f6224597709a92585a9,Alyonka,Food,0 None
+_5485a8684bdc2da71d8b4567,Ammo,Parent Element,-1 Blacklist
+_5aafbde786f774389d0cbc0f,AmmoCase,Container,3 High
+_543be5cb4bdc2deb348b4568,Ammo container,Parent Element,-1 Blacklist
+_544909bb4bdc2d6f028b4577,AN/PEQ-15,Attachments,0 None
+_5d10b49bd7ad1a1a560708b0,AN/PEQ-2,Attachments,0 None
+_57235b6f24597759bf5a30f1,PVS-14,Attachments,3 High
+_592c2d1a86f7746dbe2af32a,Alpha,Chest Rig,4 Ultra
+_5b44c6ae86f7742d1627baea,Beta2,Backpack,4 Ultra
+_5c0e722886f7740458316a57,M1,Armored Rig,4 Ultra
+_5ab8dced86f774646209ec87,M2,Armored Rig,4 Ultra
+_544fb37f4bdc2dee738b4567,Painkillers,Meds,0 None
+_5d1b32c186f774252167a530,Therm.,Barter Items,3 High
+_5b3a16655acfc40016387a2a,Annihilator,Attachments,0 None
+_59e770b986f7742cbd762754,AFGlass,Attachments,0 None
+_5bc9c1e2d4351e00367fbcf0,Axe,Weapons M,0 None
+_590de71386f774347051a052,Teapot,Barter Items,3 High
+_590de7e986f7741b096e5f32,Vase,Barter Items,0 None
+_5a17fb9dfcdbcbcae6687291,APB stock,Attachments,0 None
+_5aba639ed8ce8700182ece67,APB RS,Attachments,0 None
+_573475fb24597737fb1379e1,Apollon Soyuz cigarettes,Barter Items,0 None
+_57513f07245977207e26a311,Apl.jc.,Food,0 None
+_5a17fc70fcdbcb0176308b3d,APS Bakelite,Attachments,0 None
+_5aba62f8d8ce87001943946b,APS FS,Attachments,0 None
+_5aba637ad8ce87001773e17f,APS RS,Attachments,0 None
+_5e2af4d286f7746d4159f07a,Aramid,Barter Items,0 None
+_5d024f5cd7ad1a04a067e91a,Patriot K+W,Attachments,0 None
+_57ade1442459771557167e15,Baskak,Attachments,0 None
+_5c066e3a0db834001b7353f0,N-15,Attachments,0 None
+_5c066ef40db834001966a595,NVG mask,Helmet,0 None
+_5b3b6dc75acfc47a8773fb1e,Armasight,Attachments,0 None
+_5b3f15d486f77432d0509248,ArmBand,Parent Element,-1 Blacklist
+_5b3f3af486f774679e752c1f,blue,Vanity,0 None
+_5b3f3b0186f774021a2afef7,green,Vanity,0 None
+_5b3f3ade86f7746b6b790d8e,red,Vanity,0 None
+_5b3f16c486f7747c327f55f7,white,Vanity,0 None
+_5b3f3b0e86f7746752107cda,yellow,Vanity,0 None
+_5448e54d4bdc2dcc718b4568,Armor,Parent Element,-1 Blacklist
+_57bef4c42459772e8d35a53b,ArmoredEquipment,Parent Element,-1 Blacklist
+_5addbfe15acfc4001a5fc58b,Arms 18,Attachments,0 None
+_5751a25924597722c463c472,Bandage,Meds,0 None
+_59e770f986f7742cbe3164ef,Army cap,Vanity,0 None
+_5448ff904bdc2d6f028b456e,Crackers,Food,0 None
+_59d790f486f77403cb06aec6,Predator Pro v3 XHP35,Attachments,0 None
+_5d5d87f786f77427997cfaef,A18,Armored Rig,4 Ultra
+_5e4ac41886f77406a511c9a8,AACPC,Armored Rig,4 Ultra
+_5c0548ae0db834001966a3c2,CWP,Attachments,0 None
+_57c44b372459772d2b39b8ce,AS VAL,Weapons AC,4 Ultra
+_57c44dd02459772d2e0ae249,VAL suppressor,Attachments,0 None
+_57c44f4f2459772d2c627113,VAL Dust cover,Attachments,0 None
+_57c44fa82459772d2d75e415,VAL pol.,Attachments,0 None
+_5a69a2ed8dc32e000d46d1f1,Rotor 43 buffer,Attachments,0 None
+_57c44e7b2459772d28133248,AS VAL rear sight,Attachments,0 None
+_544fb25a4bdc2dfb738b4567,Aseptic bandage,Meds,2 Medium
+_5cadfbf7ae92152ac412eeef,ASh-12 12.7x55 assault rifle,Weapons AR,4 Ultra
+_5caf187cae92157c28402e43,ASh supp,Attachments,0 None
+_5caf16a2ae92152ac412efbc,ASh-12 Front,Attachments,1 Low
+_5caf17c9ae92150b30006be1,ASh MB,Attachments,0 None
+_5cda9bcfd7f00c0c0b53e900,ASh-12,Attachments,0 None
+_5447b5fc4bdc2d87278b4567,Assault carbine,Parent Element,-1 Blacklist
+_5447b5f14bdc2d61278b4567,Assault rifle,Parent Element,-1 Blacklist
+_55818add4bdc2d5b648b456f,AssaultScope,Parent Element,-1 Blacklist
+_5d25d0ac8abbc3054f3e61f7,AICS M700,Attachments,0 None
+_5bbdb870d4351e00367fb67d,Monte Carlo,Attachments,0 None
+_590c695186f7741e566b64a2,Augmentin,Barter Items,2 Medium
+_5a74651486f7744e73386dd1,AuxiliaryMod,Parent Element,-1 Blacklist
+_5bffec120db834001c38f5fa,Axelson P226,Attachments,0 None
+_591ee00d86f774592f7b841e,Cobra,Attachments,0 None
+_5a966ec8a2750c00171b3f36,B&T 3x,Attachments,0 None
+_5de8f237bbaf010b10528a70,B&T adapter for MP9 regular supressor.,Attachments,0 None
+_5de922d4b11454561e39239f,MP9 Chr.,Attachments,0 None
+_59c63b4486f7747afb151c1c,SD TRR,Attachments,0 None
+_5e00903ae9dc277128008b87,MP9 9x19,Weapons SMG,4 Ultra
+_5de8f2d5b74cd90030650c72,MP9 Supp.,Attachments,0 None
+_5de8fbf2b74cd90030650c79,B&T bottom,Attachments,0 None
+_5de8fc0b205ddc616a6bc51b,B&T side,Attachments,0 None
+_5de8fb539f98ac2bc659513a,MP9 RS,Attachments,1 Low
+_5de7bd7bfd6b4e6e2276dc25,MP9-N,Weapons SMG,4 Ultra
+_5de8fbad2fbe23140d3ee9c4,MP9 VFG,Attachments,0 None
+_5ba26ae8d4351e00367f9bdb,Rotex 2,Attachments,3 High
+_5648b4534bdc2d3d1c8b4580,B-10M B-19,Attachments,0 None
+_57ffa9f4245977728561e844,B-11,Attachments,0 None
+_57ffaea724597779f52b3a4d,B-12,Attachments,0 None
+_5c61a40d2e2216001403158d,B-13,Attachments,0 None
+_5c90c3622e221601da359851,B-13V,Attachments,0 None
+_57ffb0062459777a045af529,B-18,Attachments,0 None
+_57a3459f245977764a01f703,B-3,Attachments,0 None
+_5a9fc7e6a2750c0032157184,B-3 combo,Attachments,0 None
+_576a7c512459771e796e0e17,B-8,Attachments,0 None
+_5448e53e4bdc2d60728b4567,Backpack,Parent Element,-1 Blacklist
+_56ea7165d2720b6e518b4583,BOTL,Attachments,0 None
+_5b1fb3e15acfc4001637f068,6P2 Bak,Attachments,0 None
+_572b7f1624597762ae139822,Balaclava,Vanity,0 None
+_58ac60eb86f77401897560ff,Balaclava_dev,Vanity,0 None
+_59e8936686f77467ce798647,Balaclava_test,Vanity,0 None
+_5b43271c5acfc432ff4dce65,Bandana,Vanity,0 None
+_590dde5786f77405e71908b2,Bank case,Quest,0 None
+_555ef6e44bdc2de9068b457e,Barrel,Parent Element,-1 Blacklist
+_5d3eb5b6a4b9361eab311902,57 5.7x28,Attachments,0 None
+_5a6b60158dc32e000a31138b,G17 9x19 comp,Attachments,0 None
+_5b1fa9ea5acfc40018633c0a,G18C 9x19 comp,Attachments,0 None
+_57e26fc7245977162a14b800,Bars A-2607- 95x18,Weapons M,0 None
+_57e26ea924597715ca604a09,A-2607,Weapons M,0 None
+_5448eb774bdc2d0a728b4567,Barter item,Parent Element,-1 Blacklist
+_572b7d8524597762b472f9d1,Cap,Vanity,0 None
+_5a6b5f868dc32e000a311389,G17 9x19,Attachments,0 None
+_5bc9c049d4351e44f824d360,Book,Barter Items,3 High
+_57864ee62459775490116fc1,Battery,Parent Element,-1 Blacklist
+_5c7fc87d2e221644f31c0298,MOD3,Attachments,0 None
+_572b7fa124597762b472f9d2,Beanie,Vanity,0 None
+_5aa2b87de5b5b00016327c25,BEAR baseball cap,Vanity,0 None
+_5b40e5e25acfc4001a599bea,BEAR,Vanity,0 None
+_57ae0171245977343c27bfcf,PK-06,Attachments,3 High
+_5c0e6a1586f77404597b4965,Belt-A + Belt-B gear rig,Chest Rig,4 Ultra
+_5cadc190ae921500103bb3b6,M9A3,Weapons P,1 Low
+_5cadd940ae9215051e1c2316,M9A3 RS,Attachments,0 None
+_55818afb4bdc2dde698b456d,Bipod,Parent Element,-1 Blacklist
+_56d5a2bbd2720bb8418b456a,BPGripP226,Attachments,0 None
+_5b44c8ea86f7742d1627baf1,Blackhawk! Commando Chest Harness,Chest Rig,0 None
+_5c0e9f2c86f77432297fe0a3,Commando,Chest Rig,0 None
+_5648a69d4bdc2ded0b8b457b,BlackRock,Chest Rig,4 Ultra
+_5a687e7886f7740c4a5133fb,Blood sample,Quest,0 None
+_5ab8e79e86f7742d8b372e78,GZHEL-K,Armor Vest,4 Ultra
+_5b44d22286f774172b0c9de8,Kirasa,Armor Vest,0 None
+_5d6d3716a4b9361bc8618872,LSHZ-2DTM,Helmet,4 Ultra
+_591094e086f7747caa7bb2ef,Body armor repair kit,Unknown,0 None
+_57347c5b245977448d35f6e1,Bolts,Barter Items,0 None
+_5d403f9186f7743cac3f229b,Whiskey,Food,0 None
+_5d40407c86f774318526545a,Vodka,Barter Items,0 None
+_5b86a0e586f7745b600ccb23,Bramit,Attachments,3 High
+_5b3a08b25acfc4001754880c,Bridge P226,Attachments,0 None
+_5b7d37845acfc400170e2f87,L1A1 30 7.62,Attachments,0 None
+_56742c324bdc2d150f8b456d,GPhone,Barter Items,0 None
+_5c1265fc86f7743f896a21c2,GPX,Barter Items,0 None
+_5d1b309586f77425227d1676,BrokenLCD,Barter Items,0 None
+_59e3639286f7741777737013,Lion,Barter Items,0 None
+_5937fd0086f7742bf33fc198,Bronze pocket watch on a chain,Quest,0 None
+_5b099bf25acfc4001637e683,SA-58 Tube,Attachments,0 None
+_5cde77a9d7f00c000f261009,fold.adapter,Attachments,0 None
+_57864ada245977548638de91,Building material,Parent Element,-1 Blacklist
+_5cf6937cd7f00c056c53fb39,ST-6012,Attachments,0 None
+_5d6d2bb386f774785b07a77a,Buried barrel cache,Lootable,0 None
+_577d141e24597739c5255e01,FF3,Attachments,0 None
+_577d128124597739d65d0e56,FFWB,Attachments,0 None
+_5b2388675acfc4771e1be0be,TAC 30,Attachments,0 None
+_5cf50fc5d7f00c056c53f83c,foldable,Attachments,0 None
+_5cf518cfd7f00c065b422214,AKTS,Attachments,0 None
+_5e569a132642e66b0b68015c,DRG L-1,Attachments,0 None
+_5d010d1cd7ad1a59283b1ce7,HX-5,Attachments,0 None
+_5648ae314bdc2d3d1c8b457f,CAA RS47,Attachments,0 None
+_5e569a2e56edd02abe09f280,XD RGL,Attachments,0 None
+_5e5699df2161e06ac158df6f,XRS DRG,Attachments,0 None
+_5780d0652459777df90dcb74,Gas station,Keys,0 None
+_545cdae64bdc2d39198b4568,Tri-Zip,Backpack,4 Ultra
+_5c012ffc0db834001d23f03f,Camper,Weapons M,0 None
+_57347d7224597744596b4e72,Tushonka,Food,0 None
+_57347da92459774491567cf5,Can of delicious beef stew,Food,2 Medium
+_5e54f6af86f7742199090bf3,Lupo's,Barter Items,3 High
+_57347d692459774491567cf1,Peas,Food,2 Medium
+_57347d9c245977448b40fa85,Herring,Food,2 Medium
+_5673de654bdc2d180f8b456d,Saury,Food,2 Medium
+_5bc9c29cd4351e003562b8a3,Sprats,Food,2 Medium
+_5c06782b86f77426df5407d2,Cap.,Barter Items,0 None
+_5733279d245977289b77ec24,Battery,Barter Items,0 None
+_590c661e86f7741e566b646a,Car,Meds,0 None
+_59136f6f86f774447a1ed173,Car key,Keys,0 None
+_5cf6935bd7f00c06585fb791,TACCOM,Attachments,0 None
+_5910922b86f7747d96753483,Carbon case,Quest,0 None
+_5a7ad0c451dfba0013379712,4Port,Attachments,0 None
+_578f879c24597735401e6bc6,Cash register,Lootable,0 None
+_5ad74cf586f774391278f6f0,Cash register (TAR2-2),Lootable,0 None
+_5addc00b5acfc4001669f144,CASV 14,Attachments,0 None
+_59e3658a86f7741776641ac4,Cat,Barter Items,0 None
+_5c1267ee86f77416ec610f72,Prokill,Barter Items,3 High
+_573474f924597738002c6174,Chainlet,Barter Items,0 None
+_55818a6f4bdc2db9688b456b,Charging handle,Parent Element,-1 Blacklist
+_5b43237186f7742f3a4ab252,Chemical container 1,Quest,0 None
+_5b4c81a086f77417d26be63f,Chemical container 2,Quest,0 None
+_5b4c81bd86f77418a75ae159,Chemical container 3,Quest,0 None
+_5448e5284bdc2dcb718b4567,Chest rig,Parent Element,-1 Blacklist
+_5df8a6a186f77412640e2e80,Christmas tree decoration ball (red),Barter Items,0 None
+_5df8a72c86f77412640e2e83,silver,Barter Items,0 None
+_5df8a77486f77412672a1e3f,violet,Barter Items,0 None
+_57347b8b24597737dd42e192,Classic matches,Barter Items,0 None
+_59e358a886f7741776641ac3,Wiper,Barter Items,0 None
+_5ae9a3f586f7740aab00e4e6,Clothes design handbook Part 1,Quest,0 None
+_5ae9a4fc86f7746e381e1753,Clothes design handbook Part 2,Quest,0 None
+_5d02778e86f774203e7dedbe,CMS,Meds,2 Medium
+_5e21ca18e4d47f0da15e77dd,CNC War.,Attachments,0 None
+_5947db3f86f77447880cf76f,EKP-8-02,Attachments,0 None
+_591c4efa86f7741030027726,EKP-8-18,Attachments,0 None
+_591c4e1186f77410354b316e,Cobra shade,Attachments,0 None
+_5af0484c86f7740f02001f7f,Coffee,Barter Items,0 None
+_5ab8f39486f7745cd93a1cca,CF,Vanity,0 None
+_55818ad54bdc2ddc698b4569,Collimator,Parent Element,-1 Blacklist
+_5a33ca0fc4a282000d72292f,CA2,Attachments,0 None
+_55d4b9964bdc2d1d4e8b456e,A2 Pistol,Attachments,0 None
+_55d5f46a4bdc2d1b198b4567,CA2R,Attachments,0 None
+_55d4887d4bdc2d962f8b4570,STANAG,Attachments,0 None
+_55d44fd14bdc2d962f8b456e,AR-15 Charge,Attachments,0 None
+_5649be884bdc2d79388b4577,CST,Attachments,0 None
+_5ae30e795acfc408fb139a0b,M4 FS,Attachments,0 None
+_5ae30db85acfc408fb139a05,M4 Std.,Attachments,0 None
+_5447a9cd4bdc2dbd208b4567,M4A1,Weapons AR,4 Ultra
+_544a38634bdc2d58388b4568,USGI A2,Attachments,0 None
+_550aa4dd4bdc2dc9348b4569,Comb. muzzle device,Parent Element,-1 Blacklist
+_55818b164bdc2ddc698b456c,Comb. tact. Device,Parent Element,-1 Blacklist
+_5c0e531286f7747fa54205c2,SJ1 TGLab,Meds,2 Medium
+_5c0e531d86f7747fa23f4d42,SJ6 TGLab,Meds,2 Medium
+_5795f317245977243854e041,Common container,Parent Element,-1 Blacklist
+_5d07b91b86f7745a077a9432,Shturman Stash,Lootable,0 None
+_5c1cdd302e221602b3137250,Compact mount,Attachments,0 None
+_55818acf4bdc2dde698b456b,CompactCollimator,Parent Element,-1 Blacklist
+_550aa4af4bdc2dd4348b456e,Compensator,Parent Element,-1 Blacklist
+_5b7d693d5acfc43bca706a3d,2A X3,Attachments,0 None
+_566162e44bdc2d3f298b4573,Compound item,Parent Element,-1 Blacklist
+_5734773724597737fd047c14,Cond. milk,Food,0 None
+_590c2c9c86f774245b1f03f2,MTape,Barter Items,0 None
+_59e35cbb86f7741778269d83,Hose,Barter Items,3 High
+_5a0eb6ac86f7743124037a28,Cottage,Keys,3 High
+_5a0f068686f7745b0d4ea242,Cottage safe key,Keys,0 None
+_5734779624597737e04bf329,CPU Fan,Barter Items,0 None
+_5bffe7930db834001b734a39,SCA,Weapons M,5 Super
+_56742c284bdc2d98058b456d,Crickent,Barter Items,0 None
+_58d2664f86f7747fec5834f6,DPCSM,Attachments,0 None
+_5d5fca1ea4b93635fd598c07,Crossbow,Vanity,0 None
+_5c178a942e22164bef5ceca3,Chops,Attachments,4 Ultra
+_5c1793902e221602b21d3de2,CP Ears,Attachments,4 Ultra
+_5c17a7ed2e2216152142459c,Airframe Tan,Attachments,4 Ultra
+_544a5caa4bdc2d1a388b4568,AVS,Armored Rig,4 Ultra
+_5c99f3592e221644fc633070,TOZ-106 Mosin,Attachments,0 None
+_5cf79389d7f00c10941a0c4d,Mosin thr.,Attachments,0 None
+_55d45f484bdc2d972f8b456d,Custom MP-133 plastic,Attachments,0 None
+_5dfce88fe9dc277128008b2e,SVDS CS,Attachments,0 None
+_5780d0532459777a5108b9a2,Customs key,Keys,0 None
+_5798a2832459774b53341029,Customs,Tools,0 None
+_5a787fdfc5856700142fdd9a,325mm M870,Attachments,0 None
+_5e2aee0a86f774755a234b62,Cyclon ,Barter Items,3 High
+_5672cb304bdc2dc2088b456a,D Bat.,Barter Items,0 None
+_5cc700d4e4a949000f0f0f28,DI Butt,Attachments,0 None
+_590a386e86f77429692b27ab,HDD,Barter Items,0 None
+_5c9a26332e2216001219ea70,RIS II FSP 9.5 FDE,Attachments,0 None
+_5c9a25172e2216000f20314e,RIS II 12.25 FDE,Attachments,0 None
+_588b56d02459771481110ae2,RIS II 9.5,Attachments,0 None
+_55f84c3c4bdc2d5f408b4576,Daniel Defence RIS II 9.5 foregrip for AR-15-compatible systems,Attachments,0 None
+_5d1f819086f7744b355c219b,Wave MB 7,Attachments,0 None
+_5cff9e84d7ad1a049e54ed55,Wave QD,Attachments,3 High
+_5cff9e5ed7ad1a09407397d4,Wave MB 5,Attachments,0 None
+_5a7d90eb159bd400165484f1,Glock SE,Attachments,0 None
+_5a7d9122159bd4001438dbf4,Dead Ringer Snake Eye Glock rear sight,Attachments,0 None
+_5909e4b686f7747f5b744fa4,Dead Scav,Lootable,0 None
+_5b432b6c5acfc4001a599bf0,Skull,Vanity,0 None
+_5bc9b9ecd4351e3bac122519,Beardoil,Barter Items,3 High
+_5a7037338dc32e000d46d257,G 3 Port,Attachments,0 None
+_5a43943586f77416ad2f06e2,Hat,Barter Items,0 None
+_55d7217a4bdc2d86028b456d,Corpse,Unknown,5 Super
+_55d48ebc4bdc2d8c2f8b456c,Sprut,Attachments,0 None
+_5dcbe965e4ed22586443a79d,Desert Tech .308 FlashHider,Attachments,0 None
+_5c48a2a42e221602b66d1e07,MDR reg.,Attachments,0 None
+_5c48a14f2e2216152006edd7,MDR Handguard,Attachments,0 None
+_5dcbd6b46ec07c0c4347a564,Desert Tech foregrip for MDR blk,Attachments,0 None
+_5c48a2c22e221602b313fb6c,Desert Tech pistol grip for MDR FDE,Attachments,0 None
+_5dcbd6dddbd3d91b3e5468de,Desert Tech pistol grip for MDR Black,Attachments,0 None
+_5b4329f05acfc47a86086aa1,Ronin,Helmet,4 Ultra
+_571659bb2459771fb2755a12,ECS FDE,Attachments,0 None
+_590c645c86f77412b01304d9,Diary,Barter Items,3 High
+_5cf78496d7f00c065703d6ca,A3 Adapter,Attachments,3 High
+_5c7954d52e221600106f4cc7,ONE Mount,Attachments,0 None
+_59bffc1f86f77435b128b872,DT Mount,Attachments,0 None
+_5d1b3f2d86f774253763b735,Syringe,Barter Items,0 None
+_5c079ed60db834001a66b372,Precision,Attachments,0 None
+_590c60fc86f77412b13fddcf,Docs,Container,5 Super
+_59f32bb586f774757e1e8442,Dogtag,Barter Items,5 Super
+_5c093e3486f77430cb02e593,Dogtags,Container,5 Super
+_59f32c3b86f77472a31742f0,Dogtag USEC,Barter Items,2 Medium
+_5696686a4bdc2da3298b456a,Dollars,Money,0 None
+_57a349b2245977762b199ec7,alternative,Tools,0 None
+_593858c486f774253a24cb52,Door key,Keys,0 None
+_59136a4486f774447a1ed172,Gdesk,Keys,0 None
+_5938994586f774523a425196,103 Key,Keys,0 None
+_591383f186f7744a4c5edcf3,104 Key,Keys,0 None
+_591382d986f774465a6413a7,105 Key,Keys,0 None
+_5914578086f774123569ffa4,108 Key,Keys,0 None
+_59136e1e86f774432f15d133,110 Key,Keys,0 None
+_59387a4986f77401cc236e62,114 Key,Keys,0 None
+_5672c92d4bdc2d180f8b4567,Room 118 Key,Keys,0 None
+_5938504186f7740991483f30,Room 203 Key,Keys,0 None
+_59148c8a86f774197930e983,Room 204 Key,Keys,0 None
+_5938603e86f77435642354f4,206 Key,Keys,0 None
+_5780cf942459777df90dcb72,214 Key,Keys,3 High
+_5780cf9e2459777df90dcb73,Room 218 Key,Keys,0 None
+_5780cfa52459777dfb276eb1,220 Key,Keys,3 High
+_593aa4be86f77457f56379f8,303 Key,Keys,0 None
+_5780cda02459777b272ede61,306 Key,Keys,0 None
+_5780cf722459777a5108b9a1,308 Key,Keys,0 None
+_5780cf692459777de4559321,315 Key,Keys,0 None
+_5a70366c8dc32e001207fb06,Glock DD,Attachments,0 None
+_5d120a10d7ad1a4e1026ba85,Gen.4 stock,Attachments,0 None
+_5d120a28d7ad1a1c8962e295,Recoil pad,Attachments,0 None
+_5c6162682e22160010261a2b,TOZ-106 DT,Attachments,0 None
+_587e08ee245977446b4410cf,OPSKS DT,Attachments,0 None
+_578f87b7245977356274f2cd,Drawer,Lootable,0 None
+_5448e8d64bdc2dce718b4568,Drink,Parent Element,-1 Blacklist
+_5448f3a14bdc2d27728b4569,Drug,Parent Element,-1 Blacklist
+_590a373286f774287540368b,Dfuel,Barter Items,3 High
+_5b099b7d5acfc400186331e4,3 prong trident,Attachments,0 None
+_5b7d68af5acfc400170e30c3,Austrian Style,Attachments,0 None
+_5b099bb25acfc400186331e8,Ext. Duty,Attachments,0 None
+_5b0bc22d5acfc47a8607f085,Holand,Attachments,0 None
+_5b099a9d5acfc47a8607efe7,DS Arms quad rail foregrip for SA-58,Attachments,0 None
+_5b7be1ca5acfc400170e2d2f,Quad Rail,Attachments,0 None
+_5b0bbe4e5acfc40dc528a72d,SA-58,Weapons AR,4 Ultra
+_5b7d671b5acfc43d82528ddd,Fal Belgian style,Attachments,0 None
+_5b7d64555acfc4001876c8e2,SA-58 BRS Stock,Attachments,0 None
+_5b7d63cf5acfc4001876c8df,SA-58 Folding,Attachments,0 None
+_5b7d63de5acfc400170e2f8d,SA-58 SPR Stock,Attachments,0 None
+_5c488a752e221602b412af63,MDR 5.56,Weapons AR,4 Ultra
+_5dcbd56fdbd3d91b3e5468d5,MDR .308,Weapons AR,4 Ultra
+_5a16b93dfcdbcbcae6687261,Dual Dovetail Mount for PVS-14 monocular,Attachments,0 None
+_57347c1124597737fb1379e3,Duct tape,Barter Items,0 None
+_578f87a3245977356274f2cb,Duffle bag,Lootable,0 None
+_56e33634d2720bd8058b456b,Duffle,Backpack,0 None
+_5aa2b986e5b5b00014028f4c,Dundukk,Vanity,0 None
+_5734781f24597737e04bf32a,DVD,Barter Items,0 None
+_5888996c24597754281f9419,DVL-10 M2 MBr,Attachments,0 None
+_58889c7324597754281f9439,DVL-10 MD,Attachments,0 None
+_588892092459774ac91d4b11,DVL-10,Weapons SR,4 Ultra
+_5894a13e86f7742405482982,MCX/MPX early,Attachments,0 None
+_5a144bdb86f7741d374bbde0,San.205E,Keys,3 High
+_5a0ee4b586f7743698200d22,San.206,Keys,3 High
+_5a0ee62286f774369454a7ac,San.209,Keys,3 High
+_5a0ee72c86f77436955d3435,San.213,Keys,3 High
+_5a0ee76686f7743698200d5c,San.216E,Keys,5 Super
+_5a13f24186f77410e57c5626,San.222,Keys,5 Super
+_5a13f35286f77413ef1436b0,San.226,Keys,5 Super
+_5a145d4786f7744cbb6f4a12,San.306E,Keys,0 None
+_5a145d7b86f7744cbb6f4a13,San.308,Keys,0 None
+_5a0eec9686f77402ac5c39f2,San.310,Keys,3 High
+_5a0eecf686f7740350630097,San.313,Keys,5 Super
+_5a0eed4386f77405112912aa,San.314,Keys,0 None
+_5a145ebb86f77458f1796f05,San.316,Keys,0 None
+_5a0eedb386f77403506300be,San.322,Keys,3 High
+_5a0eee1486f77402aa773226,San.328,Keys,3 High
+_57ac965c24597706be5f975c,DR1/4x,Attachments,0 None
+_57aca93d2459771f2c7e26db,DR1/4x FDE,Attachments,0 None
+_59e35de086f7741778269d84,Drill,Barter Items,0 None
+_5d1b2fa286f77425227d1674,Motor,Barter Items,0 None
+_57864a66245977548f04a81f,Electronics,Parent Element,-1 Blacklist
+_5751487e245977207e26a315,Emelya,Food,0 None
+_5aa2b89be5b5b0001569311f,Emercom,Vanity,0 None
+_5b39f8db5acfc40016387a1b,EMOD,Attachments,0 None
+_5c0006470db834001a6697fe,Emperor scorpion Sig Sauer pistol grip for P226,Attachments,0 None
+_5783c43d2459774bbe137486,Wallet,Container,3 High
+_5dfe14f30b92095fd441edaf,ETMI-019,Attachments,0 None
+_5d3ec50586f774183a607442,Encrypted message,Quest,0 None
+_590a3cd386f77436f20848cb,ES Lamp,Barter Items,0 None
+_570fd6c2d2720bc6458b457f,EoTech 553,Attachments,0 None
+_558022b54bdc2dac148b458d,EXPS3,Attachments,0 None
+_5c07dd120db834001c39092d,HHS-1,Attachments,0 None
+_5c0a2cec0db834001b7ce47d,HHS-1T,Attachments,0 None
+_5b3b99475acfc432ff4dcbee,1-6x24,Attachments,0 None
+_58491f3324597764bc48fa02,XPS3-0,Attachments,0 None
+_584924ec24597768f12ae244,XPS3-2,Attachments,0 None
+_543be5f84bdc2dd4348b456a,Equipment,Parent Element,-1 Blacklist
+_54491bb74bdc2d09088b4567,ER Bayonet,Attachments,0 None
+_55802f4a4bdc2ddb688b4569,Essential mod,Parent Element,-1 Blacklist
+_569668774bdc2da2298b4568,Euros,Money,0 None
+_5d1b371186f774253763a656,Fuel,Barter Items,3 High
+_5710c24ad2720bc3458b45a3,F-1,Weapons T,1 Low
+_5996f6d686f77467977ba6cc,F1 Shrapnel,Ammo,0 None
+_5c5db6742e2216000f1b2852,MPX Drum,Attachments,0 None
+_5b0800175acfc400153aebd4,F93 Pro Stock,Attachments,0 None
+_5b7d679f5acfc4001a5c4024,AG FAL,Attachments,0 None
+_5d023784d7ad1a049d4aa7f2,AG-58,Attachments,0 None
+_5bfe86a20db834001d23e8f7,AGR-870,Attachments,0 None
+_5bfe89510db834001808a127,AGR-870 tube,Attachments,0 None
+_5a9eb32da2750c00171b3f9c,GL Shock,Attachments,0 None
+_5bfe86df0db834001b734685,GLR-16-S,Attachments,0 None
+_5d1c702ad7ad1a632267f429,GLR-17,Attachments,0 None
+_5d2c770c48f0354b4a07c100,PDC,Attachments,0 None
+_5a788031c585673f2b5c1c79,PR870,Attachments,0 None
+_5d0236dad7ad1a0940739d29,FD UAS Stock,Attachments,0 None
+_5b04473a5acfc40018632f70,UAS AK,Attachments,0 None
+_5a341c4686f77469e155819e,FaceCover,Parent Element,-1 Blacklist
+_5448ba0b4bdc2d02308b456c,Factory Key,Keys,3 High
+_574eb85c245977648157eec3,Factory,Tools,0 None
+_5bd073a586f7747e6f135799,Mustache,Vanity,0 None
+_5c1a1e3f2e221602b66cc4c2,Beard,Vanity,3 High
+_5b7c2d1d5acfc43d1028532a,MMW Fal 7.62,Attachments,0 None
+_5b7bef1e5acfc43d82528402,FAL 10 7.62,Attachments,0 None
+_5b099ac65acfc400186331e1,FAL 20 7.62,Attachments,0 None
+_5b7bef5d5acfc43bca7067a3,FAL 30 7.62,Attachments,0 None
+_5c12301c86f77419522ba7e4,False flash drive,Quest,0 None
+_5b3cadf35acfc400194776a0,Fancy TT side grips,Attachments,0 None
+_5bc9b355d4351e6d1509862a,FireKlean,Barter Items,3 High
+_5a7ad74e51dfba0015068f45,FD917,Attachments,0 None
+_5d3eb5eca4b9363b1f22f8e4,5.7x28 57 mag.,Attachments,0 None
+_5d3eb44aa4b93650d64e4979,57 Slide,Attachments,0 None
+_5d3eb536a4b9363b1f22f8e2,57 FS,Attachments,0 None
+_5d3eb4aba4b93650d64e497d,57 RS,Attachments,0 None
+_550aa4bf4bdc2dd6348b456b,Flashhider,Parent Element,-1 Blacklist
+_55818b084bdc2d5b648b4571,Flashlight,Parent Element,-1 Blacklist
+_5d63d33b86f7746ea9275524,F Scr.,Barter Items,0 None
+_5e2af47786f7746d404f3aaa,Fleece ,Barter Items,0 None
+_5d1b5e94d7ad1a2b865a96b0,Thermal,Attachments,5 Super
+_544a5cde4bdc2d39388b456b,MBSS,Backpack,0 None
+_5cebec00d7f00c065c53522a,Attenuator,Attachments,0 None
+_5cc700cae4a949035e43ba72,P90 butt,Attachments,0 None
+_5cc6ea78e4a949000e1ea3c1,FN Chrg.,Attachments,0 None
+_5cc7012ae4a949001252b43e,EFFEN 90,Attachments,0 None
+_5cc700ede4a949033c734315,FN EFFEN 90 Upper receiver for P90,Attachments,0 None
+_5d3eb3b0a4b93615055e84d2,FN 5-7a,Weapons P,4 Ultra
+_5d67abc1a4b93614ec50137f,FN 5-7,Weapons P,4 Ultra
+_5cc70093e4a949033c734312,FN reg.,Attachments,0 None
+_5cc82796e24e8d000f5859a8,P90 FH,Attachments,0 None
+_5cc82d76e24e8d00134b4b83,P90,Weapons SMG,4 Ultra
+_5cc700b9e4a949000f0f0f25,P90 Stock,Attachments,0 None
+_5cebec10d7f00c065703d185,PS90 Stock,Attachments,0 None
+_5cebec38d7f00c00110a652a,Ring,Attachments,0 None
+_5d7b6bafa4b93652786f4c76,57 RMR mount,Attachments,0 None
+_5cc70146e4a949000d73bf6b,FN side.,Attachments,0 None
+_5cc7015ae4a949001152b4c6,FN top,Attachments,0 None
+_5cc70102e4a949035e43ba74,P90 Upper,Attachments,0 None
+_5cf7acfcd7f00c1084477cf2,PS90 Upper,Attachments,0 None
+_5c12613b86f7743bbe2c3f76,Intelligence,Barter Items,3 High
+_5448e8d04bdc2ddf718b4569,Food,Parent Element,-1 Blacklist
+_543be6674bdc2df1348b4569,Food and drink,Parent Element,-1 Blacklist
+_55818af64bdc2d5b648b4570,Foregrip,Parent Element,-1 Blacklist
+_5ca2151486f774244a3b8d30,Redut-M,Armor Vest,4 Ultra
+_5ca21c6986f77479963115a7,Redut-T5,Armor Vest,4 Ultra
+_5d026791d7ad1a04a067ea63,Red Brake,Attachments,0 None
+_59f8a37386f7747af3328f06,Shift,Attachments,3 High
+_5d1b2f3f86f774252167a52c,FP-100,Barter Items,3 High
+_5c07df7f0db834001b73588a,Crowbar,Weapons M,0 None
+_5d650c3e815116009f6201d2,Fuel,Parent Element,-1 Blacklist
+_5b43575a86f77424f443fe62,Fcond,Barter Items,3 High
+_550aa4154bdc2dd8348b456b,Functional mod,Parent Element,-1 Blacklist
+_590a3efd86f77437d351a25b,GasAn,Barter Items,0 None
+_56ea9461d2720b67698b456f,Gas block,Parent Element,-1 Blacklist
+_5a0f045e86f7745b0f0d0e42,Gas station safe key,Keys,0 None
+_5d6d2e22a4b9361bd5780d05,Gascan,Vanity,0 None
+_55802f3e4bdc2de7118b4584,Gear mod,Parent Element,-1 Blacklist
+_5672cb724bdc2dc2088b456b,GMcount,Barter Items,0 None
+_5c5db6b32e221600102611a0,SCH Charge,Attachments,0 None
+_5c7955c22e221644f31bfd5e,Gemtech ONE,Attachments,3 High
+_5d3ef698a4b9361182109872,SFN-57,Attachments,0 None
+_5ab8f4ff86f77431c60d91ba,Ghost,Barter Items,0 None
+_58272d7f2459774f6311ddfd,GK-02,Attachments,0 None
+_5a7ae0c351dfba0017554310,GLOCK17,Weapons P,0 None
+_5b1fa9b25acfc40018633c01,GLOCK18C,Weapons P,0 None
+_5b1faa0f5acfc40dc528aeb5,Glock 18C slide,Attachments,0 None
+_5a718b548dc32e000d46d262,9x19 Glock,Attachments,0 None
+_5a9685b1a2750c0032157104,Glock Moto Cut,Attachments,0 None
+_5a6f5e048dc32e00094b97da,Glock slide,Attachments,0 None
+_5a6f5f078dc32e00094b97dd,Glock Viper Cut,Attachments,0 None
+_5a7033908dc32e000a311392,Glock AW C,Attachments,0 None
+_5a702d198dc32e000b452fc3,Glock AW,Attachments,0 None
+_5a6f58f68dc32e000a311390,Glock FS,Attachments,0 None
+_5a6f5d528dc32e00094b97d9,Glock RS,Attachments,0 None
+_5a800961159bd4315e3a1657,GL21,Attachments,0 None
+_5a6b592c8dc32e00094b97bf,DD TP,Attachments,0 None
+_5a6b59a08dc32e000b452fb7,SAI TP,Attachments,0 None
+_5a71e0048dc32e000c52ecc8,G FS ZT,Attachments,0 None
+_5a71e4f48dc32e001207fb26,G ZT Spart,Attachments,0 None
+_5a71e0fb8dc32e00094b97f2,G RS ZT,Attachments,0 None
+_5d235a5986f77443f6329bc6,Gold skull ring,Barter Items,3 High
+_5bc9b720d4351e450201234b,1GPhone,Barter Items,3 High
+_5734758f24597738025ee253,GoldChain,Barter Items,3 High
+_5bc9bc53d4351e00367fbcee,Rooster,Barter Items,3 High
+_5751a89d24597722aa0e8db0,GoldenStar,Meds,3 High
+_5addbb945acfc4001a5fc44e,Good Iron,Attachments,0 None
+_5ae9a0dd86f7742e5f454a05,Goshan cargo manifests,Quest,0 None
+_5d235b4d86f7742e017bc88a,GP,Barter Items,3 High
+_5648b62b4bdc2d9d488b4585,GP-34 underbarrel grenade launcher,Attachments,0 None
+_5b432c305acfc40019478128,GP-5,Vanity,0 None
+_5c0558060db834001b735271,GPNVG-18,Attachments,4 Ultra
+_57513f9324597720a7128161,Pom.juice,Food,2 Medium
+_57347ca924597744596b4e71,Graphics card,Barter Items,5 Super
+_575062b524597720a31c09a1,Green Tea,Food,0 None
+_5e2aedd986f7746d404f3aa4,GreenBat ,Barter Items,0 None
+_5e2af55f86f7746d4159f07c,Grenades,Container,5 Super
+_5447bedf4bdc2d87278b4568,Grenade launcher,Parent Element,-1 Blacklist
+_5909d36d86f774660f0bb900,Grenade box,Lootable,0 None
+_590c657e86f77412b013051d,Grizzly First Aid Kit (1800/1800),Meds,2 Medium
+_5d6d2b5486f774785c2ba8ea,Ground cache,Lootable,0 None
+_5b432b965acfc47a8774094e,GSSh-01,Headset,0 None
+_5d6fc78386f77449d825f9dc,GP Eagle,Barter Items,3 High
+_5d6fc87386f77449db3db94e,GP Hawk,Barter Items,3 High
+_590c5a7286f7747884343aea,"Gunpowder ""Kite""",Barter Items,0 None
+_5d5d85c586f774279a21cbdb,D3CRX,Chest Rig,4 Ultra
+_5d1b317c86f7742523398392,Hand drill,Barter Items,0 None
+_55818a104bdc2db9688b4569,Handguard,Parent Element,-1 Blacklist
+_5b2cfa535acfc432ff4db7a0,MK10 RL,Attachments,0 None
+_5894a42086f77426d2590762,MPX Gen. 1,Attachments,0 None
+_595cfa8b86f77427437e845b,LVOA-C blk.,Attachments,0 None
+_595cf16b86f77427440c32e2,LVOA-S blk.,Attachments,0 None
+_5b237e425acfc4771e1be0b6,TROY Combo,Attachments,0 None
+_5888961624597754281f93f3,Harris HBR,Attachments,0 None
+_5645bcb74bdc2ded0b8b4578,Headphones,Parent Element,-1 Blacklist
+_5a341c4086f77401f2541505,Headwear,Parent Element,-1 Blacklist
+_5a0f08bc86f77478f33b84c2,Resort safe key,Keys,5 Super
+_5a0eff2986f7741fd654e684,Safe 321,Keys,0 None
+_5a0ea79b86f7741d4a35298e,Storeroom,Keys,0 None
+_5a0f0f5886f7741c4e32a472,Resort whouse safe key,Keys,3 High
+_5c4eecde2e221602b3140418,SV-98 HS,Attachments,0 None
+_59faf98186f774067b6be103,Alkali,Barter Items,0 None
+_5c0e533786f7747fa23f4d47,Zagustin,Meds,2 Medium
+_56ea70acd2720b844b8b4594,FF 4-16,Attachments,0 None
+_5a33e75ac4a2826c6e06d759,HA CQR,Attachments,0 None
+_5a7dbfc1159bd40016548fde,CQR,Attachments,0 None
+_5cc9bcaed7f00c011c04e179,HG15,Attachments,0 None
+_5e208b9842457a4a7a33d074,DTKP,Attachments,3 High
+_5e217ba4c1434648c13568cd,Kocherga,Attachments,0 None
+_59c0ec5b86f77435b128bfca,Hexagon 12K,Attachments,3 High
+_593d493f86f7745e6b2ceb22,Hexagon AK-74,Attachments,3 High
+_593d489686f7745c6255d58a,Hexagon AKM,Attachments,3 High
+_5b800e9286f7747a8b04f3ff,Hexagon handguard for AK,Attachments,0 None
+_5b80242286f77429445e0b47,Hex,Attachments,0 None
+_593d490386f7745ee97a1555,Hexagon SKS,Attachments,3 High
+_5a33b652c4a28232996e407c,AC32062,Attachments,0 None
+_55d4ae6c4bdc2d8b2f8b456e,M4SS,Attachments,0 None
+_5b40e3f35acfc40016388218,ACHHC blk,Helmet,4 Ultra
+_5b40e4035acfc47a87740943,ACHHC grn,Helmet,4 Ultra
+_5b40e1525acfc4771e1c6611,ULACH blk,Helmet,4 Ultra
+_5b40e2bc5acfc40016388216,ULACH tan,Helmet,4 Ultra
+_5c0e655586f774045612eeb2,multicam,Armor Vest,0 None
+_5bb20e18d4351e00320205d5,Battle Grip,Attachments,0 None
+_5bb20e58d4351e00320205d7,Enhanced Tube,Attachments,0 None
+_5bb2475ed4351e00853264e3,HK 416A5,Weapons AR,4 Ultra
+_5bb20e49d4351e3bac1212de,416A5 Rearsight Flip Up,Attachments,0 None
+_5bb20dcad4351e3bac1212da,416A5,Attachments,0 None
+_5ba26acdd4351e003562908e,MP7,Attachments,0 None
+_5926d3c686f77410de68ebc8,HK A2,Attachments,0 None
+_5926d40686f7740f152b6b7e,HK A3,Attachments,0 None
+_5bb20e0ed4351e3bac1212dc,HK Battle Grip with Beavertail pistol grip for AR-15 based systems,Attachments,0 None
+_5c87a07c2e2216001219d4a2,HK E1,Attachments,0 None
+_5c07c9660db834001a66b588,End Cap,Attachments,0 None
+_5d2f25bc48f03502573e5d85,MP5k End Cap,Attachments,0 None
+_5d025cc1d7ad1a53845279ef,Ergo PSG-1,Attachments,3 High
+_5bb20dbcd4351e44f824c04e,Extended latch,Attachments,0 None
+_5bb20dfcd4351e00334c9e24,Ext.Quad,Attachments,0 None
+_5c6d7b3d2e221600114c9b7d,Grip V.2,Attachments,0 None
+_5926bb2186f7744b1c6c6e60,Navy 3 Round Burst,Weapons SMG,0 None
+_5926d2be86f774134d668e4e,MP5 Drum Rearsight,Attachments,0 None
+_5d2f0d8048f0356c925bc3b0,MP5K-N,Weapons SMG,0 None
+_5d2f261548f03576f500e7b7,MP5k Upper,Attachments,0 None
+_5926c0df86f77462f647f764,MP5 Upper,Attachments,0 None
+_5926f2e086f7745aae644231,MP5SD,Attachments,4 Ultra
+_5ba26383d4351e00334c93d9,MP7A1,Weapons SMG,4 Ultra
+_5bd70322209c4d00d7167b8f,MP7A2,Weapons SMG,4 Ultra
+_5c6d10e82e221601da357b07,HK Keymod,Attachments,0 None
+_5c07c5ed0db834001b73571c,Noveske Style,Attachments,0 None
+_5c6d450c2e221600114c997d,PM Gen.2,Attachments,0 None
+_5c6d42cb2e2216000e69d7d1,Polymer mag,Attachments,0 None
+_5bb20de5d4351e0035629e59,Quadrail,Attachments,0 None
+_5bb20df1d4351e00347787d5,Quad. sight,Attachments,0 None
+_5bb20e70d4351e0035629f8f,Slim Line,Attachments,0 None
+_5c05413a0db834001c390617,HK Steel,Attachments,0 None
+_5bfeb32b0db834001a6694d9,Overmolded ghillie,Attachments,0 None
+_5bffef760db8340019668fe4,Mascus P226,Attachments,0 None
+_5c0684e50db834002a12585a,Hogue like,Attachments,0 None
+_57c55efc2459772d2c6271e7,OMRG,Attachments,0 None
+_57af48872459771f0b2ebf11,OMRG FDE,Attachments,0 None
+_57c55f092459772d291a8463,OMRG GE,Attachments,0 None
+_57c55f112459772d28133310,OMRG GG,Attachments,0 None
+_57c55f172459772d27602381,OMRG OD,Attachments,0 None
+_5b30b0dc5acfc400153b7124,HS401G5,Attachments,0 None
+_57fd23e32459772d0805bcf1,LS321,Attachments,0 None
+_571a279b24597720b4066566,121mm thr. TT,Attachments,0 None
+_573478bc24597738002c6175,Horse,Barter Items,0 None
+_5751496424597720a27126da,Hot Rod,Food,2 Medium
+_57864c322459775490116fbf,Household goods,Parent Element,-1 Blacklist
+_57347d5f245977448b40fa81,Humpback,Food,2 Medium
+_5e2af2bc86f7746d3f3c33fc,Matches,Barter Items,0 None
+_59e361e886f774176c10a2a5,H2O2,Barter Items,0 None
+_5af0548586f7743a532b7e99,Ibuprofen,Meds,3 High
+_5ae9a1b886f77404c8537c62,IDEA cargo manifests,Quest,0 None
+_590c678286f77426c9660122,IFAK,Meds,2 Medium
+_544fb3364bdc2d34748b456a,Splint,Meds,0 None
+_5af0454c86f7746bf20992e8,Alu Splint,Meds,2 Medium
+_5bfd35380db83400232fe5cc,Infantry mosin Stock,Attachments,0 None
+_5448ecbe4bdc2d60728b4568,Info,Parent Element,-1 Blacklist
+_5734795124597738002c6176,Tape,Barter Items,0 None
+_5be4038986f774527d3fae60,Interchange,Tools,0 None
+_55d720f24bdc2d88028b456d,Inventory,Parent Element,-1 Blacklist
+_5b44cf1486f77431723e3d05,Gen4 Ass,Armor Vest,4 Ultra
+_5b44cd8b86f774503d30cba2,Gen4 Ful,Armor Vest,4 Ultra
+_5b44d0de86f774503d30cba8,Gen4 HMK,Armor Vest,4 Ultra
+_55818ac54bdc2d5b648b456e,Ironsight,Parent Element,-1 Blacklist
+_590c5d4b86f774784e1b9c45,Lunchbox,Food,2 Medium
+_54009119af1c881c07000029,Item,Parent Element,-1 Blacklist
+_59fb042886f7746c5005a7b2,ICase,Container,5 Super
+_5ac72e945acfc43f3b691116,Izhmash 5.45x39 AK-105 muzzlebrake & compensator (6P44 0-20),Attachments,0 None
+_5649aa744bdc2ded0b8b457e,6P20 0-20,Attachments,0 None
+_5ac7655e5acfc40016339a19,Izhmash 5.45x39 AK-74M muzzlebrake & compensator (6P20 0-20),Attachments,0 None
+_57dc324a24597759501edc20,6P26 0-20,Attachments,0 None
+_5beec3420db834001b095429,RPK-16 MB,Attachments,0 None
+_5ac72e615acfc43f67248aa0,AK-101 MB,Attachments,0 None
+_5ac72e725acfc400180ae701,6P44 0-20,Attachments,0 None
+_5a01c29586f77474660c694c,6L10,Attachments,0 None
+_5b1fd4e35acfc40018633c39,AK al. 10,Attachments,0 None
+_5ac72e7d5acfc40016339a02,AK-103 MB,Attachments,0 None
+_5ac72e895acfc43b321d4bd5,6P46 0-20,Attachments,0 None
+_59d64fc686f774171b243fe2,6P1 0-14,Attachments,0 None
+_5a0060fc86f7745793204432,AKMS al.,Attachments,0 None
+_5a0d716f1526d8000d26b1e2,AKML,Attachments,0 None
+_5c471bfc2e221602b21d4e17,SVDS MB,Attachments,0 None
+_5998597786f77414ea6da093,PP-19-01 Br,Attachments,0 None
+_5998598e86f7740b3f498a86,Saiga-9 Br,Attachments,0 None
+_5649ad3f4bdc2df8348b4585,6P4 Sb.8V,Attachments,0 None
+_59d625f086f774661516605d,issued ‘55 or later,Attachments,0 None
+_5649ade84bdc2d1b2b8b4587,6P1 Sb.8,Attachments,0 None
+_5beec8ea0db834001a6f9dbf,Izhmash AK-12 regular pistol grip,Attachments,0 None
+_5beec8c20db834001d2c465c,AK-12 reg.,Attachments,0 None
+_5649af094bdc2df8348b4586,Izhmash AK-74 dust cover (6P1 0-1),Attachments,0 None
+_57e3dba62459770f0c32322b,6P4 Sb.9,Attachments,0 None
+_5ac50da15acfc4001718d287,6P34 0-1,Attachments,0 None
+_59e62cc886f77440d40b52a1,AKM bak.,Attachments,0 None
+_59d6507c86f7741b846413a2,6P1 0-1,Attachments,0 None
+_5839a7742459773cf9693481,AKS-74UB D.c.,Attachments,0 None
+_5ab626e4d8ce87272e4c6e43,6P21 Sb.5,Attachments,0 None
+_57dc347d245977596754e7a1,6P26 Sb.5,Attachments,0 None
+_5e56991336989c75ab4f03f6,SVD Mod.,Attachments,0 None
+_5e569a0156edd02abe09f27d,IzhMash,Attachments,0 None
+_5649b0fc4bdc2d17108b4588,6P20 Sb.7,Attachments,0 None
+_5cbdb1b0ae9215000d50e105,Izhmash polymer Plum AK-74 stock (6P20 Sb.7),Attachments,0 None
+_599860e986f7743bb57573a6,Rear sight PP-19-01,Attachments,0 None
+_5beec9450db83400970084fd,Izhmash Rearsight base for RPK-16,Attachments,0 None
+_5bf3f59f0db834001a6fa060,RPK-16 rear,Attachments,0 None
+_5beec91a0db834001961942d,RPK-16 Dust Cover,Attachments,0 None
+_5beec8b20db834001961942a,RPK-16 Tube,Attachments,0 None
+_5beecbb80db834001d2c465e,RPK-16 rail,Attachments,0 None
+_5beec3e30db8340019619424,RPK-16 HG,Attachments,0 None
+_59ff3b6a86f77477562ff5ed,6P4 Sb.1-19,Attachments,0 None
+_5abcd472d8ce8700166032ae,Izhmash shoulder piece for AKMSN (6P4 Sb.1-19),Attachments,0 None
+_57616ca52459773c69055192,SOK-12AK Stock,Attachments,0 None
+_57a9b9ce2459770ee926038d,SOK12 RS,Attachments,0 None
+_57616c112459773cce774d66,Sb.0-2,Attachments,0 None
+_56ea8222d2720b69698b4567,SV-98 Bipod,Attachments,0 None
+_56083e1b4bdc2dc8488b4572,SV-98 Rear,Attachments,0 None
+_5c471bd12e221602b4129c3a,SVDS DC,Attachments,0 None
+_5c471be12e221602b66cd9ac,SVDS PG,Attachments,0 None
+_59985a8086f77414ec448d1a,rec.cov. Vityaz,Attachments,0 None
+_59985a6c86f77414ec448d17,rec.cov. Vityaz-SN,Attachments,0 None
+_59d6514b86f774171a068a08,6P1 Sb.5,Attachments,0 None
+_5649b1c04bdc2d16268b457c,6P20 Sb.5,Attachments,0 None
+_55d45d3f4bdc2d972f8b456c,MR-133 Beechwood,Attachments,0 None
+_56deed6ed2720b4c698b4583,MP-153 Polymer,Attachments,0 None
+_578f8778245977358849a9b5,Jacket,Lootable,0 None
+_59387ac686f77401442ddd61,Jacket,Lootable,0 None
+_5914944186f774189e5e76c2,Jacket,Lootable,0 None
+_5937ef2b86f77408a47244b3,Jacket,Lootable,0 None
+_59ef13ca86f77445fd0e2483,Pumpkin,Helmet,5 Super
+_5bc9b156d4351e00367fbce9,Mayo,Food,2 Medium
+_5bd071d786f7747e707b93a3,Jason mask,Vanity,0 None
+_57864a3d24597754843f8721,Jewelry,Parent Element,-1 Blacklist
+_5d00ec68d7ad1a04a067e5be,JPGS5b,Attachments,0 None
+_5a34fbadc4a28200741e230a,JPGS6,Attachments,0 None
+_5addbb825acfc408fb139400,JP MB M14,Attachments,0 None
+_5cc6ea85e4a949000e1ea3c3,Handler,Attachments,0 None
+_5ac4c50d5acfc40019262e87,Visor,Attachments,0 None
+_5df8e085bb49d91fb446d6a8,Ambi SR-25,Attachments,0 None
+_5df8e053bb49d91fb446d6a6,SR-25 Chrg.,Attachments,0 None
+_5dfa3d950dee1b22f862eae0,KAC Folding micro sight Frontsight,Attachments,0 None
+_5dfa3d7ac41b2312ea33362a,KAC Folding micro sight Rear,Attachments,0 None
+_5c17804b2e2216152006c02f,KAC Front,Attachments,0 None
+_5c1780312e221602b66cc189,KAC Rear,Attachments,0 None
+_5d123b70d7ad1a0ee35e0754,KAC Long,Attachments,0 None
+_5d124c0ed7ad1a10d168dd9b,KAC long panel for URX 3/3.1 FDE,Attachments,0 None
+_5dfa3d45dfc58d14537c20b0,KAC Gas.Bl.,Attachments,0 None
+_5dfa3d2b0dee1b22f862eade,PRS QDC,Attachments,0 None
+_56ea8180d2720bf2698b456a,KAC QDC,Attachments,3 High
+_5dfa3cd1b33c0951220c079b,QDC FS 7,Attachments,3 High
+_57da93632459771cb65bf83f,KAC 5.56 Silencer,Attachments,3 High
+_57dbb57e2459774673234890,NT-4,Attachments,3 High
+_5d123a3cd7ad1a004e476058,KAC short panel for URX 3/3.1,Attachments,0 None
+_5d124c01d7ad1a115c7d59fb,KAC short,Attachments,0 None
+_5df8f535bb49d91fb446d6b0,KAC 10 7.62,Attachments,0 None
+_5df8f541c41b2312ea3335e3,KAC 20 7.62,Attachments,0 None
+_5d123b7dd7ad1a004f01b262,KAC stopper panel for URX 3/3.1,Attachments,0 None
+_5d124c1ad7ad1a12227c53a7,KAC stoper,Attachments,0 None
+_5d133067d7ad1a33013f95b4,3 in. URX,Attachments,0 None
+_5c87ca002e221600114cb150,VPG,Attachments,0 None
+_57dc2fa62459775949412633,AKS-74U,Weapons AR,1 Low
+_5839a40f24597726f856b511,AKS-74UB,Weapons AR,1 Low
+_583990e32459771419544dd2,AKS-74UN,Weapons AR,1 Low
+_5e2af29386f7746d4159f077,KEK,Barter Items,0 None
+_543be5e94bdc2df1348b4568,Key,Parent Element,-1 Blacklist
+_5d95d6fa86f77424484aa5e9,RB-PSP2,Keys,5 Super
+_5ad5db3786f7743568421cce,MES,Keys,3 High
+_5ad7247386f7747487619dc3,Goshan,Keys,3 High
+_5d8e15b686f774445103b190,HEPS,Keys,3 High
+_5ad7242b86f7740a6a3abd43,IDEA,Keys,3 High
+_5addaffe86f77470b455f900,KIBA 2,Keys,5 Super
+_5ad5d7d286f77450166e0a89,KIBA,Keys,5 Super
+_5ad5ccd186f774446d5706e9,OLI Office,Keys,0 None
+_5ad7217186f7746744498875,OLI,Keys,3 High
+_5ad5cfbd86f7742c825d6104,Log. Office,Keys,3 High
+_5ad5d64486f774079b080af8,Pharmacy,Keys,3 High
+_5a0f075686f7745bcc42ee12,Key to store safe,Keys,0 None
+_5ad5d20586f77449be26d877,OLI Ut.,Keys,0 None
+_5ad5d49886f77455f9731921,Pow. Ut.,Keys,0 None
+_591afe0186f77431bd616a11,ZB-014,Keys,3 High
+_5c164d2286f774194c5e69fa,Keycard,Parent Element,-1 Blacklist
+_5c99f98d86f7745c314214b3,KeyMechanical,Parent Element,-1 Blacklist
+_59fafd4b86f7745ca07e1232,Keytool,Container,5 Super
+_5cf54404d7f00c108840b2ef,MG-47,Attachments,0 None
+_5e2192a498a36665e8337386,MG-47 Red,Attachments,3 High
+_55d48a634bdc2d8b2f8b456a,SPRM,Attachments,3 High
+_57cd379a24597778e7682ecf,KATT,Weapons M,0 None
+_5a01ad4786f77450561fda02,VDM CS,Attachments,0 None
+_5aa2b9ede5b5b000137b758b,CHat,Vanity,0 None
+_5b46238386f7741a693bcf9c,Kiver FS,Attachments,0 None
+_5645bc214bdc2d363b8b4571,Kiver-M,Helmet,0 None
+_5d0a3a58d7ad1a669c15ca14,1P59,Attachments,0 None
+_5d0a29ead7ad1a0026013f27,1P59 mount,Attachments,0 None
+_5d0a3e8cd7ad1a6f6a3d35bd,1P69,Attachments,0 None
+_5d0a29fed7ad1a002769ad08,1P69 mount,Attachments,0 None
+_5447e1d04bdc2dff2f8b4567,Knife,Parent Element,-1 Blacklist
+_5910959486f7747d96753485,Knife repair and sharpening kit,Unknown,0 None
+_5df8ce05b11454561e39243b,SR-25,Weapons DMR,4 Ultra
+_55d459824bdc2d892f8b4573,KAC RIS,Attachments,0 None
+_5b3f7bf05acfc433000ecf6b,Kochetov Mount,Attachments,0 None
+_59e7711e86f7746cae05fbe1,Kolpak,Helmet,0 None
+_5bd073c986f7747f627e796c,Kotton,Vanity,3 High
+_59fb375986f7741b681b81a6,UFM,Attachments,0 None
+_5c064c400db834001d23f468,QD LT-101,Attachments,0 None
+_5c06595c0db834001a66af6c,LA-5,Attachments,0 None
+_5c1d0f4986f7744bb01837fa,Black Keycard,Keys,5 Super
+_5c1d0c5f86f7744bb2683cf0,Blue Keycard,Keys,5 Super
+_5c1d0dc586f7744baf2e7b79,Green Keycard,Keys,5 Super
+_5c1f79a086f7746ed066fb8f,Lk.ASR,Keys,3 High
+_5c1e2a1e86f77431ea0ea84c,Lk.MO,Keys,3 High
+_5c1e2d1f86f77431e9280bee,Lab Weaps,Keys,3 High
+_5c1d0efb86f7744baf2e7b7b,RED KEYCARD,Keys,5 Super
+_5c1e495a86f7743109743dfb,Violet Keycard,Keys,5 Super
+_5c1d0d6d86f7744bb2683e1f,Yellow Keycard,Keys,5 Super
+_5c59529a2e221602b177d160,OEM 14 inch,Attachments,0 None
+_5cf78720d7f00c06595bc93e,BMD,Attachments,0 None
+_5c878e9d2e2216000f201903,DGN762B,Attachments,0 None
+_5c878ebb2e2216001219d48a,DGNAK47B,Attachments,0 None
+_5b07dd285acfc4001754240d,LAS/TAC 2,Attachments,0 None
+_55818b0e4bdc2dde698b456e,Laser designator,Parent Element,-1 Blacklist
+_5e4abb5086f77406975c9342,Slick,Armor Vest,4 Ultra
+_5e4abc6786f77406812bd572,SFMP,Backpack,4 Ultra
+_544fb5454bdc2df8738b456a,Tool,Special,0 None
+_5c0530ee86f774697952d952,LEDX,Barter Items,5 Super
+_5ae35b315acfc4001714e8b0,LEO M870,Attachments,0 None
+_58d268fc86f774111273f8c2,DP,Attachments,3 High
+_544a3a774bdc2d3a388b4567,HAMR,Attachments,3 High
+_5a37cb10c4a282329a73b4e7,6.5-20x50,Attachments,0 None
+_5b432b2f5acfc4771e1c6622,Shattered,Vanity,0 None
+_5d1b392c86f77425243e98fe,Bulb,Barter Items,0 None
+_5d4405aaa4b9361e6a4e6bd3,TX15 LW Upper,Attachments,0 None
+_5ae30c9a5acfc408fb139a03,Sopmod,Attachments,0 None
+_5888976c24597754281f93f5,DVL-10 M2,Attachments,0 None
+_58889d0c2459775bc215d981,LOBAEV Arms Stock,Attachments,0 None
+_5671435f4bdc2d96058b4569,Locking container,Parent Element,-1 Blacklist
+_5d4405f0a4b9361e6a4e6bd9,Ion Lite,Attachments,0 None
+_5d43021ca4b9362eab4b5e25,TX-15 DML,Weapons AR,4 Ultra
+_5a7ad1fb51dfba0013379715,LW 9,Attachments,0 None
+_5d4042a986f7743185265463,L&F Scr.,Barter Items,0 None
+_566965d44bdc2d814c8b4571,Loot Container,Parent Element,-1 Blacklist
+_5a33b2c9c4a282000c5a9511,RM33,Attachments,0 None
+_572b7fa524597762b747ce82,Lower half-mask,Barter Items,0 None
+_5d6d3be5a4b9361bc73bc763,Aventail,Attachments,0 None
+_5d6d3943a4b9360dbc46d0cc,Cover,Attachments,0 None
+_5d6d3829a4b9361bc8618943,Half Face Shield,Attachments,3 High
+_57864e4c24597754843f8723,Lubricant,Parent Element,-1 Blacklist
+_5b7c710788a4506dec015957,Lucky Scav junkbox,Container,5 Super
+_5b432d215acfc4771e1c6624,LZSh,Helmet,4 Ultra
+_5addcce35acfc4001a5fc635,M14 30 7.62,Attachments,0 None
+_5addbffe5acfc4001714dfac,M14 DCSB,Attachments,0 None
+_5abcbb20d8ce87001773e258,M14 135,Attachments,0 None
+_5addc7ac5acfc400194dbd90,M14 M14ALCS(MOD. 0) stock,Attachments,0 None
+_5addc7005acfc4001669f275,M14 M14ALCS(MOD. 0) stock,Attachments,0 None
+_5addbfd15acfc40015621bde,Mini Scout,Attachments,0 None
+_5addbfbb5acfc400194dbcf7,Ultimak M8,Attachments,0 None
+_5addbfef5acfc400185c2857,UTG 4,Attachments,0 None
+_5addc7db5acfc4001669f279,M14ALCS(MOD. 0) pistol grip for M14,Attachments,0 None
+_5aaf8a0be5b5b00015693243,M1A 20 7.62,Attachments,0 None
+_5addbf175acfc408fb13965b,Archangel,Attachments,0 None
+_5aaf8e43e5b5b00015693246,Socom16,Attachments,0 None
+_5ab24ef9e5b5b00fe93c9209,Socom 16 Upper,Attachments,0 None
+_5bffdd7e0db834001b734a1a,M-2,Weapons M,4 Ultra
+_58d3db5386f77426186285a0,M67,Weapons T,3 High
+_5996f6fc86f7745e585b4de3,M67 Shrapnel,Ammo,0 None
+_5cde739cd7f00c0010373bd3,MOD X Gen.3,Attachments,0 None
+_5d270b3c8abbc3105335cfb8,M700 thread protection cap,Attachments,0 None
+_5d270ca28abbc31ee25ee821,M700 protection cap,Attachments,0 None
+_5cadc2e0ae9215051e1c21e7,9x19 M9A3,Attachments,0 None
+_5cadc55cae921500103bb3be,M9A3 Slide,Attachments,0 None
+_5cadd919ae921500126a77f3,M9A3 FR,Attachments,0 None
+_5cadc390ae921500126a77f1,M9A3 protection cap,Attachments,0 None
+_5447bed64bdc2d97278b4568,Machinegun,Parent Element,-1 Blacklist
+_5937ee6486f77408994ba448,Machinery key,Keys,0 None
+_55818a604bdc2db5418b457e,Mag shaft,Parent Element,-1 Blacklist
+_5448bc234bdc2d3c308b4569,Magazine,Parent Element,-1 Blacklist
+_5c127c4486f7745625356c13,Magbox,Container,3 High
+_590a391c86f774385a33c404,Magnet,Barter Items,0 None
+_588226d124597767ad33f787,AFG blk.,Attachments,0 None
+_588226dd24597767ad33f789,AFG FDE,Attachments,0 None
+_588226e62459776e3e094af7,AFG FG,Attachments,0 None
+_588226ef24597767af46e39c,AFG OD,Attachments,0 None
+_5d135e83d7ad1a21b83f42d8,CTR Stock,Attachments,0 None
+_5d135ecbd7ad1a21c176542e,Magpul CTR Carbine stock FDE,Attachments,0 None
+_5cdeaca5d7f00c00b61c4b70,PRO700,Attachments,0 None
+_5bc09a30d4351e00367fb7c8,Magpul MBUS Gen.2 Frontsight,Attachments,0 None
+_5c18b90d2e2216152142466b,MBUS Front,Attachments,0 None
+_5bc09a18d4351e003562b68e,Magpul MBUS Gen.2 Rearsight,Attachments,0 None
+_5c18b9192e2216398b5a8104,MBUS Rearsight,Attachments,0 None
+_5b7be47f5acfc400170e2dd2,2.5 in. M-LOK,Attachments,0 None
+_5b7be4895acfc400170e2dd5,4.1 in. M-LOK,Attachments,0 None
+_57cffcd624597763133760c5,Magpul M-LOK AFG (Flat Dark Earth) Tactical grip,Attachments,0 None
+_57cffcdd24597763f5110006,Magpul M-LOK AFG (Olive Drab) Tactical grip,Attachments,0 None
+_57cffce524597763b31685d8,AFG M-LOK,Attachments,0 None
+_57cffb66245977632f391a99,Magpul M-LOK AFG Tactical grip,Attachments,0 None
+_57cff947245977638e6f2a19,Magpul MOE AKM HAND GUARD (Black) for AK,Attachments,0 None
+_57cffd8224597763b03fc609,Magpul MOE AKM HAND GUARD (Flat Dark Earth) for AK,Attachments,0 None
+_57cffddc24597763133760c6,Magpul MOE AKM HAND GUARD (Olive Drab) for AK,Attachments,0 None
+_57cffe0024597763b03fc60b,Magpul MOE AKM HAND GUARD (Plum) for AK,Attachments,0 None
+_57cffe20245977632f391a9d,MOE AKM,Attachments,0 None
+_55802f5d4bdc2dac148b458f,Magpul MOE AR-15 pistol grip,Attachments,0 None
+_5d15cf3bd7ad1a67e71518b2,MOE Pistol,Attachments,0 None
+_5a788068c5856700137e4c8f,MOE 870,Attachments,0 None
+_5b30ac585acfc433000eb79c,MOE AK,Attachments,0 None
+_5c78f2792e221600106f4683,MOE SL,Attachments,0 None
+_5c78f26f2e221601da3581d1,Magpul MOE SL mid length M-LOK foregrip for AR15,Attachments,0 None
+_5cdeac5cd7f00c000f261694,Magpul Pistol Grip for Pro 700 Kit,Attachments,0 None
+_5d25a7b88abbc3054f3e60bc,PMAG .308 AC,Attachments,0 None
+_5ce69cbad7f00c00b61c5098,Magpul PMAG .308 AC 5-round M700 magazine,Attachments,0 None
+_59c1383d86f774290a37e0ca,PMAG D-60,Attachments,1 Low
+_5cdeac22d7f00c000f26168f,PRO 700,Attachments,0 None
+_5b7d63b75acfc400170e2f8a,PRS 2 FAL,Attachments,0 None
+_5a33cae9c4a28232980eb086,PRS GEN2,Attachments,0 None
+_5d4406a8a4b9361e4f6eb8b7,Magpul PRS GEN3 Grey stock,Attachments,0 None
+_5d44069ca4b9361ebd26fc37,PRS GEN3,Attachments,0 None
+_58d2912286f7744e27117493,RBP,Attachments,0 None
+_59fc48e086f77463b1118392,RVG blk.,Attachments,0 None
+_5c9a07572e221644f31c4b32,Magpul Zhukov-U HAND GUARD (Black) for AK,Attachments,0 None
+_5c9a1c3a2e2216000e69fb6a,Magpul Zhukov-U HAND GUARD (FDE) for AK,Attachments,0 None
+_5c9a1c422e221600106f69f0,Zhukov-U,Attachments,0 None
+_571a28e524597720b4066567,TT silencer,Attachments,0 None
+_573476d324597737da2adc13,Malboro Cigarettes,Barter Items,0 None
+_567849dd4bdc2d150f8b456e,Map,Parent Element,0 None
+_5780cf7f2459777de4559322,Marked Key,Keys,5 Super
+_5447b6194bdc2d67278b4567,Marksman rifle,Parent Element,-1 Blacklist
+_5c0919b50db834001b7ce3b9,1Sch FShield,Attachments,0 None
+_5c0e842486f77443a74d2976,Killa Face Shield,Attachments,4 Ultra
+_5c091a4e0db834001d5addc8,Maska,Helmet,4 Ultra
+_5c0e874186f7745dc7616606,Killa Helm,Helmet,4 Ultra
+_5751435d24597720a27126d1,NRG Drink,Food,2 Medium
+_5c5db6ee2e221600113fba54,MD CQB,Attachments,0 None
+_5cf8f3b0d7f00c00217872ef,Powermag 20,Attachments,0 None
+_5adf23995acfc400185c2aeb,MC 20-01,Attachments,0 None
+_5649b2314bdc2d79388b4576,ME4,Attachments,0 None
+_5c0111ab0db834001966914d,Cylinder,Attachments,0 None
+_5909d24f86f77466f56e6855,Medbag,Lootable,0 None
+_5909d4c186f7746ad34e805a,Medcase,Lootable,0 None
+_5b4335ba86f7744d2837a264,Bloodset,Barter Items,0 None
+_5448f3ac4bdc2dce718b4569,Medical item,Parent Element,-1 Blacklist
+_57864c8c245977548867e7f1,Medical supplies,Parent Element,-1 Blacklist
+_5d6fe50986f77449d97f7463,Medical Supply Crate,Lootable,0 None
+_5448f39d4bdc2d0a728b4568,Medikit,Parent Element,-1 Blacklist
+_5b800ebc86f774394e230a90,Medium length rail for Hexagon,Attachments,0 None
+_5b8403a086f7747ff856f4e2,Hexagon Med,Attachments,0 None
+_543be5664bdc2dd4348b4569,Meds,Parent Element,0 None
+_5aafbcd986f7745e590fff23,MedCase,Container,5 Super
+_5c07b36c0db834002a1259e9,TD NS Fr.,Attachments,0 None
+_5c07b3850db834002330045b,TD NS Re.,Attachments,0 None
+_5a789261c5856700186c65d3,MT Clamp,Attachments,0 None
+_5d40419286f774318526545f,M. Scissors,Barter Items,0 None
+_5d1b36a186f7742523398433,Fuel,Barter Items,0 None
+_599851db86f77467372f0a18,Stock PP-19-01,Attachments,0 None
+_5de653abf76fdc1ce94a5a2a,215 366,Attachments,0 None
+_5926dad986f7741f82604363,MFIHKMOUNT,Attachments,0 None
+_5947c73886f7747701588af5,BUS,Attachments,0 None
+_5ab8e4ed86f7742d8e50c7fa,MF-UN,Armor Vest,0 None
+_5a339805c4a2826c6e06d73d,MIAD Pistol,Attachments,0 None
+_5c5db6302e2216000e5e47f0,Midwest 10.5 inch,Attachments,0 None
+_5c6d11072e2216000e69d2e4,"Midwest 13.5"" M-LOK foregrip for 416A5",Attachments,0 None
+_5c5db5f22e2216000e5e47e8,Midwest 4.5 inch,Attachments,0 None
+_5c5db5fc2e2216000f1b2842,Midwest 6.5 inch,Attachments,0 None
+_5c6d10fa2e221600106f3f23,Midwest M-LOK,Attachments,0 None
+_5913915886f774123603c392,Checkpoint,Keys,5 Super
+_5d0375ff86f774186372f685,M.Cable,Barter Items,3 High
+_5d0376a486f7747d8050965c,MCB,Barter Items,3 High
+_5c052f6886f7746b1e3db148,SG-C10,Barter Items,0 None
+_5d03784a86f774203e7e0c4d,MGT,Barter Items,3 High
+_5d0378d486f77420421a5ff4,Filter,Barter Items,0 None
+_5d0377ce86f774186372f689,Iridium,Barter Items,3 High
+_5b4327aa5acfc400175496e0,Panama,Vanity,0 None
+_5bd0716d86f774171822ef4b,Misha Mayorov's mask,Vanity,0 None
+_56eabcd4d2720b66698b4574,MK12,Attachments,0 None
+_59e7635f86f7742cbf2c1095,3M,Armor Vest,0 None
+_56eabf3bd2720b75698b4569,MOE Carbine stock,Attachments,0 None
+_58d2946386f774496974c37e,MOE Carbine stock FDE,Attachments,0 None
+_58d2946c86f7744e271174b5,MOE Carbine stock FG,Attachments,0 None
+_58d2947686f774485c6a1ee5,MOE Stock,Attachments,0 None
+_58d2947e86f77447aa070d53,MOE Carbine stock SG,Attachments,0 None
+_59e5f5a486f7746c530b3ce2,6P2 Sb-11,Attachments,0 None
+_59e61eb386f77440d64f5daf,Molot 7.62x39 Vepr KM / VPO-136 muzzlebrake & compensator,Attachments,0 None
+_59e6318286f77444dd62c4cc,Molot bak.,Attachments,0 None
+_59e6449086f7746c9f75e822,Molot AKM type dust cover,Attachments,0 None
+_59e649f986f77411d949b246,AKM Type,Attachments,0 None
+_5cbdc23eae9215001136a407,Molot Drum,Attachments,0 None
+_5c503d0a2e221602b542b7ef,VPO-101,Attachments,0 None
+_5de652c31b7e3716273428be,VPO-215,Weapons SR,0 None
+_59e6227d86f77440d64f5dc2,VPO-136,Attachments,0 None
+_59e89d0986f77427600d226e,Molot wooden VPO-209 stock,Attachments,0 None
+_5b432f3d5acfc4704b4a1dfb,Momex,Vanity,0 None
+_543be5dd4bdc2deb348b4569,Money,Parent Element,-1 Blacklist
+_59fb016586f7746d0d4b423a,MCase,Container,5 Super
+_5d2dc3e548f035404a1a4798,Monstr. 2x32,Attachments,0 None
+_544fb3f34bdc2d03748b456a,Morphine,Meds,2 Medium
+_5bfd297f0db834001a669119,Mosin Inf.,Weapons SR,0 None
+_5ae08f0a5acfc408fb1398a1,Mosin,Weapons SR,0 None
+_5bfd4c980db834001b73449d,Mosin rs.,Attachments,0 None
+_5bfd384c0db834001a6691d3,Mosin carbine stock,Attachments,0 None
+_5ae099875acfc4001714e593,Mosin fs,Attachments,0 None
+_5ae099925acfc4001a5fc7b3,Mosin Rearsight,Attachments,0 None
+_5bfd37c80db834001d23e842,Mosin sniper carbine stock,Attachments,0 None
+_5af04c0b86f774138708f78e,Motor Controller 1,Quest,0 None
+_5b4c72b386f7745b453af9c0,Motor Controller 2,Quest,0 None
+_5b4c72c686f77462ac37e907,Motor Controller 3,Quest,0 None
+_55818b224bdc2dde698b456f,Mount,Parent Element,-1 Blacklist
+_54491c4f4bdc2db1078b4568,MP-133,Weapons SG,0 None
+_56dee2bdd2720bc8328b4567,MP-153,Weapons SG,0 None
+_5882163e24597758206fee8c,MP153x5,Attachments,0 None
+_5882163824597757561aa922,MP153x6,Attachments,0 None
+_5882163224597757561aa920,MP153x7,Attachments,0 None
+_56deeefcd2720bc8328b4568,MP153x8,Attachments,0 None
+_56deee15d2720bee328b4567,MP-153 foreend cap,Attachments,0 None
+_576a5ed62459771e9c2096cb,9x19 MP-443,Attachments,0 None
+_5926c32286f774616e42de99,MP5 Cocking,Attachments,0 None
+_5d2f2d5748f03572ec0c0139,MP5k hnd.,Attachments,0 None
+_5a9548c9159bd400133e97b3,TL-99,Attachments,0 None
+_5926c36d86f77467a92a8629,MP5WT,Attachments,0 None
+_5d2f259b48f0355a844acd74,MP5k,Attachments,0 None
+_5926d33d86f77410de68ebc0,MP5SD suppressor,Attachments,0 None
+_5926f34786f77469195bfe92,MP5SD HG,Attachments,0 None
+_5ba26b01d4351e0085325a51,MP7 Front Flip Up,Attachments,0 None
+_5ba26b17d4351e00367f9bdd,MP7 Rearsight Flip Up,Attachments,0 None
+_5bead2e00db834001c062938,MPL-50,Weapons M,0 None
+_5c5db6652e221600113fba51,MPX with TTI Base pad +11 41-round 9x19 magazine,Attachments,0 None
+_58aeac1b86f77457c419f475,MPX-SD,Attachments,0 None
+_5c093db286f7740a1b2617e3,Holodilnick,Container,3 High
+_590c5f0d86f77413997acfab,MRE,Food,2 Medium
+_5991b51486f77447b112d44f,MS2000,Special,0 None
+_5d5e7d28a4b936645d161203,TC-2001,Helmet,4 Ultra
+_5d5e9c74a4b9364855191c40,TC-2002,Helmet,4 Ultra
+_5e4bfc1586f774264f7582d3,TC 800,Helmet,4 Ultra
+_5aa2ba71e5b5b000137b758f,Sordin,Headset,4 Ultra
+_5a7893c1c585673f2b5c374d,mtu028sg,Attachments,0 None
+_5a16b7e1fcdbcb00165aa6c9,Multi-hit ballistic face shield-visor for Ops-Core FAST helmet (40/40),Attachments,4 Ultra
+_5a7c147ce899ef00150bd8b8,VP-09,Attachments,0 None
+_5448fe394bdc2d0d028b456c,Muzzle device,Parent Element,-1 Blacklist
+_5cdd7685d7f00c000f260ed2,SHREWD,Attachments,0 None
+_5bbdb8bdd4351e4502011460,Atlas-7,Attachments,0 None
+_5cdd7693d7f00c0010373aa5,M-11,Attachments,0 None
+_5c0e774286f77468413cc5b2,Mystery Ranch Blackjack 50 backpack (multicam),Backpack,4 Ultra
+_56e294cdd2720b603a8b4575,Mystery Ranch Terraplane Backpack,Backpack,4 Ultra
+_59db3a1d86f77429e05b4e92,GRAL-S,Attachments,0 None
+_5addbb6e5acfc408fb1393fd,National Match MB,Attachments,0 None
+_5dfe6104585a0c3e995c7b82,ADO P4,Attachments,0 None
+_5649a2464bdc2d91118b45a8,MPR45,Attachments,3 High
+_5cc9c20cd7f00c001336c65d,TBL,Attachments,0 None
+_5b4326435acfc433000ed01d,Mask,Vanity,0 None
+_5aa66be6e5b5b0214e506e97,NF 7-35x56,Attachments,0 None
+_5a2c3a9486f774688b05e574,NightVision,Parent Element,-1 Blacklist
+_5d40425986f7743185265461,Nippers,Barter Items,0 None
+_5d1b2ffd86f77425243e8d17,NIXXOR,Barter Items,0 None
+_5d02676dd7ad1a049e54f6dc,Nordic Corvette 5.56x45 compensator for AR-15,Attachments,0 None
+_5d02677ad7ad1a04a15c0f95,Corvette,Attachments,0 None
+_5a16b8a9fcdbcb00165aa6ca,Norotos Titanium Advanced Tactical Mount,Attachments,0 None
+_5c07a8770db8340023300450,Gen.3,Attachments,0 None
+_56ea6fafd2720b844b8b4593,KX3,Attachments,0 None
+_5d00ede1d7ad1a0940739a76,N6 10.5 inch,Attachments,0 None
+_5d00ef6dd7ad1a0940739b16,N6 Split,Attachments,0 None
+_5cf638cbd7f00c06595bc936,NPZ USP-1 4x scope,Attachments,0 None
+_5a7c74b3e899ef0014332c29,NSPU-M,Attachments,0 None
+_5ba36f85d4351e0085325c81,NSPU-M eyecup,Attachments,0 None
+_5cdeb229d7f00c000e7ce174,"NSV ""Utes"" 12.7x108 machine gun",Weapons HMG,0 None
+_5d5d940f86f7742797262046,Black BP,Backpack,4 Ultra
+_5e42c81886f7742a01529f57,#11SR,Keys,5 Super
+_5e42c83786f7742a021fdf3c,#21WS,Keys,5 Super
+_5a0dc45586f7742f6b0b73e3,San.104,Keys,5 Super
+_5a0ea64786f7741707720468,San.107,Keys,3 High
+_5a0ea69f86f7741cd5406619,San.108,Keys,3 High
+_5a0dc95c86f77452440fc675,San. 112,Keys,5 Super
+_5d0379a886f77420407aa271,OFZ,Barter Items,3 High
+_570fd79bd2720bc7458b4583,Dovetail,Attachments,0 None
+_57486e672459770abd687134,OKP-7 reflex sight (Dovetail),Attachments,0 None
+_5bc9c377d4351e3bac12251b,Firesteel,Barter Items,3 High
+_5ae9a18586f7746e381e16a3,OLI cargo manifests,Quest,0 None
+_5ae9a25386f7746dd946e6d9,OLI cargo route documents,Quest,0 None
+_5af0534a86f7743b6f354284,Ophthalmoscope,Barter Items,3 High
+_5a16ba61fcdbcb098008728a,Mandible,Attachments,0 None
+_5a154d5cfcdbcb001a3b00da,Fast MT,Helmet,4 Ultra
+_5ac8d6885acfc400180ae7b0,Ops-Core Fast MT SUPER HIGH CUT Helmet Tan,Helmet,4 Ultra
+_5a16b9fffcdbcb0176308b34,RAC,Headset,4 Ultra
+_5a16badafcdbcb001865f72d,SArmor,Attachments,0 None
+_5a16b672fcdbcb001912fa83,FVisor,Attachments,4 Ultra
+_57c5ac0824597754771e88a9,3-24x42,Attachments,0 None
+_5b7bed205acfc400161d08cc,Fal Handguard,Attachments,0 None
+_5df35e59c41b2312ea3334d5,T-5000 Hg.,Attachments,0 None
+_5df25d3bfd6b4e6e2276dc9a,Orsis handguard for T-5000,Attachments,0 None
+_5df35ea9c41b2312ea3334d8,Orsis long,Attachments,0 None
+_5df35eb2b11454561e3923e2,Orsis med.,Attachments,0 None
+_5df35e970b92095fd441e4d2,T-5000 opt.,Attachments,0 None
+_5df24cf80dee1b22f862e9bc,T-5000,Weapons SR,4 Ultra
+_5df38a5fb74cd90030650cb6,T-5000 Pg.,Attachments,0 None
+_5df35e7f2a78646d96665dd4,T-5000M MBr,Attachments,0 None
+_5df35ddddfc58d14537c2036,Orsis T-5000M Stock,Attachments,0 None
+_5d4041f086f7743cac3f22a7,Ortodontox,Barter Items,0 None
+_590c745b86f7743cc433c5f2,Other,Parent Element,-1 Blacklist
+_59e3556c86f7741776641ac2,Bleach,Barter Items,0 None
+_5bffe7c50db834001d23ece1,axelson,Attachments,0 None
+_5c920e902e221644f31c3c99,P226 Extended magazine 9x19,Attachments,0 None
+_56d59948d2720bb7418b4582,9x19 P226,Attachments,0 None
+_5c010a700db834001d23ef5d,Scorpion P226,Attachments,0 None
+_5c0125fc0db834001a669aa3,Legion P226,Attachments,0 None
+_5c0009510db834001966907f,Stainless elite P226,Attachments,0 None
+_587de5ba2459771c0f1e8a58,P226 protection cap,Attachments,0 None
+_56d59856d2720bd8418b456a,P226R,Weapons P,0 None
+_5648a7494bdc2d9d488b4583,PACA,Attachments,0 None
+_5a7b4960e899ef197b331a2d,Pach RG,Attachments,0 None
+_5e2af02c86f7746d420957d4,Chlorine,Barter Items,0 None
+_575146b724597720a27126d5,Milk,Food,2 Medium
+_57347d90245977448f7b7f65,Oatflakes,Food,0 None
+_59e3577886f774176a362503,Sugar,Food,0 None
+_5ac620eb86f7743a8e6e0da0,Package with graphics cards,Quest,0 None
+_5d53f4b7a4b936793d58c780,PAG-17 scope,Attachments,0 None
+_59e3596386f774176c10a2a2,Paid,Barter Items,0 None
+_59fafc5086f7740dbe19f6c3,AK30,Attachments,0 None
+_59fafc9386f774067d462453,"Palm US AK30 7.62x39 magazine for AK and compatibles, 30-round capacity (FDE)",Attachments,0 None
+_5c12688486f77426843c7d32,Paracord,Barter Items,3 High
+_56e0598dd2720bb5668b45a6,PB,Weapons P,0 None
+_5a0d63621526d8dba31fe3bf,PBS-1,Attachments,0 None
+_57ffb0e42459777d047111c5,PBS-4,Attachments,0 None
+_59139c2186f77411564f8e42,PC,Lootable,0 None
+_573477e124597737dd42e191,CPU,Barter Items,0 None
+_5645bcc04bdc2d363b8b4572,ComTac2,Headset,4 Ultra
+_5c165d832e2216398b5a7e36,Tactical Sport,Headset,0 None
+_5e54f79686f7744022011103,Pestily,Vanity,3 High
+_5addbbb25acfc40015621bd9,Phantom,Attachments,0 None
+_5d1b313086f77425227d1678,Relay,Barter Items,0 None
+_5d03775b86f774203e7e0c4b,AESA,Barter Items,3 High
+_5d357d6b86f7745b606e3508,Photo album,Quest,0 None
+_59faff1d86f7746c51718c9c,0.2BTC,Barter Items,3 High
+_59e366c186f7741778269d85,Plex,Barter Items,0 None
+_57acb6222459771ec34b5cb0,043-02,Attachments,0 None
+_5d1b3a5d86f774252167ba22,Meds,Barter Items,0 None
+_59e763f286f7742ee57895da,Pilgrim,Backpack,4 Ultra
+_5447b5cf4bdc2d65278b4567,Pistol,Parent Element,-1 Blacklist
+_567143bf4bdc2d1a0f8b4567,Case,Container,0 None
+_55818a684bdc2ddd698b456d,Pistol grip,Parent Element,-1 Blacklist
+_5894a51286f77426d13baf02,MPX p. grip,Attachments,0 None
+_56083a334bdc2dc8488b4571,133/153 Pl.g.,Attachments,0 None
+_56083be64bdc2d20478b456f,133/153 Pl.s.,Attachments,0 None
+_5c052cea86f7746b2101e8d8,Plastic suitcase,Lootable,0 None
+_590c2b4386f77425357b6123,Pliers,Barter Items,0 None
+_5af04b6486f774195a3ebb49,Elite,Barter Items,0 None
+_579204f224597773d619e051,PM (t) 9x18PM pistol,Weapons P,0 None
+_5448bd6b4bdc2dfc2f8b4569,PM,Weapons P,0 None
+_55d485be4bdc2d962f8b456f,PM/PPSH,Attachments,0 None
+_5e21a3c67e40bd02257a008a,Pmag30 Banana,Attachments,0 None
+_5aaa4194e5b5b055d06310a5,Pmag30 AK74 GEN M3,Attachments,0 None
+_5aaa5e60e5b5b000140293d6,GEN M3 10,Attachments,0 None
+_5448c1d04bdc2dff2f8b4569,GEN M3 20,Attachments,0 None
+_5aaa5dfee5b5b000140293d3,PMAG GEN M3 30 5.56x45 STANAG 30-round magazine,Attachments,0 None
+_5d1340b3d7ad1a0b52682ed7,PMAG GEN M3 30 5.56x45 STANAG 30-round magazine,Attachments,0 None
+_5d1340cad7ad1a0b0b249869,GEN M3 30,Attachments,0 None
+_55802d5f4bdc2dac148b458e,PMAG GEN M3 W 30 5.56x45 STANAG 30-round magazine,Attachments,0 None
+_5a718da68dc32e000d46d264,G PMAG 21,Attachments,0 None
+_5a3501acc4a282000d72293a,PMAG 20 7.62,Attachments,0 None
+_5bffd7ed0db834001d23ebf9,DTK-TT,Attachments,0 None
+_5bffcf7a0db83400232fea79,TT-206,Attachments,0 None
+_5c5db6f82e2216003a0fe914,ULSS,Attachments,0 None
+_550ad14d4bdc2dd5348b456c,PMS,Parent Element,-1 Blacklist
+_5c0695860db834001b735461,PNV-10T dovetail adapter,Attachments,0 None
+_5c0696830db834001d23f5da,PNV-10T,Attachments,0 None
+_557596e64bdc2dc2118b4571,Pockets,Parent Element,-1 Blacklist
+_557ffd194bdc2d28148b457f,Pockets,Unknown,0 None
+_5af99e9186f7747c447120b8,Pockets,Unknown,0 None
+_5aa2b8d7e5b5b00014028f4a,Police,Vanity,0 None
+_5e2af41e86f774755a234b67,Cordura,Barter Items,0 None
+_5cbda392ae92155f3c17c39f,AK polym,Attachments,0 None
+_5648b1504bdc2d9d488b4584,6P20 Sb.9,Attachments,0 None
+_5cbda9f4ae9215000e5b9bfc,Polymer AK-74 foregrip (6P20 Sb.9) Plum,Attachments,0 None
+_5cdaa99dd7f00c002412d0b2,ASh-12 polym,Attachments,0 None
+_576a63cd2459771e796e0e11,P.grip.MP443,Attachments,0 None
+_5cadc431ae921500113bb8d5,PGripM9A3,Attachments,0 None
+_5b7d645e5acfc400170e2f90,SA-58 Humpback,Attachments,0 None
+_5ac50c185acfc400163398d4,6P34 Sb.15,Attachments,0 None
+_5c471b5d2e221602b21d4e14,SVDS Stock,Attachments,0 None
+_5c471c6c2e221602b66cd9ae,SVDS FG,Attachments,0 None
+_5a7afa25e899ef00135e31b0,PS9,Attachments,0 None
+_5b4329075acfc400153b78ff,Pompon,Vanity,0 None
+_5448bf274bdc2dfc2f8b456a,Port. Container,Parent Element,-1 Blacklist
+_5780d07a2459777de4559324,Cabin key,Keys,0 None
+_5938144586f77473c2087145,Portable cabin key of customs Factory zone,Keys,0 None
+_5c052e6986f7746b207bc3c9,Defibrillator,Barter Items,3 High
+_57347c2e24597744902c94a1,PSU,Barter Items,0 None
+_5af0561e86f7745f5f3ad6ac,Powerbank,Barter Items,0 None
+_59e36c6f86f774176c10a2a7,Cord,Barter Items,0 None
+_59ccd11386f77428f24a488f,PP-19-01 g.tube,Attachments,0 None
+_5998517986f7746017232f7e,p. grip PP-19-01,Attachments,0 None
+_57f4c844245977379d5c14d1,PP-9 Klin,Weapons SMG,0 None
+_57d14d2524597714373db789,"PP-91 ""Kedr""",Weapons SMG,0 None
+_57f3c6bd24597738e730fa2f,PP-91-01 Kedr-B,Weapons SMG,0 None
+_57f3c8cc2459773ec4480328,PP-91-01 suppressor,Attachments,0 None
+_57f3c7e024597738ea4ba286,PP-91-01 muzzlethread,Attachments,0 None
+_5d1b327086f7742525194449,Gauge,Barter Items,3 High
+_5c1cdd512e22161b267d91ae,Prism 2.5x,Attachments,0 None
+_590a3b0486f7743954552bdb,Circuit board,Barter Items,0 None
+_577e1c9d2459773cd707c525,Paper,Barter Items,0 None
+_5cdeac42d7f00c000d36ba73,PRO700 stock,Attachments,0 None
+_5d25af8f8abbc3055079fec5,AA-70 10,Attachments,0 None
+_5cf12a15d7f00c05464b293f,AA-70 20,Attachments,0 None
+_5c5970672e221602b21d7855,AALVX 35,Attachments,0 None
+_5c6175362e221600133e3b94,AK-A-16,Attachments,0 None
+_5bae13bad4351e00320204af,Archangel OPFOR PRS,Attachments,0 None
+_5cf13123d7f00c1085616a50,Archangel M700,Attachments,0 None
+_587df583245977373c4f1129,SKS-A5,Attachments,0 None
+_5c0e530286f7747fa1419862,Propital,Meds,2 Medium
+_5c0d2727d174af02a012cf58,Djeta,Helmet,0 None
+_57f3a5ae2459772b0e0bf19e,PSO eyecup,Attachments,0 None
+_5d19cd96d7ad1a4a992c9f52,PTR Tri-Rail MP5 handguard,Attachments,0 None
+_5b3f7c1c5acfc40dc5296b1d,PU 3.5x,Attachments,0 None
+_5b3f7c005acfc4704b4a1de8,PU 3.5x ring,Attachments,0 None
+_5c0673fb0db8340023300271,SG-919 20,Attachments,0 None
+_5c0672ed0db834001b7353f3,SG-919 30,Attachments,0 None
+_5d1b33a686f7742523398398,Superwater,Food,2 Medium
+_5943ee5a86f77413872d25ec,PWS CQB,Attachments,0 None
+_5943eeeb86f77412d6384f6b,PWS CQB 74,Attachments,0 None
+_5c0d32fcd174af02a1659c75,Proximity,Vanity,0 None
+_5d1c774f86f7746d6620f8db,Helix,Barter Items,0 None
+_55818b1d4bdc2d5b648b4572,Rail covers,Parent Element,-1 Blacklist
+_57347baf24597738002c6178,RAM,Barter Items,0 None
+_5b2240bf5acfc40dc528af69,Raptor Charge,Attachments,0 None
+_5d44334ba4b9362b346d1948,Raptor C.Handle,Attachments,0 None
+_5a788169c5856700142fdd9e,Raptor,Attachments,0 None
+_5d6fd13186f77424ad2a8c69,Ration Supply Crate,Lootable,0 None
+_5e54f62086f774219b0f1937,Raven,Barter Items,0 None
+_5d6d2ef3a4b93618084f58bd,Aviator,Vanity,0 None
+_5aa2b9aee5b5b00015693121,RayBench,Vanity,0 None
+_5c079ec50db834001966a706,Razor A. TT,Attachments,0 None
+_5d80c78786f774403a401e3e,RB-AK,Keys,3 High
+_5d80c88d86f77440556dbf07,RB-AM,Keys,3 High
+_5d80c66d86f774405611c7d6,RB-AO,Keys,3 High
+_5d80c60f86f77440373c4ece,RB-BK,Keys,3 High
+_5d8e3ecc86f774414c78d05e,RB-GN,Keys,5 Super
+_5d8e0db586f7744450412a42,RB-KORL,Keys,3 High
+_5d8e0e0e86f774321140eb56,RB-KPRL,Keys,3 High
+_5d947d4e86f774447b415895,RB-KSM,Keys,3 High
+_5d80c93086f7744036212b41,RB-MP11,Keys,3 High
+_5d80c95986f77440351beef3,RB-MP12,Keys,3 High
+_5d80cbd886f77470855c26c2,RB-MP13,Keys,3 High
+_5d80ca9086f774403a401e40,RB-MP21,Keys,3 High
+_5d80cab086f77440535be201,RB-MP22,Keys,5 Super
+_5d80c6c586f77440351beef1,RB-OB,Keys,3 High
+_5d80c8f586f77440373c4ed0,RB-OP,Keys,5 Super
+_5d80ccac86f77470841ff452,RB-ORB1,Keys,3 High
+_5d80ccdd86f77474f7575e02,RB-ORB2,Keys,3 High
+_5d80cd1a86f77402aa362f42,RB-ORB3,Keys,3 High
+_5d80cb8786f774405611c7d9,RB-PP,Keys,0 None
+_5d80cb5686f77440545d1286,RB-PS81,Keys,5 Super
+_5d95d6be86f77424444eb3a7,RB-PS82,Keys,3 High
+_5d80cb3886f77440556dbf09,RB-PSP1,Keys,3 High
+_5da5cdcd86f774529238fb9b,RB-RH,Keys,3 High
+_5da46e3886f774653b7a83fe,RB-RS,Keys,3 High
+_5d947d3886f774447b415893,RB-SMP,Keys,3 High
+_5d9f1fa686f774726974a992,RB-ST,Keys,3 High
+_5d80c6fc86f774403a401e3c,RB-TB,Keys,3 High
+_5d80c62a86f7744036212b3f,RB-VO,Keys,3 High
+_5a2a57cfc4a2826c6e06d44a,RDG-2B,Weapons T,1 Low
+_5a1eacb3fcdbcb09800872be,REAP-IR eyecup,Attachments,0 None
+_5ae30bad5acfc400185c2dc4,CarryHandle,Attachments,0 None
+_5caf1691ae92152ac412efb9,ASh-12 Carry,Attachments,0 None
+_55818a304bdc2db5418b457d,Receiver,Parent Element,-1 Blacklist
+_590a358486f77429692b2790,RecBatt,Barter Items,0 None
+_5bbde409d4351e003562b036,Recoil pad from Aim Sports for Mosin rifle,Attachments,0 None
+_5a0c59791526d8dba737bba7,6G15U,Attachments,0 None
+_5c0126f40db834002a125382,RR,Weapons M,5 Super
+_5c0e534186f7747fa1419867,eTG-c,Meds,2 Medium
+_5b7d678a5acfc4001a5c4022,DS SA-58,Attachments,0 None
+_5ae0973a5acfc4001562206c,Mos.Std.,Attachments,0 None
+_5bfd4cbe0db834001b73449f,514mm Mosin barrel,Attachments,0 None
+_5ae09bff5acfc4001562219d,730mm Mosin barrel,Attachments,0 None
+_5b7d6c105acfc40015109a5f,FAL DC,Attachments,0 None
+_5ae096d95acfc400185c2c81,Mosin Stock,Attachments,0 None
+_5de910da8b6c4240ba2651b5,MP9 stock,Attachments,0 None
+_5bcf0213d4351e0085327c17,A1 stock,Attachments,0 None
+_5bd704e7209c4d00d7167c31,A2 stock,Attachments,0 None
+_5c4eecc32e221602b412b440,SV-98 sil.,Attachments,0 None
+_5c503af12e221602b177ca02,VPO-101 stock,Attachments,0 None
+_5de655be4a9f347bc92edb88,VPO-215 stock,Attachments,0 None
+_5a329052c4a28200741e22d3,RSASS,Attachments,0 None
+_5bfea6e90db834001b7347f3,M700,Weapons SR,4 Ultra
+_5a7828548dc32e5a9c28b516,M870,Weapons SG,0 None
+_5a367e5dc4a282000e49738f,RSASS 7.62,Weapons DMR,4 Ultra
+_5c0102aa0db834001b734ba1,2 in. RAHG,Attachments,0 None
+_5c0102b20db834001d23eebc,4 in. RAHG,Attachments,0 None
+_5a7880d0c5856700142fdd9d,SPS M870,Attachments,0 None
+_560838c94bdc2d77798b4569,RTC 12ga,Attachments,0 None
+_5e2aef7986f7746d3f3c33f5,Repellent,Barter Items,0 None
+_59e7715586f7742ee5789605,Resp,Vanity,0 None
+_5448be9a4bdc2dfd2f8b456a,RGD-5,Weapons T,1 Low
+_5996f6cb86f774678763a6ca,RGD-5 Shrapnel,Ammo,1 Low
+_5e2af4a786f7746d3f3c3400,Ripstop,Barter Items,1 Low
+_59faf7ca86f7740dbe19f6c2,Roler,Barter Items,3 High
+_5a9fbb74a2750c0032157181,Rotor43 .366TKM,Attachments,0 None
+_5a9fbb84a2750c00137fa685,Rotor43 5.56x45,Attachments,1 Low
+_5a9fbacda2750c00141e080f,Rotor43 7.62x39,Attachments,1 Low
+_5e01ea19e9dc277128008c0b,Rotor43 7.62x54,Attachments,1 Low
+_5a9fb739a2750c003215717f,Rotor43 9x19,Attachments,1 Low
+_57ee59b42459771c7b045da5,Kedr RIS,Attachments,0 None
+_5e01e9e273d8eb11426f5bc3,SVD-S thr.,Attachments,0 None
+_5449016a4bdc2d6f028b456f,Roubles,Money,0 None
+_5aa2b923e5b5b000137b7589,RGlass,Vanity,0 None
+_5d1b31ce86f7742523398394,R-pliers,Barter Items,0 None
+_5beed0f50db834001c062b12,RPK-16,Weapons LMG,4 Ultra
+_5cf4fb76d7f00c065703d3ac,Pillau,Attachments,0 None
+_5b39ffbd5acfc47a8773fb06,Hogue P226,Attachments,0 None
+_544fb62a4bdc2dfb738b4568,Pineapp.Jc.,Food,2 Medium
+_57347d3d245977448f7b7f61,Croutons,Food,0 None
+_5addba3e5acfc4001669f0ab,.062 blade,Attachments,0 None
+_5aafa49ae5b5b00015042a58,.125 blade,Attachments,0 None
+_578f8782245977354405a1e3,Safe,Lootable,0 None
+_5dfcd0e547101c39625f66f9,SAG MK1,Attachments,0 None
+_5c78f2612e221600114c9f0d,SAI QD Rail,Attachments,0 None
+_5c78f2492e221600114c9f04,"SAI 14.5"" QD Rail foregrip for AR15",Attachments,0 None
+_5c78f2882e22165df16b832e,Jail Break,Attachments,0 None
+_5a966f51a2750c00156aacf6,SAI-02,Attachments,0 None
+_576165642459773c7a400233,Saiga-12,Weapons SG,0 None
+_59f9cabd86f7743a10721f46,Saiga-9,Weapons SMG,0 None
+_544fb45d4bdc2dee738b4568,Salewa,Meds,2 Medium
+_59e3606886f77417674759a5,NaCl,Barter Items,0 None
+_5a80a29286f7742b25692012,Resort,Tools,0 None
+_5a43957686f7742a2c2f11b0,Santa's hat,Vanity,4 Ultra
+_5a294d7c86f7740651337cf9,SAS disk with drones,Quest,0 None
+_5a294d8486f774068638cd93,SAS disk with drones,Quest,0 None
+_590c37d286f77443be3d7827,SAS,Barter Items,3 High
+_5bfd4cc90db834001d23e846,200mm Mosin barrel,Attachments,0 None
+_5bfd4cd60db834001c38f095,220mm Mosin barrel,Attachments,0 None
+_5bfd36290db834001966869a,Sawn off sniper Mosin Stock,Attachments,0 None
+_5bfd36ad0db834001c38ef66,Sawn off Mosin stock,Attachments,0 None
+_57616a9e2459773c7a400234,Sb.5,Attachments,0 None
+_56e335e4d2720b6c058b456d,ScavBP,Backpack,0 None
+_572b7adb24597762ae139821,Scav Vest,Chest Rig,0 None
+_5d40412b86f7743cb332ac3a,Shampoo,Barter Items,0 None
+_55818ae44bdc2dde698b456c,Scope,Parent Element,-1 Blacklist
+_5de6558e9f98ac2bc65950fc,215 mount,Attachments,0 None
+_57347c77245977448d35f6e2,Screw nut,Barter Items,0 None
+_590c2d8786f774245b1f03f3,Screwdriver,Barter Items,0 None
+_5b057b4f5acfc4771e1bd3e9,SE-5,Attachments,0 None
+_591093bb86f7747caa7bb2ee,Sealed letter,Quest,0 None
+_5939e9b286f77462a709572c,Sealed letter,Quest,0 None
+_566168634bdc2d144c8b456c,Searchable item,Parent Element,-1 Blacklist
+_5939e5a786f77461f11c0098,Secure case for documents 0013,Quest,0 None
+_5938188786f77474f723e87f,Secure case for documents 0031,Quest,0 None
+_593965cf86f774087a77e1b6,Secure case for documents 0048,Quest,0 None
+_5938878586f7741b797c562f,Secure case for documents 0052,Quest,0 None
+_5a6860d886f77411cd3a9e47,Secure case for documents 0060,Quest,0 None
+_591092ef86f7747bb8703422,Secure case for documents n.0022,Quest,0 None
+_544a11ac4bdc2d470e8b456a,Secure container Alpha,Port. Container,5 Super
+_5857a8b324597729ab0a0e7d,Secure container Beta,Port. Container,5 Super
+_5c0a794586f77461c458f892,Secure container Boss,Unknown,0 None
+_59db794186f77448bc595262,Secure container Epsilon,Port. Container,5 Super
+_5857a8bc2459772bad15db29,Secure container Gamma,Port. Container,5 Super
+_5c093ca986f7740a1867ab12,Secure container Kappa,Port. Container,5 Super
+_590c621186f774138d11ea29,Flash drive,Barter Items,3 High
+_5a78813bc5856700186c4abe,SGA M870,Attachments,0 None
+_5a718f958dc32e00094b97e7,G 50rnd,Attachments,0 None
+_5ab8f85d86f7745cd93a1cf5,Shemagh,Vanity,0 None
+_5b4325355acfc40019478126,var. 2,Vanity,0 None
+_5a8036fb86f77407252ddc02,Shoreline,Tools,0 None
+_5b800ed086f7747baf6e2f9e,Hex.,Attachments,0 None
+_5b84038986f774774913b0c1,Short length rail for Hexagon (Anodized Red),Attachments,0 None
+_5447b6094bdc2dc3278b4567,Shotgun,Parent Element,-1 Blacklist
+_5c08f87c0db8340019124324,SHPM,Helmet,0 None
+_5943d9c186f7745a13413ac9,Shrapnel,Ammo,0 None
+_5e54f76986f7740366043752,Shroud,Vanity,3 High
+_5d08d21286f774736e7c94c3,KSH,Keys,3 High
+_590c35a486f774273531c822,Shus,Barter Items,0 None
+_5c791e872e2216001219c40a,"SI ""Cobra tactical"" tactical grip",Attachments,0 None
+_5c793fb92e221644f31bfb64,SI blk bfrtb,Attachments,1 Low
+_5c793fc42e221600114ca25d,Advanced Tube,Attachments,1 Low
+_5cf50850d7f00c056e24104c,SI Enhanced pistol grip for AK,Attachments,0 None
+_5cf508bfd7f00c056e24104e,EPG AK,Attachments,0 None
+_5c1a1cc52e221602b3136e3d,M Frame,Vanity,0 None
+_5c793fde2e221601da358614,Viper Mod.1,Attachments,0 None
+_57adff4f24597737f373b6e6,BRAVO4,Attachments,3 High
+_58949edd86f77409483e16a9,SIG double latch charging handle for MPX,Attachments,0 None
+_5894a73486f77426d259076c,SIG Front Flip Up,Attachments,0 None
+_5894a81786f77427140b8347,SIG Rearsight Flip Up,Attachments,0 None
+_58948c8e86f77409493f7266,MPX,Weapons SMG,4 Ultra
+_58a56f8d86f774651579314c,2In. Gen1,Attachments,0 None
+_58a5c12e86f7745d585a2b9e,4In. Gen1,Attachments,0 None
+_58ac1bf086f77420ed183f9f,SIG F.K.,Attachments,0 None
+_57c9a89124597704ee6faec1,Sig Sauer FDE pistol grip for P226 (Combat),Attachments,0 None
+_5b31163c5acfc400153b71cb,Rom. Base,Attachments,0 None
+_56d5a77ed2720b90418b4568,Sig #8R,Attachments,0 None
+_56d5a407d2720bb3418b456b,P226 Slide,Attachments,0 None
+_5b3116595acfc40019476364,Romeo 4,Attachments,0 None
+_56d5a661d2720bd8418b456b,Sig #8FR,Attachments,0 None
+_58949fac86f77409483e16aa,MPX Charge,Attachments,0 None
+_5c6165902e22160010261b28,SRD 9,Attachments,0 None
+_5cadd954ae921500103bb3c2,SM M9,Attachments,0 None
+_56ea7293d2720b8d4b8b45ba,SM220-239,Attachments,0 None
+_5448fe7a4bdc2d6f028b456b,Sights,Parent Element,-1 Blacklist
+_5ac78a9b86f7741cca0bbd8d,Jammer,Special,0 None
+_5abccb7dd8ce87001773e277,APB,Weapons P,0 None
+_550aa4cd4bdc2dd8348b456c,Silencer,Parent Element,-1 Blacklist
+_5abcc328d8ce8700194394f3,APB 9x18PM,Attachments,0 None
+_5b363dea5acfc4771e1c5e7e,SilencerCo choke adapter for 12ga shotguns,Attachments,0 None
+_59bffbb386f77435b379b9c2,Hybrid 46,Attachments,3 High
+_5a32a064c4a28200741e22de,Osprey 9,Attachments,1 Low
+_5b363dd25acfc4001a598fd2,Salvo 12,Attachments,3 High
+_5b363e1b5acfc4771e1c5e80,Thread adapter,Attachments,0 None
+_5d1b39a386f774252339976f,Tube,Barter Items,0 None
+_5bc9bdb8d4351e003562b8a1,Badge,Barter Items,3 High
+_574d967124597745970e7c94,SKS,Weapons AC,0 None
+_587e02ff24597743df3deaeb,OP-SKS,Weapons AC,4 Ultra
+_5af04e0a86f7743a532b79e2,Single-axis Fiber Optic Gyroscope 1,Quest,0 None
+_5b4c72fb86f7745cef1cffc5,Single-axis Fiber Optic Gyroscope 2,Quest,0 None
+_5b07db875acfc40dc528a5f6,TD120001,Attachments,3 High
+_5ab8f20c86f7745cdb629fb2,Shmaska,Vanity,0 None
+_574db213245977459a2f3f5d,SKS Rear,Attachments,0 None
+_5c0e66e2d174af02a96252f4,Tan,Attachments,0 None
+_5bd06f5d86f77427101ad47c,Slender mask,Vanity,0 None
+_544fb6cc4bdc2d34748b456e,Slickers,Food,0 None
+_5a29357286f77409c705e025,Sliderkey Flash drive,Quest,0 None
+_590c62a386f77412b0130255,Sliderkey Secure Flash drive,Quest,0 None
+_590c651286f7741e566b6461,Slim diary,Barter Items,3 High
+_5d235bb686f77443f4331278,SICC,Container,5 Super
+_5447b5e04bdc2d62278b4567,SMG,Parent Element,-1 Blacklist
+_5e2af00086f7746d3f3c33f7,Cleaner,Barter Items,0 None
+_5a0eb38b86f774153b320eb0,SMW,Keys,0 None
+_5447b6254bdc2dc3278b4568,Sniper rifle,Parent Element,-1 Blacklist
+_5c13cd2486f774072c757944,Soap,Barter Items,0 None
+_5aafa1c2e5b5b00015042a56,unthreaded,Attachments,0 None
+_5ab3afb2d8ce87001660304d,threaded,Attachments,0 None
+_59e35abd86f7741778269d82,Sodium,Barter Items,0 None
+_5d5d8ca986f7742798716522,SOE Micro Rig,Chest Rig,0 None
+_5df8a58286f77412631087ed,Tank helmet,Helmet,0 None
+_5827272a24597748c74bdeea,MTU002 L,Attachments,0 None
+_58272b392459774b4c7b3ccd,MTU002 S,Attachments,0 None
+_58272b842459774abc128d50,CSS-SRM-L,Attachments,0 None
+_576169e62459773c69055191,Sb.7-1,Attachments,0 None
+_576167ab2459773cad038c43,SOK-12 P.T.,Attachments,0 None
+_5c010e350db83400232feec7,SP-8,Weapons M,0 None
+_590a3c0a86f774385a33c450,Plug,Barter Items,0 None
+_5447e0e74bdc2d3c308b4567,Special item,Parent Element,-1 Blacklist
+_55818aeb4bdc2ddc698b456a,Special scope,Parent Element,-1 Blacklist
+_57838ad32459774a17445cd2,VSS,Weapons DMR,4 Ultra
+_5447bee84bdc2dc3278b4569,Special weapon,Parent Element,-1 Blacklist
+_5a788089c5856700142fdd9c,Speedfeed,Attachments,0 None
+_5a9ea27ca2750c00137fa672,Dynacomp,Attachments,0 None
+_5e4abc1f86f774069619fbaa,Bank Robber,Chest Rig,0 None
+_5e4abfed86f77406a2713cf7,Tarzan,Chest Rig,0 None
+_5aafa857e5b5b00018480968,M1A,Weapons DMR,4 Ultra
+_57347d8724597744596b4e76,Squash,Food,2 Medium
+_59f99a7d86f7745b134aa97b,9x21 SR1-MP,Attachments,0 None
+_5a27bad7c4a282000b15184b,SR1MP 4x,Attachments,0 None
+_5a27b6bec4a282000e496f78,SR1MP,Attachments,0 None
+_5a27b3d0c4a282000d721ec1,SR1MP s.mount,Attachments,0 None
+_5a27b281c4a28200741e1e52,SR1MP 1x,Attachments,0 None
+_5c4ee3d62e2216152006f302,Mk.2.0,Attachments,0 None
+_5cc9a96cd7f00c011c04e04a,SRVV,Attachments,0 None
+_5cc9ad73d7f00c000e2579d4,SRVV 7.62x39 AK muzzlebrake & compensator,Attachments,0 None
+_590c392f86f77444754deb29,SSD,Barter Items,3 High
+_5c06c6a80db834001b735491,1968 steel helmet,Helmet,0 None
+_5ab8ebf186f7742d8b372e80,Attack 2,Backpack,5 Super
+_5aa7d193e5b5b000171d063f,Sphere-S,Helmet,0 None
+_5661632d4bdc2d903d8b456b,Stackable item,Parent Element,-1 Blacklist
+_57d14e1724597714010c3f4b,PP91 Std,Attachments,0 None
+_57d1519e24597714373db79d,Standard 9x18PM 30-round magazine for PP-91,Attachments,0 None
+_5de8e8dafd6b4e6e2276dc32,MP9 15,Attachments,0 None
+_5de8ea8ffd6b4e6e2276dc35,MP9 20,Attachments,0 None
+_5de8eaadbbaf010b10528a6d,MP9 25,Attachments,0 None
+_5de8eac42a78646d96665d91,MP9 30,Attachments,0 None
+_5a17fb03fcdbcbcae668728f,APS std.,Attachments,0 None
+_5d2f213448f0355009199284,Standard MP5 20-round 9x19 magazine,Attachments,0 None
+_5926c3b286f774640d189b6b,9x19 MP5,Attachments,0 None
+_5ba264f6d4351e0034777d52,MP7 20,Attachments,0 None
+_5ba2657ed4351e0035628ff2,MP7 30,Attachments,0 None
+_5ba26586d4351e44f824b340,MP7 40,Attachments,0 None
+_5c5db6552e2216001026119d,Standard MPX 20-round 9x19 magazine,Attachments,0 None
+_5894a05586f774094708ef75,9x19 MPX,Attachments,0 None
+_599860ac86f77436b225ed1a,9x19 PP-19-01,Attachments,0 None
+_571a282c2459771fb2755a69,TT grips,Attachments,0 None
+_5c7d560b2e22160bc12c6139,AMSS,Attachments,0 None
+_59db3acc86f7742a2c4ab912,Stark AR RG,Attachments,0 None
+_59db3b0886f77429d72fb895,Stark AR Rifle Grip (FDE) for AR-15-compatible weapons,Attachments,0 None
+_566abbb64bdc2d144c8b457d,Stash,Parent Element,-1 Blacklist
+_566abbc34bdc2d92178b4576,Stash 10x23,Stash,0 None
+_5811ce572459770cba1a34ea,Stash 10x33,Stash,0 None
+_5811ce662459770f6f490f32,Stash 10x43,Stash,0 None
+_5811ce772459770e9e5f9532,Stash 10x63,Stash,0 None
+_5963866b86f7747bfa1c4462,Stash 8x40,Stash,0 None
+_5963866286f7747bf429b572,Stash 8x6,Stash,0 None
+_567583764bdc2d98058b456e,Stationary container,Parent Element,-1 Blacklist
+_5a17f98cfcdbcb0980087290,APS,Weapons P,0 None
+_5d2369418abbc306c62e0c80,Dbal PL,Attachments,0 None
+_5448f3a64bdc2d60728b456a,Stimulator,Parent Element,-1 Blacklist
+_5c6d5d8b2e221644fc630b39,Stngr Vypr,Attachments,0 None
+_55818a594bdc2db9688b456a,Stock,Parent Element,-1 Blacklist
+_5bfe7fb30db8340018089fed,12003,Attachments,0 None
+_56e05b06d2720bb2668b4586,PB-S,Attachments,0 None
+_5734770f24597738025ee254,Strike Cigarettes,Barter Items,0 None
+_5a9d6d21a2750c00137fa649,Bridge,Attachments,0 None
+_5c6d11152e2216000f2003e7,CRUX Handguard,Attachments,0 None
+_5a7b32a2e899ef00135e345a,G4,Attachments,0 None
+_5a9d6d00a2750c5c985b5305,4 in. SI,Attachments,0 None
+_5a9d6d13a2750c00164f6b03,6In. SI,Attachments,0 None
+_5a9d56c8a2750c0032157146,TRAX 1,Attachments,0 None
+_5a9d6d34a2750c00141e07da,TRAX 2,Attachments,0 None
+_5d00e0cbd7ad1a6c6566a42d,Viper,Attachments,0 None
+_5d00f63bd7ad1a59283b1c1e,Strike Industries Viper carbine length M-LOK foregrip (FDE) for AR-15,Attachments,0 None
+_59984ab886f7743e98271174,PP-19-01,Weapons SMG,0 None
+_5c7fb51d2e2216001219ce11,SF3P,Attachments,0 None
+_55d6190f4bdc2d87028b4567,M MONSTER,Attachments,0 None
+_55d614004bdc2d86028b4568,MONSTER,Attachments,0 None
+_5c6d710d2e22165df16b81e7,WarComp,Attachments,0 None
+_5a7b483fe899ef0016170d15,XC1,Attachments,0 None
+_5d02797c86f774203f38e30a,Surv12,Meds,2 Medium
+_5e2af37686f774755a234b65,SurvL ,Barter Items,0 None
+_56083eab4bdc2d26448b456a,SV-98 HR,Attachments,0 None
+_55801eed4bdc2d89578b4588,SV-98,Weapons SR,4 Ultra
+_560e620e4bdc2d724b8b456b,SV-98 STD,Attachments,0 None
+_5dff8db859400025ea5150d4,SVD Low,Attachments,0 None
+_5c46fbd72e2216398b5a8c9c,SVDS,Weapons DMR,4 Ultra
+_5c471ba12e221602b3137d76,SVDS fs,Attachments,0 None
+_5c471c842e221615214259b5,SVDS G.Tube,Attachments,0 None
+_5c471b7e2e2216152006e46c,SVDS rs.,Attachments,0 None
+_5c471c2d2e22164bef5d077f,SVDS LB,Attachments,0 None
+_593a87af86f774122f54a951,Syringe with a chemical,Quest,0 None
+_5c0a840b86f7742ffa4f2482,T H I C C,Container,5 Super
+_5b6d9ce188a4501afc1b2b25,T H I C C Weapon case,Container,5 Super
+_5df36948bb49d91fb446d5ad,T-5000 pad,Attachments,0 None
+_5c110624d174af029e69734c,T-7,Attachments,5 Super
+_59db7eed86f77461f8380365,TA51,Attachments,0 None
+_5bbde41ed4351e003562b038,pgmn,Attachments,0 None
+_5bbdb83fd4351e44f824c44b,Tanker,Attachments,0 None
+_5648b6ff4bdc2d3d1c8b4581,TT 10000,Attachments,3 High
+_5649d9a14bdc2d79388b4580,TT01,Attachments,3 High
+_5aa2ba19e5b5b00014028f4e,Fleece,Vanity,0 None
+_557ff21e4bdc2d89578b4586,TGlass,Vanity,0 None
+_5ab8f04f86f774585f4237d8,Sling,Backpack,0 None
+_5a0abb6e1526d8000a025282,TT AKM,Attachments,0 None
+_558032614bdc2de7118b4585,Tango Down Stubby BGV-MK46K tactical grip Black,Attachments,0 None
+_58c157be86f77403c74b2bb6,Tango Down Stubby BGV-MK46K tactical grip FDE,Attachments,0 None
+_58c157c886f774032749fb06,BGV-MK46K,Attachments,0 None
+_5afd7e095acfc40017541f61,TAPCO Tube,Attachments,0 None
+_5afd7ded5acfc40017541f5e,Tapco intrafuse stock,Attachments,0 None
+_5947f92f86f77427344a76b1,SAW,Attachments,0 None
+_5b099b965acfc400186331e6,SAW SA-58,Attachments,0 None
+_5947fa2486f77425b47c1a9b,TAPCO SAW-Style FDE pistol grip for AK,Attachments,0 None
+_5afd7e445acfc4001637e35a,SAW SKS,Attachments,0 None
+_57514643245977207f2c2d09,TarCola,Food,2 Medium
+_5d1b198cd7ad1a604869ad72,TDI AKM-L handguard for AK,Attachments,0 None
+_5d4aaa73a4b9365392071175,AKM-L,Attachments,0 None
+_5d4aaa54a4b9365392071170,TDI AKM-L handguard for AK Anodized Red,Attachments,0 None
+_5e00c1ad86f774747333222c,Team Wendy EXFIL Ballistic Helmet Black,Helmet,4 Ultra
+_5e01ef6886f77445f643baa4,EXFIL,Helmet,4 Ultra
+_590c639286f774151567fa95,Manual,Barter Items,0 None
+_5d6fd45b86f774317075ed43,Technical Supply Crate,Lootable,0 None
+_5c94bbff86f7747ee735c08f,Keycard,Keys,3 High
+_5c12620d86f7743f8b198b72,Tetriz,Barter Items,3 High
+_5bc5a351d4351e003477a414,TPP,Attachments,0 None
+_564caa3d4bdc2d17108b458e,TGP-A,Attachments,1 Low
+_5a0448bc86f774736f14efa8,The key to the closed premises of the sanatorium,Quest,0 None
+_5913877a86f774432f15d444,Storage,Keys,0 None
+_5d21f59b6dbe99052b54ef83,ThermalVision,Parent Element,-1 Blacklist
+_5c4eec9b2e2216398b5aaba2,Thread adapter 7.62x54 for SV-98,Attachments,0 None
+_59e8a00d86f7742ad93b569c,Thread protection for AKM/VPO-209,Attachments,0 None
+_5a6b585a8dc32e5a9c28b4f1,AW TP,Attachments,0 None
+_5d3eb59ea4b9361c284bb4b2,57 tr. 5.7x28,Attachments,0 None
+_5a6b5e468dc32e001207faf5,Glock 9x19 DD,Attachments,0 None
+_5a6b5b8a8dc32e001207faf3,Glock 9x19 AW,Attachments,0 None
+_5a6b5ed88dc32e000c52ec86,Glock 9x19 SAI,Attachments,0 None
+_5cadc1c6ae9215000f2775a4,M9A3 tr. 9x19,Attachments,0 None
+_587de4282459771bca0ec90b,P226 tr. 9x19,Attachments,0 None
+_543be6564bdc2df4348b4568,Throwable weapon,Parent Element,-1 Blacklist
+_5d440625a4b9361eec4ae6c5,223CB,Attachments,0 None
+_5d443f8fa4b93678dd4a01aa,30CB,Attachments,0 None
+_5d44064fa4b9361e4f6eb8b5,Ultra 5,Attachments,0 None
+_5cf79599d7f00c10875d9212,TR,Attachments,0 None
+_5c6beec32e221601da3578f2,TJ,Attachments,0 None
+_5c13cef886f774072e618e82,TP,Barter Items,0 None
+_57864bb7245977548b3b66c2,Tool,Parent Element,-1 Blacklist
+_5909d50c86f774659e6aaebe,Toolbox,Lootable,0 None
+_57347c93245977448d35f6e3,Toothpaste,Barter Items,0 None
+_5a29284f86f77463ef3db363,Toughbook reinforced laptop,Quest,0 None
+_5a38eecdc4a282329a73b512,TOZ-106 PG,Attachments,0 None
+_59eb7ebe86f7740b373438ce,6P29M,Attachments,0 None
+_5a38ef1fc4a282000b1521f6,TOZ-106 Stock,Attachments,0 None
+_5a38e6bac4a2826c6e06d79b,TOZ-106,Weapons SG,0 None
+_5c61627a2e22160012542c55,106 mount,Attachments,0 None
+_5913611c86f77479e0084092,Trailer park cabin key,Keys,0 None
+_56e33680d2720be2748b4576,T-Bag,Backpack,0 None
+_59db7e1086f77448be30ddf3,TA11D,Attachments,0 None
+_5c05295e0db834001a66acbb,Trij.Bck-up,Attachments,0 None
+_5c05293e0db83400232fff80,TA01NSN,Attachments,0 None
+_5c052a900db834001a66acbd,Trijicon ACOG TA01NSN 4x32 scope TAN,Attachments,0 None
+_5a1eaa87fcdbcb001865f75e,REAP-IR,Attachments,5 Super
+_5a32aa8bc4a2826c6e06d737,RMR,Attachments,0 None
+_5a32aa0cc4a28232996e405f,RM50,Attachments,0 None
+_5a33bab6c4a28200741e22f8,RM35,Attachments,0 None
+_5d2da1e948f035477b1ce2ba,SRS-02,Attachments,0 None
+_5ca20abf86f77418567a43f2,Triton,Chest Rig,0 None
+_59fb137a86f7740adb646af1,Monster Claw,Attachments,0 None
+_5c6d46132e221601da357d56,Battlemag,Attachments,0 None
+_5cc9b815d7f00c000e2579d6,Claymore,Attachments,0 None
+_5c6c2c9c2e2216000f2002e4,Troy M-LOK,Attachments,0 None
+_591aef7986f774139d495f03,Troy M7A1 PDW stock,Attachments,0 None
+_591af10186f774139d495f0e,M7A1PDW,Attachments,0 None
+_5b4736a986f774040571e998,QARS 3.2in.,Attachments,0 None
+_5b4736b986f77405cb415c10,QARS 4.2in.,Attachments,0 None
+_5ab372a310e891001717f0d8,S.A.S.S.,Attachments,0 None
+_5a7d9104159bd400134c8c21,Truglo TFX Glock front sight,Attachments,0 None
+_5a7d912f159bd400165484f3,Glock TFX,Attachments,0 None
+_57347cd0245977445a2d6ff1,T-Plug,Barter Items,0 None
+_57c450252459772d28133253,VAL Stock,Attachments,0 None
+_56e05a6ed2720bd0748b4567,Bakelite PB,Attachments,0 None
+_578395e82459774a0e553c7b,VSS Stock,Attachments,0 None
+_571a12c42459771f627b58a0,TT,Weapons P,0 None
+_5b3b713c5acfc4330140bd8d,TT (gold),Weapons P,0 None
+_571a29dc2459771fb2755a6a,TT-105,Attachments,0 None
+_5e2af22086f7746d3f3c33fa,Poxeram,Barter Items,0 None
+_5e00cdd986f7747473332240,FShield,Attachments,4 Ultra
+_5e01f37686f774773c6f6c15,TW EXFIL Ballistic helmet face shield (coyote),Attachments,4 Ultra
+_5e00cfa786f77469dc6e5685,TW EXFIL Ear Covers Black,Attachments,0 None
+_5e01f31d86f77465cf261343,TW Ears,Attachments,0 None
+_5d2c772c48f0355d95672c25,Dog leg,Attachments,0 None
+_55818b014bdc2ddc698b456b,UBGL,Parent Element,-1 Blacklist
+_5947e98b86f774778f1448bc,UBR GEN2 black stock,Attachments,0 None
+_5947eab886f77475961d96c5,UBR GEN2,Attachments,0 None
+_5c052fb986f7746b2101e909,RFIDR,Barter Items,5 Super
+_59ccfdba86f7747f2109a587,M1-B,Attachments,0 None
+_5648b2414bdc2d3b4c8b4578,UltiMAK M1-B handguard for AK,Attachments,0 None
+_5e42c71586f7747f245e1343,Med.St.,Keys,5 Super
+_57d17c5e2459775a5c57d17d,WF501B,Attachments,0 None
+_590a3d9c86f774385926e510,UV Lamp,Barter Items,0 None
+_5a7b4900e899ef197b331a2a,UM3,Attachments,0 None
+_5929a2a086f7744f4b234d43,6sh112,Chest Rig,0 None
+_593962ca86f774068014d9af,Unk. key,Keys,0 None
+_5aa7d03ae5b5b00016327db5,UNTAR,Helmet,0 None
+_5a1ead28fcdbcb001912fa9f,DLOC-IRD,Attachments,0 None
+_5c0e2f26d174af02a9625114,2-15 Upper,Attachments,0 None
+_5e0090f7e9dc277128008b93,Upper receiver B&T 9x19 for MP9 SMG,Attachments,0 None
+_5de8e67c4a9f347bc92edbd7,MP9-N Upper,Attachments,0 None
+_55d355e64bdc2d962f8b4569,M4A1 Upper,Attachments,0 None
+_5bb20d53d4351e4502010a69,416A5 Upper,Attachments,0 None
+_5df8e4080b92095fd441e594,SR-25 Upper,Attachments,0 None
+_5894a5b586f77426d2590767,MPX 1 gen.,Attachments,0 None
+_5d123102d7ad1a004e475fe5,"URX 3 8""",Attachments,0 None
+_5d122e7bd7ad1a07102d6d7f,"URX 3.1 10.75""",Attachments,0 None
+_5df916dfbb49d91fb446d6b9,"URX-4 14.5""",Attachments,0 None
+_5c6bf4aa2e2216001219b0ae,US Palm AK,Attachments,0 None
+_5909e99886f7740c983b9984,USB-A,Barter Items,0 None
+_5aa2a7e8e5b5b00016327c16,USEC,Barter Items,0 None
+_5b40e61f5acfc4001a599bec,USEC baseball cap black,Vanity,0 None
+_5da743f586f7744014504f72,USEC key,Keys,5 Super
+_59e7708286f7742cbd762753,Ushanka,Vanity,0 None
+_5cf639aad7f00c065703d455,USP-1 eyecup,Attachments,0 None
+_55d4af3a4bdc2d972f8b456f,LPA2F,Attachments,0 None
+_593d1fa786f7746da62d61ac,SKS SOCOM,Attachments,0 None
+_5aa2ba46e5b5b000137b758d,UXPRO,Vanity,0 None
+_5e2af51086f7746d3f3c3402,UZGRM grenade fuze,Barter Items,0 None
+_5c0505e00db834001b735073,1P87,Attachments,0 None
+_5c0517910db83400232ffee5,PS320 1/6x,Attachments,0 None
+_5755383e24597772cb798966,Vaseline,Meds,2 Medium
+_5913651986f774432f15d132,Sixpack,Keys,0 None
+_5df8a42886f77412640e2e75,MPPV,Chest Rig,4 Ultra
+_5c7951452e221644f31bfd5c,Antidote,Attachments,0 None
+_59e6687d86f77411d949b251,AKM/VPO-209,Weapons AR,0 None
+_5c501a4d2e221602b412b540,Hunter,Weapons AC,0 None
+_59e6152586f77473dc057aa1,Vepr KM/VPO-136,Weapons AR,0 None
+_591af28e86f77414a27a9e1d,UVG Tactical,Attachments,0 None
+_5c05308086f7746b2101e90b,Virtex,Barter Items,5 Super
+_5448e5724bdc2ddf718b4568,Visors,Parent Element,-1 Blacklist
+_57513fcc24597720a31c09a6,Vita juice,Food,0 None
+_59bfc5c886f7743bf6794e62,Vityaz sil.,Attachments,0 None
+_5ab8ee7786f7742d8f33f0b9,ArmyBag,Backpack,0 None
+_5b7be4575acfc400161d0832,2 in. Vltor,Attachments,0 None
+_5b7be4645acfc400170e2dcc,4 in. Vltor,Attachments,0 None
+_5b7be46e5acfc400170e2dcf,5 in.Vltor,Attachments,0 None
+_5b7bedd75acfc43d825283f9,CASV FAL Handguard,Attachments,0 None
+_5b7bee755acfc400196d5383,CASV FAS Handguard,Attachments,0 None
+_59e0bdb186f774156f04ce82,2In. CASV,Attachments,0 None
+_59e0be5d86f7742d48765bd2,4 in. CASV,Attachments,0 None
+_59e0bed186f774156f04ce84,6In. CAS,Attachments,0 None
+_5c17664f2e2216398b5a7e3c,CMRD,Attachments,1 Low
+_59bfe68886f7746004266202,MUR-1S Upper,Attachments,1 Low
+_5e32f56fcb6d5863cc5e5ee4,VOG-17,Weapons T,1 Low
+_5e340dcdcb6d5863cc5e5efb,VOG-25,Weapons T,1 Low
+_5dff772da3651922b360bf91,VOMZ Pilad 4x32 riflescope,Attachments,0 None
+_584984812459776a704a82a6,P1X42,Attachments,0 None
+_5addbba15acfc400185c2854,Vortex DC,Attachments,0 None
+_59f9d81586f7744c7506ee62,UH-1,Attachments,0 None
+_5c5039be2e221602b177c9ff,VPO-101 G.Tube,Attachments,0 None
+_5c503b1c2e221602b21d6e9d,Vepr Rear,Attachments,0 None
+_5de6556a205ddc616a6bc4f7,215 Pr.,Attachments,0 None
+_5c05300686f7746dce784e5d,VPX,Barter Items,3 High
+_5cf656f2d7f00c06585fb6eb,VS-24 Handguard with a VS-33c gas block combo for AK,Attachments,0 None
+_5d4aab30a4b9365435358c55,VS Combo,Attachments,0 None
+_57838c962459774a1651ec63,VSS suppressor,Attachments,0 None
+_578395402459774a256959b5,Ksk VSS,Attachments,0 None
+_57838e1b2459774a256959b1,VSS Rear,Attachments,0 None
+_5b3b6e495acfc4330140bd88,Vulcan MG 3.5x,Attachments,0 None
+_5b3cbc235acfc4001863ac44,Vulcan MG eyecup,Attachments,0 None
+_5ca20ee186f774799474abc2,LShZ-5,Helmet,0 None
+_5ca2113f86f7740b2547e1d2,Vulkan-5 face shield (85/85),Attachments,0 None
+_544901bf4bdc2ddf018b456d,Wad of roubles,Money,0 None
+_5e4d34ca86f774264f758330,Razor,Headset,4 Ultra
+_570fd721d2720bc5458b4596,MRS,Attachments,0 None
+_5ca20d5986f774331e7c9602,Berkut,Backpack,0 None
+_59e7643b86f7742cbf2c109a,"TV-109, TV-106",Chest Rig,0 None
+_5ab8dab586f77441cd04f2a2,TV-104,Chest Rig,4 Ultra
+_5c0e746986f7741453628fe5,TV-110,Armored Rig,4 Ultra
+_5c0fa877d174af02a012e1cf,Aquamari,Food,2 Medium
+_5d1b385e86f774252167b98a,Water filter,Barter Items,0 None
+_590c5bbd86f774785762df04,WD-40 100ml.,Barter Items,0 None
+_590c5c9f86f77477c91c36e7,WD-40,Barter Items,0 None
+_5422acb9af1c889c16000029,Weapon,Parent Element,-1 Blacklist
+_5909d89086f77472591234a0,W. Box (5x5),Lootable,0 None
+_5909d76c86f77471e53d2adf,W. Box (6x3),Lootable,0 None
+_5909d7cf86f77470ee57d75a,Weapon box (4x4),Lootable,0 None
+_5909d5ef86f77467974efbd8,Weapon box (5x2),Lootable,0 None
+_59fb023c86f7746d0d4b423c,WCase,Container,5 Super
+_5448fe124bdc2da5018b4567,Weapon mod,Parent Element,-1 Blacklist
+_5d1c819a86f774771b0acd6c,W.parts,Barter Items,0 None
+_59148f8286f7741b951ea113,Safe,Keys,0 None
+_5cf67a1bd7f00c06585fb6f3,WT1052,Attachments,0 None
+_5cf67cadd7f00c065a5abab7,WT0032-1,Attachments,0 None
+_5910968f86f77425cf569c32,Weapons repair kit,Unknown,0 None
+_5a0f006986f7741ffd2fe484,Weather safe key,Keys,3 High
+_5bfebc530db834001d23eb65,Multi-slot,Attachments,0 None
+_5a144dfd86f77445cb5a0982,San.203,Keys,3 High
+_5a0ec6d286f7742c0b518fb5,San.205,Keys,3 High
+_5a0ec70e86f7742c0b518fba,San.207,Keys,3 High
+_5a0ee30786f774023b6ee08f,San.216,Keys,5 Super
+_5a13eebd86f7746fd639aa93,San.218,Keys,3 High
+_5a13ef0686f7746e5a411744,San.219,Keys,3 High
+_5a0ee34586f774023b6ee092,San.220,Keys,3 High
+_5a0ee37f86f774023657a86f,San.221,Keys,3 High
+_5a1452ee86f7746f33111763,San.222W,Keys,3 High
+_5a13ef7e86f7741290491063,San.301,Keys,5 Super
+_5a0eeb1a86f774688b70aa5c,San.303,Keys,3 High
+_5a13f46386f7741dd7384b04,San.306,Keys,3 High
+_5a0eeb8e86f77461257ed71a,San.309,Keys,3 High
+_5a13ee1986f774794d4c14cd,San.323,Keys,3 High
+_5a0eebed86f77461230ddb3d,San.325,Keys,3 High
+_5b4391a586f7745321235ab2,Camera,Special,0 None
+_5c11046cd174af02a012e42b,Wilcox Interface for PVS-7,Attachments,0 None
+_5a16bb52fcdbcb001a3b00dc,SLock,Helmet,0 None
+_573476f124597737e04bf328,Cigarettes,Barter Items,0 None
+_56ea8d2fd2720b7c698b4570,PICBLOCK,Attachments,0 None
+_5c06779c86f77426e00dd782,Wires,Barter Items,0 None
+_5bc5a35cd4351e450201232f,Witt,Attachments,0 None
+_59d64f2f86f77417193ef8b3,6P1 Sb.6-1,Attachments,0 None
+_5648b0744bdc2d363b8b4578,6P20 Sb.6,Attachments,0 None
+_59e898ee86f77427614bd225,Wooden AKM / VPO-209 handguard,Attachments,0 None
+_57dc32dc245977596d4ef3d3,6P26 Sb.6,Attachments,0 None
+_5909d45286f77465a8136dc6,Wood ammobox,Lootable,0 None
+_5d2c829448f0353a5c7d6674,WASR 10-63,Attachments,0 None
+_59e3647686f774176a362507,Clock,Barter Items,0 None
+_578f87ad245977356274f2cc,Wooden crate,Lootable,0 None
+_5a0071d486f77404e23a12b2,AKM wood,Attachments,0 None
+_5c00076d0db834001d23ee1f,Wooden Elite P226,Attachments,0 None
+_574dad8024597745964bf05c,56-A-231 Sb.5,Attachments,0 None
+_587e0531245977466077a0f7,OP-SKS W.s.,Attachments,0 None
+_56083cba4bdc2de22e8b456f,133/153 W.s.,Attachments,0 None
+_59e6284f86f77440d569536f,Wooden VPO-136 handguard,Attachments,0 None
+_5900b89686f7744e704a8747,Woods,Tools,0 None
+_5a29276886f77435ed1b117c,Working hard drive,Quest,0 None
+_5d1b304286f774253763a528,LCD,Barter Items,0 None
+_590c311186f77424d1667482,Wrench,Barter Items,0 None
+_5a351711c4a282000b1521a4,X-5 MP5,Attachments,0 None
+_5addccf45acfc400185c2989,X-14,Attachments,0 None
+_56def37dd2720bec348b456a,X400,Attachments,0 None
+_5cfe8010d7ad1a59283b14c6,X-47 7.62,Attachments,0 None
+_590c346786f77423e50ed342,Xeno,Barter Items,0 None
+_5b7bef9c5acfc43d102852ec,X-FAL 7.62,Attachments,0 None
+_5a957c3fa2750c00137fa5f7,XRSU47SU,Attachments,0 None
+_5a78948ec5856700177b1124,XS Short,Attachments,0 None
+_576a581d2459771e7b1bc4f1,"MP-443 ""Grach""",Weapons P,0 None
+_591ae8f986f77406f854be45,Yotota,Keys,0 None
+_5a0c27731526d80618476ac4,Zarya,Weapons T,1 Low
+_5c617a5f2e2216000f1e81b3,B-10,Attachments,0 None
+_5649af884bdc2d1b2b8b4589,B-33,Attachments,0 None
+_5649ab884bdc2ded0b8b457f,DTK-1,Attachments,0 None
+_59fb257e86f7742981561852,DTK-4M,Attachments,0 None
+_5c5952732e2216398b5abda2,Perst-3,Attachments,0 None
+_5b222d405acfc400153af4fe,PT-1,Attachments,0 None
+_59ecc3dd86f7746dc827481c,PT-3,Attachments,0 None
+_5c1bc4812e22164bef5cfde7,RK-0,Attachments,0 None
+_5c1bc5612e221602b5429350,RK-1,Attachments,0 None
+_5c1cd46f2e22164bef5cfedb,B-25U RK-1,Attachments,3 High
+_5c1bc5af2e221602b412949b,RK-2,Attachments,0 None
+_5649ae4a4bdc2d1b2b8b4588,RK-3,Attachments,0 None
+_5c1bc5fb2e221602b1779b32,RK-4,Attachments,0 None
+_5c1bc7432e221602b412949d,RK-5,Attachments,0 None
+_5c1bc7752e221602b1779b34,RK-6,Attachments,0 None
+_5648ac824bdc2ded0b8b457d,RP-1,Attachments,0 None
+_5c82342f2e221644f31c060e,PSO 1,Attachments,0 None
+_5c82343a2e221644f31c0611,PSO 1M2,Attachments,0 None
+_576fd4ec2459777f0b518431,PSO 1M2-1,Attachments,0 None
+_5a71e22f8dc32e00094b97f4,G ZT Hex,Attachments,0 None
+_5a71e1868dc32e00094b97f3,ZT AP,Attachments,0 None
+_5c0e5edb86f77461f55ed1f7,Zhuk-3,Armor Vest,0 None
+_5c0e625a86f7742d77340f62,Zhuk-6a,Armor Vest,4 Ultra
+_5b0e794b5acfc47a877359b2,Zhukov-S,Attachments,1 Low
+_56742c2e4bdc2d95058b456d,Zibbo,Barter Items,0 None
+_5939a00786f7742fe8132936,Zibbo,Quest,0 None
+_57d152ec245977144076ccdf,PP91 Pol,Attachments,0 None
+_5aa7e3abe5b5b000171d064d,ZSh-1-2M face shield (50/50),Attachments,0 None
+_5aa7e454e5b5b0214e506fa2,ZSh-1-2M,Helmet,0 None
+_5aa7e4a4e5b5b000137b76f2,ZSh-1-2M helmet (black),Helmet,0 None
+_5eb67cf81d7b7552f4acd3e7,PPSH-41 7.62x25,Weapons SMG,0 None
+_5eb67cf81d7b7552f4acd3e9,Colt M1911 Pistol,Weapons P,0 None
+_5e71f6be86f77429f2683c44,Special Twitch Rivals 2020 mask,Vanity,5 Super
+_5e71fad086f77422443d4604,Special Twitch Rivals 2020 half mask,Vanity,5 Super
+_5e71f70186f77429ee09f183,Rivals,Vanity,5 Super
+_5ea03f7400685063ec28bfa8,Submachinegun PPSH-41 7.62x25,Weapons SMG,0 None
+_5e81c3cbac2bb513793cdc75,M1911A1,Weapons P,0 None
+_5ea02bb600685063ec28bfa1,"10.6"" PPSH-41 7.62x25",Attachments,0 None
+_5e81c519cb2b95385c177551,M1911A1 .45,Attachments,0 None
+_5ea034eb5aad6446a939737b,35-round 7.62x25 magazine for PPSH-41,Attachments,0 None
+_5e81c4ca763d9f754677befa,M1911,Attachments,0 None
+_5ea034f65aad6446a939737e,71 PPSH,Attachments,0 None
+_5ea03e5009aa976f2e7a514b,PPSH-41 dc,Attachments,0 None
+_5e81edc13397a21db957f6a1,M1911A1 slide,Attachments,0 None
+_5ea03e9400685063ec28bfa4,PPSH-41 stock,Attachments,0 None
+_5e81c6bf763d9f754677beff,M1911A1 P.,Attachments,0 None
+_5e81c539cb2b95385c177553,M1911A1 Ca,Attachments,0 None
+_5e81c550763d9f754677befd,M1911A1 Ha,Attachments,0 None
+_5e81c6a2ac2bb513793cdc7f,M1911A1 Tri,Attachments,0 None
+_5e81ee213397a21db957f6a6,M1911A1 FS,Attachments,0 None
+_5e81ee4dcb2b95385c177582,M1911A1 RS,Attachments,0 None
