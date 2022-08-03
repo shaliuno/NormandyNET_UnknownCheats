@@ -168,6 +168,7 @@
     <Compile Include="Core\AssemblyInfo.cs" />
     <Compile Include="Core\Offsets.cs" />
     <Compile Include="Core\PacketStructure.cs" />
+    <Compile Include="Core\ResultStatus.cs" />
     <Compile Include="Helpers\AddressHelper.cs" />
     <Compile Include="Helpers\FastRandom.cs" />
     <Compile Include="Helpers\SigScanner.cs" />
@@ -234,7 +235,6 @@
     <Compile Include="Modules\DAYZ\ReaderDAYZ.cs" />
     <Compile Include="Core\SynchronousSocketDriverClient.cs" />
     <Compile Include="Core\OSD.cs" />
-    <Compile Include="Core\ResultStatus.cs" />
     <Compile Include="Core\Memory.cs" />
     <Compile Include="Modules\DAYZ\RendererDAYZ.cs" />
     <Compile Include="Modules\DAYZ\UI\SettingsFormDAYZ.cs">
