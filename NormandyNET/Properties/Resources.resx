@@ -268,15 +268,6 @@
   <data name="alertIcon_warning" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resources\alerticon_warning.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="lootItems_EFT" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\x64\Debug\lootItems_EFT.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
-  </data>
-  <data name="lootItems_DAYZ" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\x64\Debug\lootItems_DAYZ.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
-  </data>
-  <data name="lootItems_RUST" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\x64\Debug\lootItems_RUST.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
-  </data>
   <data name="icon_WarningSign" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_WarningSign.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -285,5 +276,14 @@
   </data>
   <data name="bones_eft" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\bones_eft.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="lootItems_DAYZ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\lootItems_DAYZ.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="lootItems_EFT" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\lootItems_EFT.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="lootItems_RUST" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\lootItems_RUST.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
   </data>
 </root>

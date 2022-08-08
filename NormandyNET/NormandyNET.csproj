@@ -92,12 +92,12 @@
       <HintPath>DLL\Newtonsoft.Json.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="OpenTK, Version=3.1.0.0, Culture=neutral, PublicKeyToken=bad199fe84eb3df4, processorArchitecture=MSIL">
-      <HintPath>packages\OpenTK.3.1.0\lib\net20\OpenTK.dll</HintPath>
+    <Reference Include="OpenTK">
+      <HintPath>..\..\NormandyNET\NormandyNET\DLL\OpenTK.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="OpenTK.GLControl, Version=3.1.0.0, Culture=neutral, PublicKeyToken=bad199fe84eb3df4, processorArchitecture=MSIL">
-      <HintPath>packages\OpenTK.GLControl.3.1.0\lib\net20\OpenTK.GLControl.dll</HintPath>
+    <Reference Include="OpenTK.GLControl">
+      <HintPath>..\..\NormandyNET\NormandyNET\DLL\OpenTK.GLControl.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="SharpDX">
@@ -595,6 +595,9 @@
     <None Include="OpenTK.dll.config" />
     <None Include="packages.config" />
     <None Include="Resources\lootItems.csv" />
+    <None Include="Resources\lootItems_DAYZ.csv" />
+    <None Include="Resources\lootItems_EFT.csv" />
+    <None Include="Resources\lootItems_RUST.csv" />
     <None Include="Resources\Nautilus.ico" />
   </ItemGroup>
   <ItemGroup>
@@ -724,9 +727,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\icon_Download.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Include="DLL\NormandyNET_InheritedForms.dll" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\icon_Download_Dark.png" />

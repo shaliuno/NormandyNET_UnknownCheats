@@ -42,7 +42,6 @@ namespace NormandyNET
             EmbeddedAssembly.Load("NormandyNET.DLL.SharpDX.Direct2D1.dll", "SharpDX.Direct2D1.dll");
             EmbeddedAssembly.Load("NormandyNET.DLL.SharpDX.DXGI.dll", "SharpDX.DXGI.dll");
             EmbeddedAssembly.Load("NormandyNET.DLL.SharpDX.Mathematics.dll", "SharpDX.Mathematics.dll");
-            EmbeddedAssembly.Load("NormandyNET.DLL.NormandyNET_InheritedForms.dll", "NormandyNET_InheritedForms.dll");
 
             AppDomain.CurrentDomain.AssemblyResolve += new ResolveEventHandler(CurrentDomain_AssemblyResolve);
             AppDomain.CurrentDomain.UnhandledException += new UnhandledExceptionEventHandler(OnUnhandledException);
